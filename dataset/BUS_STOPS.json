@@ -1,0 +1,4682 @@
+[
+{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":1
+,"OBJECTID":1
+,"BUSSTOPNUM":53500
+,"ONSTREET":"5 St"
+,"ATSTREET":"7 Av"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.920914782193"
+,"Y":"49.215417103307"
+,"json_geometry":{"type":"Point","coordinates":[-122.920914782193,49.215417103307]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":2
+,"OBJECTID":2
+,"BUSSTOPNUM":53502
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"4th St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.920924223565"
+,"Y":"49.2175640399245"
+,"json_geometry":{"type":"Point","coordinates":[-122.920924223565,49.2175640399245]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":3
+,"OBJECTID":3
+,"BUSSTOPNUM":53503
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"Park Cres"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.91351903794"
+,"Y":"49.2214664962382"
+,"json_geometry":{"type":"Point","coordinates":[-122.91351903794,49.2214664962382]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":4
+,"OBJECTID":4
+,"BUSSTOPNUM":53504
+,"ONSTREET":"E 8th Ave"
+,"ATSTREET":"Cumberland St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.908060207891"
+,"Y":"49.2244371238781"
+,"json_geometry":{"type":"Point","coordinates":[-122.908060207891,49.2244371238781]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":5
+,"OBJECTID":5
+,"BUSSTOPNUM":53505
+,"ONSTREET":"E 8th Ave"
+,"ATSTREET":"York St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.906324730153"
+,"Y":"49.2253806732748"
+,"json_geometry":{"type":"Point","coordinates":[-122.906324730153,49.2253806732748]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":6
+,"OBJECTID":6
+,"BUSSTOPNUM":53507
+,"ONSTREET":"E 8th Ave"
+,"ATSTREET":"Sherbrooke St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.900864483857"
+,"Y":"49.2282571193183"
+,"json_geometry":{"type":"Point","coordinates":[-122.900864483857,49.2282571193183]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":7
+,"OBJECTID":7
+,"BUSSTOPNUM":53508
+,"ONSTREET":"E 8th Ave"
+,"ATSTREET":"Richmond St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.897834655079"
+,"Y":"49.2298347037521"
+,"json_geometry":{"type":"Point","coordinates":[-122.897834655079,49.2298347037521]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":8
+,"OBJECTID":8
+,"BUSSTOPNUM":53509
+,"ONSTREET":"E 8th Ave"
+,"ATSTREET":"Buchanan Ave"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.895894123757"
+,"Y":"49.2308616599575"
+,"json_geometry":{"type":"Point","coordinates":[-122.895894123757,49.2308616599575]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":9
+,"OBJECTID":9
+,"BUSSTOPNUM":53575
+,"ONSTREET":"E 8th Ave"
+,"ATSTREET":"Buchanan Ave"
+,"DIRECTION":"SB"
+,"POSITION":"AT"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.896330536292"
+,"Y":"49.2307926180333"
+,"json_geometry":{"type":"Point","coordinates":[-122.896330536292,49.2307926180333]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":10
+,"OBJECTID":10
+,"BUSSTOPNUM":53576
+,"ONSTREET":"E 8th Ave"
+,"ATSTREET":"Richmond St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.899271455928"
+,"Y":"49.2292548987687"
+,"json_geometry":{"type":"Point","coordinates":[-122.899271455928,49.2292548987687]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":11
+,"OBJECTID":11
+,"BUSSTOPNUM":53577
+,"ONSTREET":"E 8th Ave"
+,"ATSTREET":"Cherry St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.90168528827"
+,"Y":"49.2279672648643"
+,"json_geometry":{"type":"Point","coordinates":[-122.90168528827,49.2279672648643]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":12
+,"OBJECTID":12
+,"BUSSTOPNUM":53578
+,"ONSTREET":"E 8th Ave"
+,"ATSTREET":"William St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.905033513747"
+,"Y":"49.2261972435699"
+,"json_geometry":{"type":"Point","coordinates":[-122.905033513747,49.2261972435699]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":13
+,"OBJECTID":13
+,"BUSSTOPNUM":53579
+,"ONSTREET":"E 8th Ave"
+,"ATSTREET":"York St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.907001622337"
+,"Y":"49.2251624553418"
+,"json_geometry":{"type":"Point","coordinates":[-122.907001622337,49.2251624553418]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":14
+,"OBJECTID":14
+,"BUSSTOPNUM":53581
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"Mcbride Blvd"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.912975602189"
+,"Y":"49.2219961794193"
+,"json_geometry":{"type":"Point","coordinates":[-122.912975602189,49.2219961794193]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":15
+,"OBJECTID":15
+,"BUSSTOPNUM":53582
+,"ONSTREET":"5 St"
+,"ATSTREET":"7 Av"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.92054606762"
+,"Y":"49.21494775538"
+,"json_geometry":{"type":"Point","coordinates":[-122.92054606762,49.21494775538]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":16
+,"OBJECTID":16
+,"BUSSTOPNUM":52167
+,"ONSTREET":"6 Av"
+,"ATSTREET":"16 St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.936731555824"
+,"Y":"49.2042243417953"
+,"json_geometry":{"type":"Point","coordinates":[-122.936731555824,49.2042243417953]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":17
+,"OBJECTID":17
+,"BUSSTOPNUM":52168
+,"ONSTREET":"6 Av"
+,"ATSTREET":"14 St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.933282338816"
+,"Y":"49.2060747123306"
+,"json_geometry":{"type":"Point","coordinates":[-122.933282338816,49.2060747123306]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":18
+,"OBJECTID":18
+,"BUSSTOPNUM":53498
+,"ONSTREET":"6 Av"
+,"ATSTREET":"12 St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.930157992542"
+,"Y":"49.2077539957938"
+,"json_geometry":{"type":"Point","coordinates":[-122.930157992542,49.2077539957938]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":19
+,"OBJECTID":19
+,"BUSSTOPNUM":53499
+,"ONSTREET":"6 Av"
+,"ATSTREET":"10 St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.926487114015"
+,"Y":"49.2097430233163"
+,"json_geometry":{"type":"Point","coordinates":[-122.926487114015,49.2097430233163]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":20
+,"OBJECTID":20
+,"BUSSTOPNUM":52487
+,"ONSTREET":"6th Ave"
+,"ATSTREET":"6th St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.919878644855"
+,"Y":"49.2132958774483"
+,"json_geometry":{"type":"Point","coordinates":[-122.919878644855,49.2132958774483]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":21
+,"OBJECTID":21
+,"BUSSTOPNUM":52488
+,"ONSTREET":"6 Av"
+,"ATSTREET":"4 St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.917400115011"
+,"Y":"49.2146682150799"
+,"json_geometry":{"type":"Point","coordinates":[-122.917400115011,49.2146682150799]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":22
+,"OBJECTID":22
+,"BUSSTOPNUM":53589
+,"ONSTREET":"6th Ave"
+,"ATSTREET":"2nd St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.91367919377"
+,"Y":"49.2166710190897"
+,"json_geometry":{"type":"Point","coordinates":[-122.91367919377,49.2166710190897]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":23
+,"OBJECTID":23
+,"BUSSTOPNUM":53590
+,"ONSTREET":"6th Ave"
+,"ATSTREET":"1st St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.911384115815"
+,"Y":"49.2179107554688"
+,"json_geometry":{"type":"Point","coordinates":[-122.911384115815,49.2179107554688]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":24
+,"OBJECTID":24
+,"BUSSTOPNUM":53594
+,"ONSTREET":"Richmond St"
+,"ATSTREET":"Cumberland St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.898670674085"
+,"Y":"49.2209241183254"
+,"json_geometry":{"type":"Point","coordinates":[-122.898670674085,49.2209241183254]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":25
+,"OBJECTID":25
+,"BUSSTOPNUM":53595
+,"ONSTREET":"Richmond St"
+,"ATSTREET":"Alberta St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.898615543174"
+,"Y":"49.2240292641885"
+,"json_geometry":{"type":"Point","coordinates":[-122.898615543174,49.2240292641885]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":26
+,"OBJECTID":26
+,"BUSSTOPNUM":53596
+,"ONSTREET":"Hospital St"
+,"ATSTREET":"Richmond St"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.898043192424"
+,"Y":"49.226459632082"
+,"json_geometry":{"type":"Point","coordinates":[-122.898043192424,49.226459632082]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":27
+,"OBJECTID":27
+,"BUSSTOPNUM":53597
+,"ONSTREET":"Hospital St"
+,"ATSTREET":"E Columbia St"
+,"DIRECTION":"EB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.893957059666"
+,"Y":"49.2264126141845"
+,"json_geometry":{"type":"Point","coordinates":[-122.893957059666,49.2264126141845]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":28
+,"OBJECTID":28
+,"BUSSTOPNUM":53511
+,"ONSTREET":"Braid St"
+,"ATSTREET":"Fader St"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.889717616768"
+,"Y":"49.2315129871766"
+,"json_geometry":{"type":"Point","coordinates":[-122.889717616768,49.2315129871766]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":29
+,"OBJECTID":29
+,"BUSSTOPNUM":53572
+,"ONSTREET":"Braid St"
+,"ATSTREET":"Rousseau St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.886830840839"
+,"Y":"49.2316492708982"
+,"json_geometry":{"type":"Point","coordinates":[-122.886830840839,49.2316492708982]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":30
+,"OBJECTID":30
+,"BUSSTOPNUM":53573
+,"ONSTREET":"Braid St"
+,"ATSTREET":"Fader St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.890634229135"
+,"Y":"49.231655848706"
+,"json_geometry":{"type":"Point","coordinates":[-122.890634229135,49.231655848706]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":31
+,"OBJECTID":31
+,"BUSSTOPNUM":53614
+,"ONSTREET":"Hospital St"
+,"ATSTREET":"Blair Av"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.897791210555"
+,"Y":"49.2265653916051"
+,"json_geometry":{"type":"Point","coordinates":[-122.897791210555,49.2265653916051]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":32
+,"OBJECTID":32
+,"BUSSTOPNUM":53615
+,"ONSTREET":"Richmond St"
+,"ATSTREET":"Keary St"
+,"DIRECTION":"SB"
+,"POSITION":"AT"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.898737779397"
+,"Y":"49.2253499665057"
+,"json_geometry":{"type":"Point","coordinates":[-122.898737779397,49.2253499665057]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":33
+,"OBJECTID":33
+,"BUSSTOPNUM":53616
+,"ONSTREET":"Richmond St"
+,"ATSTREET":"Alberta St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.89880977612"
+,"Y":"49.2230549590733"
+,"json_geometry":{"type":"Point","coordinates":[-122.89880977612,49.2230549590733]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":34
+,"OBJECTID":34
+,"BUSSTOPNUM":53617
+,"ONSTREET":"Cumberland St"
+,"ATSTREET":"Glenbrook Dr"
+,"DIRECTION":"WB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.899974981438"
+,"Y":"49.2206134339703"
+,"json_geometry":{"type":"Point","coordinates":[-122.899974981438,49.2206134339703]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":35
+,"OBJECTID":35
+,"BUSSTOPNUM":53620
+,"ONSTREET":"6 Av"
+,"ATSTREET":"Mcbride Blvd"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.908993741198"
+,"Y":"49.2193542218805"
+,"json_geometry":{"type":"Point","coordinates":[-122.908993741198,49.2193542218805]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":36
+,"OBJECTID":36
+,"BUSSTOPNUM":53621
+,"ONSTREET":"6 Av"
+,"ATSTREET":"1 St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.912459465946"
+,"Y":"49.2174667049967"
+,"json_geometry":{"type":"Point","coordinates":[-122.912459465946,49.2174667049967]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":37
+,"OBJECTID":37
+,"BUSSTOPNUM":53622
+,"ONSTREET":"6th Ave"
+,"ATSTREET":"2nd St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.914543241851"
+,"Y":"49.2163360297059"
+,"json_geometry":{"type":"Point","coordinates":[-122.914543241851,49.2163360297059]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":38
+,"OBJECTID":38
+,"BUSSTOPNUM":53623
+,"ONSTREET":"6 Av"
+,"ATSTREET":"4 St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.918046082878"
+,"Y":"49.2144412294942"
+,"json_geometry":{"type":"Point","coordinates":[-122.918046082878,49.2144412294942]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":39
+,"OBJECTID":39
+,"BUSSTOPNUM":53584
+,"ONSTREET":"6 Av"
+,"ATSTREET":"10 St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.927221452762"
+,"Y":"49.2095046184329"
+,"json_geometry":{"type":"Point","coordinates":[-122.927221452762,49.2095046184329]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":40
+,"OBJECTID":40
+,"BUSSTOPNUM":53585
+,"ONSTREET":"6 Av"
+,"ATSTREET":"12 St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.931060203724"
+,"Y":"49.2074469257886"
+,"json_geometry":{"type":"Point","coordinates":[-122.931060203724,49.2074469257886]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":41
+,"OBJECTID":41
+,"BUSSTOPNUM":53586
+,"ONSTREET":"6th Ave"
+,"ATSTREET":"14th St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.933941600048"
+,"Y":"49.2058811886739"
+,"json_geometry":{"type":"Point","coordinates":[-122.933941600048,49.2058811886739]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":42
+,"OBJECTID":42
+,"BUSSTOPNUM":53587
+,"ONSTREET":"6th Ave"
+,"ATSTREET":"16th St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.937477228782"
+,"Y":"49.2039732393149"
+,"json_geometry":{"type":"Point","coordinates":[-122.937477228782,49.2039732393149]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":43
+,"OBJECTID":43
+,"BUSSTOPNUM":53588
+,"ONSTREET":"6 Av"
+,"ATSTREET":"18 St"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.940324951145"
+,"Y":"49.2024363696621"
+,"json_geometry":{"type":"Point","coordinates":[-122.940324951145,49.2024363696621]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":44
+,"OBJECTID":44
+,"BUSSTOPNUM":52182
+,"ONSTREET":"Marine Way"
+,"ATSTREET":"20 St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.946276257486"
+,"Y":"49.1999691451985"
+,"json_geometry":{"type":"Point","coordinates":[-122.946276257486,49.1999691451985]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":45
+,"OBJECTID":45
+,"BUSSTOPNUM":51433
+,"ONSTREET":"8 St"
+,"ATSTREET":"10 Av"
+,"DIRECTION":"WB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.930608378005"
+,"Y":"49.216415071869"
+,"json_geometry":{"type":"Point","coordinates":[-122.930608378005,49.216415071869]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":46
+,"OBJECTID":46
+,"BUSSTOPNUM":51417
+,"ONSTREET":"8th St"
+,"ATSTREET":"8th Ave"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.92724631487"
+,"Y":"49.2135575053026"
+,"json_geometry":{"type":"Point","coordinates":[-122.92724631487,49.2135575053026]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":47
+,"OBJECTID":47
+,"BUSSTOPNUM":52304
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"8th St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.928090041557"
+,"Y":"49.2138318320599"
+,"json_geometry":{"type":"Point","coordinates":[-122.928090041557,49.2138318320599]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":48
+,"OBJECTID":48
+,"BUSSTOPNUM":52322
+,"ONSTREET":"E 8th Ave"
+,"ATSTREET":"Mcbride Blvd"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.910938321695"
+,"Y":"49.2228554109985"
+,"json_geometry":{"type":"Point","coordinates":[-122.910938321695,49.2228554109985]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":49
+,"OBJECTID":49
+,"BUSSTOPNUM":58158
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"8th St"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.926965269157"
+,"Y":"49.2144556058414"
+,"json_geometry":{"type":"Point","coordinates":[-122.926965269157,49.2144556058414]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":50
+,"OBJECTID":50
+,"BUSSTOPNUM":58173
+,"ONSTREET":"7 Av"
+,"ATSTREET":"22 St*"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.948344804722"
+,"Y":"49.2001123675452"
+,"json_geometry":{"type":"Point","coordinates":[-122.948344804722,49.2001123675452]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":51
+,"OBJECTID":51
+,"BUSSTOPNUM":58174
+,"ONSTREET":"E 8th Ave"
+,"ATSTREET":"Chilliwack St"
+,"DIRECTION":"NB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.9024865292"
+,"Y":"49.2273821185754"
+,"json_geometry":{"type":"Point","coordinates":[-122.9024865292,49.2273821185754]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":52
+,"OBJECTID":52
+,"BUSSTOPNUM":56029
+,"ONSTREET":"Highway 91a Onramp"
+,"ATSTREET":"Howes St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.947223166028"
+,"Y":"49.1879760496261"
+,"json_geometry":{"type":"Point","coordinates":[-122.947223166028,49.1879760496261]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":53
+,"OBJECTID":53
+,"BUSSTOPNUM":52316
+,"ONSTREET":"Columbia St"
+,"ATSTREET":"6th St*"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.907276012739"
+,"Y":"49.2034037169172"
+,"json_geometry":{"type":"Point","coordinates":[-122.907276012739,49.2034037169172]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":54
+,"OBJECTID":54
+,"BUSSTOPNUM":52317
+,"ONSTREET":"Columbia St"
+,"ATSTREET":"4th St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.904842373992"
+,"Y":"49.2046877864714"
+,"json_geometry":{"type":"Point","coordinates":[-122.904842373992,49.2046877864714]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":55
+,"OBJECTID":55
+,"BUSSTOPNUM":52331
+,"ONSTREET":"Columbia St"
+,"ATSTREET":"4th St *"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.905827898487"
+,"Y":"49.2044138777861"
+,"json_geometry":{"type":"Point","coordinates":[-122.905827898487,49.2044138777861]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":56
+,"OBJECTID":56
+,"BUSSTOPNUM":52332
+,"ONSTREET":"Columbia St"
+,"ATSTREET":"6 St *"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.90842309764"
+,"Y":"49.2030135074409"
+,"json_geometry":{"type":"Point","coordinates":[-122.90842309764,49.2030135074409]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":57
+,"OBJECTID":57
+,"BUSSTOPNUM":52158
+,"ONSTREET":"Marine Dr"
+,"ATSTREET":"Trapp Av"
+,"DIRECTION":"EB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.954629120072"
+,"Y":"49.1981405376222"
+,"json_geometry":{"type":"Point","coordinates":[-122.954629120072,49.1981405376222]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":58
+,"OBJECTID":58
+,"BUSSTOPNUM":52164
+,"ONSTREET":"Trapp Av"
+,"ATSTREET":"Marine Dr"
+,"DIRECTION":"EB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.953340692804"
+,"Y":"49.1979425773333"
+,"json_geometry":{"type":"Point","coordinates":[-122.953340692804,49.1979425773333]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":59
+,"OBJECTID":59
+,"BUSSTOPNUM":52184
+,"ONSTREET":"Marine Dr"
+,"ATSTREET":"7 Av"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.953594583753"
+,"Y":"49.1981989918895"
+,"json_geometry":{"type":"Point","coordinates":[-122.953594583753,49.1981989918895]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":60
+,"OBJECTID":60
+,"BUSSTOPNUM":52187
+,"ONSTREET":"Trapp Av"
+,"ATSTREET":"Marine Dr"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.953738942277"
+,"Y":"49.1978341821645"
+,"json_geometry":{"type":"Point","coordinates":[-122.953738942277,49.1978341821645]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":61
+,"OBJECTID":61
+,"BUSSTOPNUM":52231
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"23 St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.953158423132"
+,"Y":"49.2001919415302"
+,"json_geometry":{"type":"Point","coordinates":[-122.953158423132,49.2001919415302]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":62
+,"OBJECTID":62
+,"BUSSTOPNUM":52232
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"22 St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.951795722386"
+,"Y":"49.2009023066234"
+,"json_geometry":{"type":"Point","coordinates":[-122.951795722386,49.2009023066234]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":63
+,"OBJECTID":63
+,"BUSSTOPNUM":52233
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"21 St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.949867456103"
+,"Y":"49.2019361703371"
+,"json_geometry":{"type":"Point","coordinates":[-122.949867456103,49.2019361703371]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":64
+,"OBJECTID":64
+,"BUSSTOPNUM":52234
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"20 St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.947894490386"
+,"Y":"49.2030127002017"
+,"json_geometry":{"type":"Point","coordinates":[-122.947894490386,49.2030127002017]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":65
+,"OBJECTID":65
+,"BUSSTOPNUM":52235
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"19 St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.945705652939"
+,"Y":"49.2041964087993"
+,"json_geometry":{"type":"Point","coordinates":[-122.945705652939,49.2041964087993]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":66
+,"OBJECTID":66
+,"BUSSTOPNUM":52236
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"18 St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.943483321918"
+,"Y":"49.2053933903308"
+,"json_geometry":{"type":"Point","coordinates":[-122.943483321918,49.2053933903308]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":67
+,"OBJECTID":67
+,"BUSSTOPNUM":52237
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"16 St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.940277794324"
+,"Y":"49.2071233985013"
+,"json_geometry":{"type":"Point","coordinates":[-122.940277794324,49.2071233985013]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":68
+,"OBJECTID":68
+,"BUSSTOPNUM":52238
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"14th  St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.936878171487"
+,"Y":"49.2089597785172"
+,"json_geometry":{"type":"Point","coordinates":[-122.936878171487,49.2089597785172]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":69
+,"OBJECTID":69
+,"BUSSTOPNUM":52239
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"12th St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.93373248981"
+,"Y":"49.2106550678304"
+,"json_geometry":{"type":"Point","coordinates":[-122.93373248981,49.2106550678304]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":70
+,"OBJECTID":70
+,"BUSSTOPNUM":52240
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"10th St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.930068599542"
+,"Y":"49.212632752197"
+,"json_geometry":{"type":"Point","coordinates":[-122.930068599542,49.212632752197]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":71
+,"OBJECTID":71
+,"BUSSTOPNUM":56911
+,"ONSTREET":"Ewen Ave"
+,"ATSTREET":"Phillips St"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.956348079174"
+,"Y":"49.1821743288325"
+,"json_geometry":{"type":"Point","coordinates":[-122.956348079174,49.1821743288325]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":72
+,"OBJECTID":72
+,"BUSSTOPNUM":56912
+,"ONSTREET":"Ewen Ave"
+,"ATSTREET":"Dawes St"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.954410688364"
+,"Y":"49.1829827463116"
+,"json_geometry":{"type":"Point","coordinates":[-122.954410688364,49.1829827463116]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":73
+,"OBJECTID":73
+,"BUSSTOPNUM":56913
+,"ONSTREET":"Ewen Ave"
+,"ATSTREET":"Gifford St"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.951336207181"
+,"Y":"49.1842754608978"
+,"json_geometry":{"type":"Point","coordinates":[-122.951336207181,49.1842754608978]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":74
+,"OBJECTID":74
+,"BUSSTOPNUM":52362
+,"ONSTREET":"Ewen Ave"
+,"ATSTREET":"Howes St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.947370606708"
+,"Y":"49.1860670032832"
+,"json_geometry":{"type":"Point","coordinates":[-122.947370606708,49.1860670032832]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":75
+,"OBJECTID":75
+,"BUSSTOPNUM":52363
+,"ONSTREET":"Ewen Ave"
+,"ATSTREET":"Jardine St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.949844535673"
+,"Y":"49.1850432126294"
+,"json_geometry":{"type":"Point","coordinates":[-122.949844535673,49.1850432126294]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":76
+,"OBJECTID":76
+,"BUSSTOPNUM":52364
+,"ONSTREET":"Ewen Ave"
+,"ATSTREET":"Gifford St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.953014238737"
+,"Y":"49.1837097379003"
+,"json_geometry":{"type":"Point","coordinates":[-122.953014238737,49.1837097379003]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":77
+,"OBJECTID":77
+,"BUSSTOPNUM":52365
+,"ONSTREET":"Ewen Ave"
+,"ATSTREET":"Hume St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.956054599736"
+,"Y":"49.182428938332"
+,"json_geometry":{"type":"Point","coordinates":[-122.956054599736,49.182428938332]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":78
+,"OBJECTID":78
+,"BUSSTOPNUM":52305
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"10th St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.930991717991"
+,"Y":"49.2122843443046"
+,"json_geometry":{"type":"Point","coordinates":[-122.930991717991,49.2122843443046]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":79
+,"OBJECTID":79
+,"BUSSTOPNUM":52306
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"12th St"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.934041431862"
+,"Y":"49.2106411400477"
+,"json_geometry":{"type":"Point","coordinates":[-122.934041431862,49.2106411400477]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":80
+,"OBJECTID":80
+,"BUSSTOPNUM":52307
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"14th  St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.937561213639"
+,"Y":"49.208729807367"
+,"json_geometry":{"type":"Point","coordinates":[-122.937561213639,49.208729807367]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":81
+,"OBJECTID":81
+,"BUSSTOPNUM":52308
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"16 St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.940976004632"
+,"Y":"49.2068608249843"
+,"json_geometry":{"type":"Point","coordinates":[-122.940976004632,49.2068608249843]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":82
+,"OBJECTID":82
+,"BUSSTOPNUM":52309
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"18 St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.944446052752"
+,"Y":"49.2050066728684"
+,"json_geometry":{"type":"Point","coordinates":[-122.944446052752,49.2050066728684]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":83
+,"OBJECTID":83
+,"BUSSTOPNUM":52310
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"19 St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.946465904024"
+,"Y":"49.2039292525116"
+,"json_geometry":{"type":"Point","coordinates":[-122.946465904024,49.2039292525116]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":84
+,"OBJECTID":84
+,"BUSSTOPNUM":52311
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"20 St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.948760949316"
+,"Y":"49.2026935747929"
+,"json_geometry":{"type":"Point","coordinates":[-122.948760949316,49.2026935747929]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":85
+,"OBJECTID":85
+,"BUSSTOPNUM":52312
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"21st St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.950448034889"
+,"Y":"49.201784247366"
+,"json_geometry":{"type":"Point","coordinates":[-122.950448034889,49.201784247366]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":86
+,"OBJECTID":86
+,"BUSSTOPNUM":59345
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Hume Park*"
+,"DIRECTION":"SB"
+,"POSITION":"AT"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.892617353447"
+,"Y":"49.2375442286537"
+,"json_geometry":{"type":"Point","coordinates":[-122.892617353447,49.2375442286537]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":87
+,"OBJECTID":87
+,"BUSSTOPNUM":58985
+,"ONSTREET":"Mcbride Blvd"
+,"ATSTREET":"6th Ave"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.908157573369"
+,"Y":"49.2192681679442"
+,"json_geometry":{"type":"Point","coordinates":[-122.908157573369,49.2192681679442]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":88
+,"OBJECTID":88
+,"BUSSTOPNUM":53510
+,"ONSTREET":"Braid St"
+,"ATSTREET":"Columbia St"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.892135665311"
+,"Y":"49.2315385230035"
+,"json_geometry":{"type":"Point","coordinates":[-122.892135665311,49.2315385230035]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":89
+,"OBJECTID":89
+,"BUSSTOPNUM":53574
+,"ONSTREET":"Braid St"
+,"ATSTREET":"E Columbia St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.893791582455"
+,"Y":"49.2317979332972"
+,"json_geometry":{"type":"Point","coordinates":[-122.893791582455,49.2317979332972]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":90
+,"OBJECTID":90
+,"BUSSTOPNUM":53217
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Holmes St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.892698867487"
+,"Y":"49.2353580452232"
+,"json_geometry":{"type":"Point","coordinates":[-122.892698867487,49.2353580452232]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":91
+,"OBJECTID":91
+,"BUSSTOPNUM":53101
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Sherbrooke St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.892931799562"
+,"Y":"49.227541473542"
+,"json_geometry":{"type":"Point","coordinates":[-122.892931799562,49.227541473542]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":92
+,"OBJECTID":92
+,"BUSSTOPNUM":53218
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Keary St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.893010639471"
+,"Y":"49.225300889243"
+,"json_geometry":{"type":"Point","coordinates":[-122.893010639471,49.225300889243]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":93
+,"OBJECTID":93
+,"BUSSTOPNUM":53219
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Alberta St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.89304589927"
+,"Y":"49.2233451888296"
+,"json_geometry":{"type":"Point","coordinates":[-122.89304589927,49.2233451888296]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":94
+,"OBJECTID":94
+,"BUSSTOPNUM":53220
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Cumberland St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.893145305632"
+,"Y":"49.2200823000393"
+,"json_geometry":{"type":"Point","coordinates":[-122.893145305632,49.2200823000393]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":95
+,"OBJECTID":95
+,"BUSSTOPNUM":53221
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Richmond St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.89409522274"
+,"Y":"49.2161767418728"
+,"json_geometry":{"type":"Point","coordinates":[-122.89409522274,49.2161767418728]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":96
+,"OBJECTID":96
+,"BUSSTOPNUM":53102
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Mcbride Blvd"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.89658673485"
+,"Y":"49.2122836009408"
+,"json_geometry":{"type":"Point","coordinates":[-122.89658673485,49.2122836009408]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":97
+,"OBJECTID":97
+,"BUSSTOPNUM":58322
+,"ONSTREET":"7 Av"
+,"ATSTREET":"22 St *"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.949710737238"
+,"Y":"49.1998566941408"
+,"json_geometry":{"type":"Point","coordinates":[-122.949710737238,49.1998566941408]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":98
+,"OBJECTID":98
+,"BUSSTOPNUM":52613
+,"ONSTREET":"12 St"
+,"ATSTREET":"London St"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.936736104014"
+,"Y":"49.2124421273302"
+,"json_geometry":{"type":"Point","coordinates":[-122.936736104014,49.2124421273302]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":99
+,"OBJECTID":99
+,"BUSSTOPNUM":52614
+,"ONSTREET":"12th St"
+,"ATSTREET":"8th Ave"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.933995033654"
+,"Y":"49.2102631315513"
+,"json_geometry":{"type":"Point","coordinates":[-122.933995033654,49.2102631315513]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":100
+,"OBJECTID":100
+,"BUSSTOPNUM":52615
+,"ONSTREET":"12 St"
+,"ATSTREET":"7 Av"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.932102730341"
+,"Y":"49.2087519685269"
+,"json_geometry":{"type":"Point","coordinates":[-122.932102730341,49.2087519685269]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":101
+,"OBJECTID":101
+,"BUSSTOPNUM":52169
+,"ONSTREET":"12th St"
+,"ATSTREET":"6th Ave"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.930146123095"
+,"Y":"49.2072038095389"
+,"json_geometry":{"type":"Point","coordinates":[-122.930146123095,49.2072038095389]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":102
+,"OBJECTID":102
+,"BUSSTOPNUM":52170
+,"ONSTREET":"12 St"
+,"ATSTREET":"5 Av"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.928518984778"
+,"Y":"49.2059040375117"
+,"json_geometry":{"type":"Point","coordinates":[-122.928518984778,49.2059040375117]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":103
+,"OBJECTID":103
+,"BUSSTOPNUM":52171
+,"ONSTREET":"12 St"
+,"ATSTREET":"4 Av"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.926746083416"
+,"Y":"49.2044922484058"
+,"json_geometry":{"type":"Point","coordinates":[-122.926746083416,49.2044922484058]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":104
+,"OBJECTID":104
+,"BUSSTOPNUM":52172
+,"ONSTREET":"12 St"
+,"ATSTREET":"3 Av"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.924781514513"
+,"Y":"49.2029294019176"
+,"json_geometry":{"type":"Point","coordinates":[-122.924781514513,49.2029294019176]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":105
+,"OBJECTID":105
+,"BUSSTOPNUM":52173
+,"ONSTREET":"12 St"
+,"ATSTREET":"Queens Av"
+,"DIRECTION":"EB"
+,"POSITION":"AT"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.923169477071"
+,"Y":"49.2018015085449"
+,"json_geometry":{"type":"Point","coordinates":[-122.923169477071,49.2018015085449]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":106
+,"OBJECTID":106
+,"BUSSTOPNUM":52176
+,"ONSTREET":"Columbia St"
+,"ATSTREET":"10 St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.916203978483"
+,"Y":"49.2002222352754"
+,"json_geometry":{"type":"Point","coordinates":[-122.916203978483,49.2002222352754]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":107
+,"OBJECTID":107
+,"BUSSTOPNUM":52177
+,"ONSTREET":"Stewardson Way"
+,"ATSTREET":"Royal Av"
+,"DIRECTION":"WB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.919035803511"
+,"Y":"49.2003964341506"
+,"json_geometry":{"type":"Point","coordinates":[-122.919035803511,49.2003964341506]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":108
+,"OBJECTID":108
+,"BUSSTOPNUM":52617
+,"ONSTREET":"12 St"
+,"ATSTREET":"Queens Av"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.923053129617"
+,"Y":"49.2019299109857"
+,"json_geometry":{"type":"Point","coordinates":[-122.923053129617,49.2019299109857]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":109
+,"OBJECTID":109
+,"BUSSTOPNUM":52618
+,"ONSTREET":"12 ST"
+,"ATSTREET":"3 AV"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.925177501819"
+,"Y":"49.2034693500913"
+,"json_geometry":{"type":"Point","coordinates":[-122.925177501819,49.2034693500913]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":110
+,"OBJECTID":110
+,"BUSSTOPNUM":52619
+,"ONSTREET":"12 ST"
+,"ATSTREET":"4 AV"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.927015663323"
+,"Y":"49.2049408795904"
+,"json_geometry":{"type":"Point","coordinates":[-122.927015663323,49.2049408795904]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":111
+,"OBJECTID":111
+,"BUSSTOPNUM":52620
+,"ONSTREET":"12 St"
+,"ATSTREET":"5 Av"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.928965175381"
+,"Y":"49.2064813249431"
+,"json_geometry":{"type":"Point","coordinates":[-122.928965175381,49.2064813249431]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":112
+,"OBJECTID":112
+,"BUSSTOPNUM":52621
+,"ONSTREET":"12 St"
+,"ATSTREET":"6 Ave"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.930762322056"
+,"Y":"49.2079010368569"
+,"json_geometry":{"type":"Point","coordinates":[-122.930762322056,49.2079010368569]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":113
+,"OBJECTID":113
+,"BUSSTOPNUM":52622
+,"ONSTREET":"12 St"
+,"ATSTREET":"7 Av"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.932464602475"
+,"Y":"49.2092413715366"
+,"json_geometry":{"type":"Point","coordinates":[-122.932464602475,49.2092413715366]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":114
+,"OBJECTID":114
+,"BUSSTOPNUM":52623
+,"ONSTREET":"12th St"
+,"ATSTREET":"8th Ave"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.934413855926"
+,"Y":"49.2108178126638"
+,"json_geometry":{"type":"Point","coordinates":[-122.934413855926,49.2108178126638]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":115
+,"OBJECTID":115
+,"BUSSTOPNUM":52624
+,"ONSTREET":"12 St"
+,"ATSTREET":"Dublin St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.936312524302"
+,"Y":"49.2123214207131"
+,"json_geometry":{"type":"Point","coordinates":[-122.936312524302,49.2123214207131]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":116
+,"OBJECTID":116
+,"BUSSTOPNUM":52625
+,"ONSTREET":"12 St"
+,"ATSTREET":"10 Av"
+,"DIRECTION":"WB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.937545206616"
+,"Y":"49.2133064387219"
+,"json_geometry":{"type":"Point","coordinates":[-122.937545206616,49.2133064387219]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":117
+,"OBJECTID":117
+,"BUSSTOPNUM":59549
+,"ONSTREET":"6th Ave"
+,"ATSTREET":"18th St"
+,"DIRECTION":"NB"
+,"POSITION":"AT"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.940354332439"
+,"Y":"49.2022731561191"
+,"json_geometry":{"type":"Point","coordinates":[-122.940354332439,49.2022731561191]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":118
+,"OBJECTID":118
+,"BUSSTOPNUM":58947
+,"ONSTREET":"6th Ave"
+,"ATSTREET":"Glenbrook Dr"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.905993237268"
+,"Y":"49.2209544349069"
+,"json_geometry":{"type":"Point","coordinates":[-122.905993237268,49.2209544349069]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":119
+,"OBJECTID":119
+,"BUSSTOPNUM":52242
+,"ONSTREET":"6th St"
+,"ATSTREET":"6th Ave*"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.920751107246"
+,"Y":"49.2136123576953"
+,"json_geometry":{"type":"Point","coordinates":[-122.920751107246,49.2136123576953]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":120
+,"OBJECTID":120
+,"BUSSTOPNUM":52420
+,"ONSTREET":"6th St"
+,"ATSTREET":"6th Ave*"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.919958806942"
+,"Y":"49.2127500721948"
+,"json_geometry":{"type":"Point","coordinates":[-122.919958806942,49.2127500721948]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":121
+,"OBJECTID":121
+,"BUSSTOPNUM":52303
+,"ONSTREET":"6th Ave"
+,"ATSTREET":"6th St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.920905474028"
+,"Y":"49.2129289298787"
+,"json_geometry":{"type":"Point","coordinates":[-122.920905474028,49.2129289298787]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":122
+,"OBJECTID":122
+,"BUSSTOPNUM":52241
+,"ONSTREET":"6th Ave"
+,"ATSTREET":"8th St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.923426231225"
+,"Y":"49.2114061884363"
+,"json_geometry":{"type":"Point","coordinates":[-122.923426231225,49.2114061884363]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":123
+,"OBJECTID":123
+,"BUSSTOPNUM":53613
+,"ONSTREET":"Hospital St"
+,"ATSTREET":"E Columbia St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.893518080094"
+,"Y":"49.2265358232955"
+,"json_geometry":{"type":"Point","coordinates":[-122.893518080094,49.2265358232955]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":126
+,"OBJECTID":126
+,"BUSSTOPNUM":51416
+,"ONSTREET":"8 St"
+,"ATSTREET":"10 Av"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.931182338678"
+,"Y":"49.2165659872046"
+,"json_geometry":{"type":"Point","coordinates":[-122.931182338678,49.2165659872046]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":127
+,"OBJECTID":127
+,"BUSSTOPNUM":51418
+,"ONSTREET":"8 St"
+,"ATSTREET":"6 Av"
+,"DIRECTION":"EB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.924771815031"
+,"Y":"49.211621808098"
+,"json_geometry":{"type":"Point","coordinates":[-122.924771815031,49.211621808098]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":128
+,"OBJECTID":128
+,"BUSSTOPNUM":51419
+,"ONSTREET":"8 St"
+,"ATSTREET":"5 Av"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.92205935135"
+,"Y":"49.2095215349457"
+,"json_geometry":{"type":"Point","coordinates":[-122.92205935135,49.2095215349457]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":129
+,"OBJECTID":129
+,"BUSSTOPNUM":51420
+,"ONSTREET":"8 St"
+,"ATSTREET":"4 Av"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.920040489329"
+,"Y":"49.2079232120549"
+,"json_geometry":{"type":"Point","coordinates":[-122.920040489329,49.2079232120549]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":130
+,"OBJECTID":130
+,"BUSSTOPNUM":51421
+,"ONSTREET":"8 St"
+,"ATSTREET":"3 Av"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.918207205903"
+,"Y":"49.2064659232485"
+,"json_geometry":{"type":"Point","coordinates":[-122.918207205903,49.2064659232485]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":131
+,"OBJECTID":131
+,"BUSSTOPNUM":51422
+,"ONSTREET":"8 St"
+,"ATSTREET":"Queens Av"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.916192598905"
+,"Y":"49.2048688215493"
+,"json_geometry":{"type":"Point","coordinates":[-122.916192598905,49.2048688215493]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":132
+,"OBJECTID":132
+,"BUSSTOPNUM":51423
+,"ONSTREET":"8 St"
+,"ATSTREET":"Royal Av"
+,"DIRECTION":"EB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.914986854153"
+,"Y":"49.2038912399515"
+,"json_geometry":{"type":"Point","coordinates":[-122.914986854153,49.2038912399515]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":133
+,"OBJECTID":133
+,"BUSSTOPNUM":51425
+,"ONSTREET":"8 St"
+,"ATSTREET":"Royal Ave"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.914853869012"
+,"Y":"49.204043972117"
+,"json_geometry":{"type":"Point","coordinates":[-122.914853869012,49.204043972117]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":134
+,"OBJECTID":134
+,"BUSSTOPNUM":51426
+,"ONSTREET":"8 ST"
+,"ATSTREET":"QUEENS AV"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.916584887922"
+,"Y":"49.2054145083423"
+,"json_geometry":{"type":"Point","coordinates":[-122.916584887922,49.2054145083423]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":135
+,"OBJECTID":135
+,"BUSSTOPNUM":51427
+,"ONSTREET":"8 ST"
+,"ATSTREET":"3 AV"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.91851578044"
+,"Y":"49.2069548376838"
+,"json_geometry":{"type":"Point","coordinates":[-122.91851578044,49.2069548376838]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":136
+,"OBJECTID":136
+,"BUSSTOPNUM":51428
+,"ONSTREET":"8 St"
+,"ATSTREET":"4 Av"
+,"DIRECTION":"WB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.920035843289"
+,"Y":"49.2081565287214"
+,"json_geometry":{"type":"Point","coordinates":[-122.920035843289,49.2081565287214]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":137
+,"OBJECTID":137
+,"BUSSTOPNUM":51429
+,"ONSTREET":"8 ST"
+,"ATSTREET":"5 AV"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.922435948774"
+,"Y":"49.2100607861725"
+,"json_geometry":{"type":"Point","coordinates":[-122.922435948774,49.2100607861725]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":138
+,"OBJECTID":138
+,"BUSSTOPNUM":51430
+,"ONSTREET":"8 St"
+,"ATSTREET":"6 Av"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.924182247682"
+,"Y":"49.2114462843967"
+,"json_geometry":{"type":"Point","coordinates":[-122.924182247682,49.2114462843967]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":139
+,"OBJECTID":139
+,"BUSSTOPNUM":51431
+,"ONSTREET":"8 St"
+,"ATSTREET":"7 Av"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.925861362923"
+,"Y":"49.2127869342426"
+,"json_geometry":{"type":"Point","coordinates":[-122.925861362923,49.2127869342426]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":140
+,"OBJECTID":140
+,"BUSSTOPNUM":51432
+,"ONSTREET":"8th St"
+,"ATSTREET":"8th Ave"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.927874181034"
+,"Y":"49.2143309176511"
+,"json_geometry":{"type":"Point","coordinates":[-122.927874181034,49.2143309176511]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":141
+,"OBJECTID":141
+,"BUSSTOPNUM":58983
+,"ONSTREET":"Blackberry Dr"
+,"ATSTREET":"Queens Park Hospital"
+,"DIRECTION":"SB"
+,"POSITION":"AT"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.901665281331"
+,"Y":"49.2166762496783"
+,"json_geometry":{"type":"Point","coordinates":[-122.901665281331,49.2166762496783]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":142
+,"OBJECTID":142
+,"BUSSTOPNUM":58079
+,"ONSTREET":"Brunette Ave"
+,"ATSTREET":"Braid St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.883136869362"
+,"Y":"49.2328552210613"
+,"json_geometry":{"type":"Point","coordinates":[-122.883136869362,49.2328552210613]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":143
+,"OBJECTID":143
+,"BUSSTOPNUM":58082
+,"ONSTREET":"Brunette Av"
+,"ATSTREET":"Braid St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.883080014403"
+,"Y":"49.2330303730982"
+,"json_geometry":{"type":"Point","coordinates":[-122.883080014403,49.2330303730982]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":144
+,"OBJECTID":144
+,"BUSSTOPNUM":58083
+,"ONSTREET":"Brunette Av"
+,"ATSTREET":"Braid St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.883023546768"
+,"Y":"49.233210023121"
+,"json_geometry":{"type":"Point","coordinates":[-122.883023546768,49.233210023121]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":145
+,"OBJECTID":145
+,"BUSSTOPNUM":58084
+,"ONSTREET":"Brunette Av"
+,"ATSTREET":"Braid St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.882677672078"
+,"Y":"49.2334061736949"
+,"json_geometry":{"type":"Point","coordinates":[-122.882677672078,49.2334061736949]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":146
+,"OBJECTID":146
+,"BUSSTOPNUM":58085
+,"ONSTREET":"Brunette Av"
+,"ATSTREET":"Braid St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.88255587422"
+,"Y":"49.2331448457508"
+,"json_geometry":{"type":"Point","coordinates":[-122.88255587422,49.2331448457508]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":147
+,"OBJECTID":147
+,"BUSSTOPNUM":58086
+,"ONSTREET":"Brunette Av"
+,"ATSTREET":"Braid St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.882512712617"
+,"Y":"49.2329547861112"
+,"json_geometry":{"type":"Point","coordinates":[-122.882512712617,49.2329547861112]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":148
+,"OBJECTID":148
+,"BUSSTOPNUM":59118
+,"ONSTREET":"Ewen Ave"
+,"ATSTREET":"Mcgillivray Pl"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.940817972833"
+,"Y":"49.1885328769012"
+,"json_geometry":{"type":"Point","coordinates":[-122.940817972833,49.1885328769012]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":149
+,"OBJECTID":149
+,"BUSSTOPNUM":53107
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Braid St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.892598370056"
+,"Y":"49.2318792086651"
+,"json_geometry":{"type":"Point","coordinates":[-122.892598370056,49.2318792086651]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":150
+,"OBJECTID":150
+,"BUSSTOPNUM":53100
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Braid St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.892835368073"
+,"Y":"49.2310662845786"
+,"json_geometry":{"type":"Point","coordinates":[-122.892835368073,49.2310662845786]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":155
+,"OBJECTID":155
+,"BUSSTOPNUM":52165
+,"ONSTREET":"7 Av"
+,"ATSTREET":"22 St"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.948608637193"
+,"Y":"49.200020364331"
+,"json_geometry":{"type":"Point","coordinates":[-122.948608637193,49.200020364331]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":156
+,"OBJECTID":156
+,"BUSSTOPNUM":53497
+,"ONSTREET":"7 Av"
+,"ATSTREET":"22 St"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.94885330611"
+,"Y":"49.1999414132095"
+,"json_geometry":{"type":"Point","coordinates":[-122.94885330611,49.1999414132095]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":157
+,"OBJECTID":157
+,"BUSSTOPNUM":52230
+,"ONSTREET":"7 Av"
+,"ATSTREET":"22 St"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.949096497279"
+,"Y":"49.1998570637351"
+,"json_geometry":{"type":"Point","coordinates":[-122.949096497279,49.1998570637351]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":158
+,"OBJECTID":158
+,"BUSSTOPNUM":52373
+,"ONSTREET":"7 Av"
+,"ATSTREET":"22 St"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.949357745789"
+,"Y":"49.1997924843493"
+,"json_geometry":{"type":"Point","coordinates":[-122.949357745789,49.1997924843493]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":159
+,"OBJECTID":159
+,"BUSSTOPNUM":55933
+,"ONSTREET":"7 Av"
+,"ATSTREET":"22 St"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.949614519837"
+,"Y":"49.1997267330307"
+,"json_geometry":{"type":"Point","coordinates":[-122.949614519837,49.1997267330307]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":160
+,"OBJECTID":160
+,"BUSSTOPNUM":56919
+,"ONSTREET":"7 Ave"
+,"ATSTREET":"22 St"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.949901492708"
+,"Y":"49.1996334596166"
+,"json_geometry":{"type":"Point","coordinates":[-122.949901492708,49.1996334596166]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":161
+,"OBJECTID":161
+,"BUSSTOPNUM":52183
+,"ONSTREET":"7 Av"
+,"ATSTREET":"22 St"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.950166588113"
+,"Y":"49.1995223203717"
+,"json_geometry":{"type":"Point","coordinates":[-122.950166588113,49.1995223203717]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":162
+,"OBJECTID":162
+,"BUSSTOPNUM":55934
+,"ONSTREET":"Highway 91a Onramp"
+,"ATSTREET":"Howes St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.949396393606"
+,"Y":"49.1882815499098"
+,"json_geometry":{"type":"Point","coordinates":[-122.949396393606,49.1882815499098]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":163
+,"OBJECTID":163
+,"BUSSTOPNUM":58412
+,"ONSTREET":"1 St"
+,"ATSTREET":"Agnes St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.902039271933"
+,"Y":"49.2094651466366"
+,"json_geometry":{"type":"Point","coordinates":[-122.902039271933,49.2094651466366]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":164
+,"OBJECTID":164
+,"BUSSTOPNUM":58494
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Cumberland St*"
+,"DIRECTION":"NB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.892908643875"
+,"Y":"49.2201435545789"
+,"json_geometry":{"type":"Point","coordinates":[-122.892908643875,49.2201435545789]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":165
+,"OBJECTID":165
+,"BUSSTOPNUM":52320
+,"ONSTREET":"Mcbride Blvd"
+,"ATSTREET":"Blackberry Dr"
+,"DIRECTION":"WB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.904135448031"
+,"Y":"49.2163981681365"
+,"json_geometry":{"type":"Point","coordinates":[-122.904135448031,49.2163981681365]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":166
+,"OBJECTID":166
+,"BUSSTOPNUM":53592
+,"ONSTREET":"6th Ave"
+,"ATSTREET":"Mcbride Blvd"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.907863221302"
+,"Y":"49.2197777587032"
+,"json_geometry":{"type":"Point","coordinates":[-122.907863221302,49.2197777587032]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":167
+,"OBJECTID":167
+,"BUSSTOPNUM":52321
+,"ONSTREET":"Mcbride Blvd"
+,"ATSTREET":"Fraser Mews"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.906217673266"
+,"Y":"49.2180072886516"
+,"json_geometry":{"type":"Point","coordinates":[-122.906217673266,49.2180072886516]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":168
+,"OBJECTID":168
+,"BUSSTOPNUM":52323
+,"ONSTREET":"Cumberland St"
+,"ATSTREET":"E 8th Ave"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.908077768427"
+,"Y":"49.2238844866308"
+,"json_geometry":{"type":"Point","coordinates":[-122.908077768427,49.2238844866308]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":169
+,"OBJECTID":169
+,"BUSSTOPNUM":53580
+,"ONSTREET":"E 8th Ave"
+,"ATSTREET":"Cumberland St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.909083137035"
+,"Y":"49.2240639372846"
+,"json_geometry":{"type":"Point","coordinates":[-122.909083137035,49.2240639372846]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":170
+,"OBJECTID":170
+,"BUSSTOPNUM":52489
+,"ONSTREET":"2nd St"
+,"ATSTREET":"6th Ave"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.913904713713"
+,"Y":"49.216232820467"
+,"json_geometry":{"type":"Point","coordinates":[-122.913904713713,49.216232820467]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":171
+,"OBJECTID":171
+,"BUSSTOPNUM":52490
+,"ONSTREET":"2 St"
+,"ATSTREET":"5 Av"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.91220969599"
+,"Y":"49.2148781147709"
+,"json_geometry":{"type":"Point","coordinates":[-122.91220969599,49.2148781147709]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":172
+,"OBJECTID":172
+,"BUSSTOPNUM":52491
+,"ONSTREET":"2 St"
+,"ATSTREET":"4 Av"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.910300212788"
+,"Y":"49.2133649724867"
+,"json_geometry":{"type":"Point","coordinates":[-122.910300212788,49.2133649724867]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":173
+,"OBJECTID":173
+,"BUSSTOPNUM":52492
+,"ONSTREET":"2 St"
+,"ATSTREET":"3 Av"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.908369595968"
+,"Y":"49.2118271883398"
+,"json_geometry":{"type":"Point","coordinates":[-122.908369595968,49.2118271883398]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":174
+,"OBJECTID":174
+,"BUSSTOPNUM":52324
+,"ONSTREET":"Cumberland St"
+,"ATSTREET":"7 Av"
+,"DIRECTION":"EB"
+,"POSITION":"MB"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.90569669649"
+,"Y":"49.2219477659085"
+,"json_geometry":{"type":"Point","coordinates":[-122.90569669649,49.2219477659085]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":175
+,"OBJECTID":175
+,"BUSSTOPNUM":52325
+,"ONSTREET":"Cumberland St"
+,"ATSTREET":"Beth St"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.903103360603"
+,"Y":"49.220780633038"
+,"json_geometry":{"type":"Point","coordinates":[-122.903103360603,49.220780633038]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":176
+,"OBJECTID":176
+,"BUSSTOPNUM":52326
+,"ONSTREET":"Cumberland St"
+,"ATSTREET":"Glenbrook Dr"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.899758538849"
+,"Y":"49.220505581924"
+,"json_geometry":{"type":"Point","coordinates":[-122.899758538849,49.220505581924]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":177
+,"OBJECTID":177
+,"BUSSTOPNUM":52327
+,"ONSTREET":"Richmond St"
+,"ATSTREET":"Seymour Crt"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.898503245293"
+,"Y":"49.2198036100275"
+,"json_geometry":{"type":"Point","coordinates":[-122.898503245293,49.2198036100275]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":178
+,"OBJECTID":178
+,"BUSSTOPNUM":52328
+,"ONSTREET":"Richmond St"
+,"ATSTREET":"Miner St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.896555060963"
+,"Y":"49.2181323316592"
+,"json_geometry":{"type":"Point","coordinates":[-122.896555060963,49.2181323316592]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":179
+,"OBJECTID":179
+,"BUSSTOPNUM":52334
+,"ONSTREET":"Quayside Dr"
+,"ATSTREET":"Rialto Crt"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.926002994084"
+,"Y":"49.2003480085758"
+,"json_geometry":{"type":"Point","coordinates":[-122.926002994084,49.2003480085758]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":180
+,"OBJECTID":180
+,"BUSSTOPNUM":52335
+,"ONSTREET":"Quayside Dr"
+,"ATSTREET":"Laguna Crt"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.922554325163"
+,"Y":"49.199891223951"
+,"json_geometry":{"type":"Point","coordinates":[-122.922554325163,49.199891223951]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":181
+,"OBJECTID":181
+,"BUSSTOPNUM":52336
+,"ONSTREET":"Quayside Dr"
+,"ATSTREET":"Reliance Crt"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.918138584498"
+,"Y":"49.1989590176326"
+,"json_geometry":{"type":"Point","coordinates":[-122.918138584498,49.1989590176326]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":182
+,"OBJECTID":182
+,"BUSSTOPNUM":52338
+,"ONSTREET":"Quayside Dr"
+,"ATSTREET":"Inn At The Quay"
+,"DIRECTION":"EB"
+,"POSITION":" "
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.912944131591"
+,"Y":"49.2000908136138"
+,"json_geometry":{"type":"Point","coordinates":[-122.912944131591,49.2000908136138]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":183
+,"OBJECTID":183
+,"BUSSTOPNUM":52360
+,"ONSTREET":"Ewen Ave"
+,"ATSTREET":"Wood St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.939918652405"
+,"Y":"49.1891781237275"
+,"json_geometry":{"type":"Point","coordinates":[-122.939918652405,49.1891781237275]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":184
+,"OBJECTID":184
+,"BUSSTOPNUM":52361
+,"ONSTREET":"Ewen Ave"
+,"ATSTREET":"Mcgillivray Pl"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.941615883825"
+,"Y":"49.1884672663439"
+,"json_geometry":{"type":"Point","coordinates":[-122.941615883825,49.1884672663439]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":185
+,"OBJECTID":185
+,"BUSSTOPNUM":52372
+,"ONSTREET":"Howes St"
+,"ATSTREET":"Ewen Ave"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.947006238054"
+,"Y":"49.1867149858259"
+,"json_geometry":{"type":"Point","coordinates":[-122.947006238054,49.1867149858259]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":186
+,"OBJECTID":186
+,"BUSSTOPNUM":52375
+,"ONSTREET":"Ewen Ave"
+,"ATSTREET":"Howes St"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.946052239115"
+,"Y":"49.1864711846296"
+,"json_geometry":{"type":"Point","coordinates":[-122.946052239115,49.1864711846296]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":187
+,"OBJECTID":187
+,"BUSSTOPNUM":52376
+,"ONSTREET":"Ewen Ave"
+,"ATSTREET":"Lawrence St"
+,"DIRECTION":"EB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.943925418759"
+,"Y":"49.1873631374471"
+,"json_geometry":{"type":"Point","coordinates":[-122.943925418759,49.1873631374471]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":188
+,"OBJECTID":188
+,"BUSSTOPNUM":52377
+,"ONSTREET":"Ewen Ave"
+,"ATSTREET":"Wood St"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.938650397146"
+,"Y":"49.1895394556997"
+,"json_geometry":{"type":"Point","coordinates":[-122.938650397146,49.1895394556997]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":189
+,"OBJECTID":189
+,"BUSSTOPNUM":52354
+,"ONSTREET":"Derwent Way"
+,"ATSTREET":"Ewen Av"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.933714393296"
+,"Y":"49.1920852639402"
+,"json_geometry":{"type":"Point","coordinates":[-122.933714393296,49.1920852639402]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":190
+,"OBJECTID":190
+,"BUSSTOPNUM":52355
+,"ONSTREET":"Duncan St"
+,"ATSTREET":"Beach St"
+,"DIRECTION":"EB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.934892783597"
+,"Y":"49.1951651921561"
+,"json_geometry":{"type":"Point","coordinates":[-122.934892783597,49.1951651921561]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":191
+,"OBJECTID":191
+,"BUSSTOPNUM":52356
+,"ONSTREET":"Duncan St"
+,"ATSTREET":"Ewen Av"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.92729365133"
+,"Y":"49.1946103073033"
+,"json_geometry":{"type":"Point","coordinates":[-122.92729365133,49.1946103073033]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":192
+,"OBJECTID":192
+,"BUSSTOPNUM":52357
+,"ONSTREET":"Ewen Av"
+,"ATSTREET":"Stanley St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.93262553969"
+,"Y":"49.1921841400876"
+,"json_geometry":{"type":"Point","coordinates":[-122.93262553969,49.1921841400876]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":193
+,"OBJECTID":193
+,"BUSSTOPNUM":52378
+,"ONSTREET":"Ewen Ave"
+,"ATSTREET":"Johnston St"
+,"DIRECTION":"EB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.934827984393"
+,"Y":"49.1911639676173"
+,"json_geometry":{"type":"Point","coordinates":[-122.934827984393,49.1911639676173]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":194
+,"OBJECTID":194
+,"BUSSTOPNUM":52358
+,"ONSTREET":"Ewen Ave"
+,"ATSTREET":"Fenton St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.936140130313"
+,"Y":"49.1907180020684"
+,"json_geometry":{"type":"Point","coordinates":[-122.936140130313,49.1907180020684]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":195
+,"OBJECTID":195
+,"BUSSTOPNUM":52299
+,"ONSTREET":"6 St"
+,"ATSTREET":"10 Av *"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.927342677884"
+,"Y":"49.2186158992663"
+,"json_geometry":{"type":"Point","coordinates":[-122.927342677884,49.2186158992663]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":196
+,"OBJECTID":196
+,"BUSSTOPNUM":52300
+,"ONSTREET":"6 St"
+,"ATSTREET":"600 *"
+,"DIRECTION":"EB"
+,"POSITION":"MB"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.925875293765"
+,"Y":"49.2174464626057"
+,"json_geometry":{"type":"Point","coordinates":[-122.925875293765,49.2174464626057]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":197
+,"OBJECTID":197
+,"BUSSTOPNUM":52301
+,"ONSTREET":"6th Ave"
+,"ATSTREET":"8th Ave*"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.923563041453"
+,"Y":"49.2156164314387"
+,"json_geometry":{"type":"Point","coordinates":[-122.923563041453,49.2156164314387]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":198
+,"OBJECTID":198
+,"BUSSTOPNUM":52302
+,"ONSTREET":"6th St"
+,"ATSTREET":"7th Ave"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.921903988038"
+,"Y":"49.2142974410443"
+,"json_geometry":{"type":"Point","coordinates":[-122.921903988038,49.2142974410443]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":199
+,"OBJECTID":199
+,"BUSSTOPNUM":52427
+,"ONSTREET":"Agnes St"
+,"ATSTREET":"4 St *"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.907038958856"
+,"Y":"49.2063037901572"
+,"json_geometry":{"type":"Point","coordinates":[-122.907038958856,49.2063037901572]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":200
+,"OBJECTID":200
+,"BUSSTOPNUM":52428
+,"ONSTREET":"Agnes St"
+,"ATSTREET":"Merrivale St *"
+,"DIRECTION":"NB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.90533969457"
+,"Y":"49.2072194173623"
+,"json_geometry":{"type":"Point","coordinates":[-122.90533969457,49.2072194173623]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":201
+,"OBJECTID":201
+,"BUSSTOPNUM":52330
+,"ONSTREET":"Columbia St"
+,"ATSTREET":"Elliot St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.902274309831"
+,"Y":"49.206330054413"
+,"json_geometry":{"type":"Point","coordinates":[-122.902274309831,49.206330054413]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":202
+,"OBJECTID":202
+,"BUSSTOPNUM":52434
+,"ONSTREET":"Agnes St"
+,"ATSTREET":"St Marys St *"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.904565313435"
+,"Y":"49.2077960530904"
+,"json_geometry":{"type":"Point","coordinates":[-122.904565313435,49.2077960530904]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":203
+,"OBJECTID":203
+,"BUSSTOPNUM":52438
+,"ONSTREET":"6th St"
+,"ATSTREET":"Royal Ave*"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.911234671178"
+,"Y":"49.2060625266558"
+,"json_geometry":{"type":"Point","coordinates":[-122.911234671178,49.2060625266558]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":204
+,"OBJECTID":204
+,"BUSSTOPNUM":52439
+,"ONSTREET":"6 St"
+,"ATSTREET":"Queens Av *"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.912877619813"
+,"Y":"49.2073528212295"
+,"json_geometry":{"type":"Point","coordinates":[-122.912877619813,49.2073528212295]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":205
+,"OBJECTID":205
+,"BUSSTOPNUM":52440
+,"ONSTREET":"6 St"
+,"ATSTREET":"3 Av *"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.914839068602"
+,"Y":"49.2089051803112"
+,"json_geometry":{"type":"Point","coordinates":[-122.914839068602,49.2089051803112]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":206
+,"OBJECTID":206
+,"BUSSTOPNUM":52441
+,"ONSTREET":"6 St"
+,"ATSTREET":"4 Av *"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.91680013477"
+,"Y":"49.210455967173"
+,"json_geometry":{"type":"Point","coordinates":[-122.91680013477,49.210455967173]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":207
+,"OBJECTID":207
+,"BUSSTOPNUM":52442
+,"ONSTREET":"6th St"
+,"ATSTREET":"5th Ave"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.918744985232"
+,"Y":"49.2120146697216"
+,"json_geometry":{"type":"Point","coordinates":[-122.918744985232,49.2120146697216]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":208
+,"OBJECTID":208
+,"BUSSTOPNUM":52431
+,"ONSTREET":"4th St"
+,"ATSTREET":"Columbia St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.905602880553"
+,"Y":"49.2049397661039"
+,"json_geometry":{"type":"Point","coordinates":[-122.905602880553,49.2049397661039]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":209
+,"OBJECTID":209
+,"BUSSTOPNUM":52243
+,"ONSTREET":"6 St"
+,"ATSTREET":"7 Av *"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.922122278257"
+,"Y":"49.2146935157508"
+,"json_geometry":{"type":"Point","coordinates":[-122.922122278257,49.2146935157508]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":210
+,"OBJECTID":210
+,"BUSSTOPNUM":52244
+,"ONSTREET":"6th St"
+,"ATSTREET":"8th Ave*"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.924256114652"
+,"Y":"49.2163718797735"
+,"json_geometry":{"type":"Point","coordinates":[-122.924256114652,49.2163718797735]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":211
+,"OBJECTID":211
+,"BUSSTOPNUM":52245
+,"ONSTREET":"6 St"
+,"ATSTREET":"8 Av *"
+,"DIRECTION":"WB"
+,"POSITION":"MB"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.925660030269"
+,"Y":"49.2174946109169"
+,"json_geometry":{"type":"Point","coordinates":[-122.925660030269,49.2174946109169]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":212
+,"OBJECTID":212
+,"BUSSTOPNUM":52318
+,"ONSTREET":"Columbia St"
+,"ATSTREET":"Elliot St"
+,"DIRECTION":"NB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.90266196906"
+,"Y":"49.2058540358695"
+,"json_geometry":{"type":"Point","coordinates":[-122.90266196906,49.2058540358695]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":213
+,"OBJECTID":213
+,"BUSSTOPNUM":52319
+,"ONSTREET":"Mcbride Blvd"
+,"ATSTREET":"Royal Ave"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.899985429474"
+,"Y":"49.2129447068075"
+,"json_geometry":{"type":"Point","coordinates":[-122.899985429474,49.2129447068075]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":214
+,"OBJECTID":214
+,"BUSSTOPNUM":52472
+,"ONSTREET":"Royal Av"
+,"ATSTREET":"1 St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.903392853624"
+,"Y":"49.209715096389"
+,"json_geometry":{"type":"Point","coordinates":[-122.903392853624,49.209715096389]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":215
+,"OBJECTID":215
+,"BUSSTOPNUM":52474
+,"ONSTREET":"2 St"
+,"ATSTREET":"Clinton Pl"
+,"DIRECTION":"WB"
+,"POSITION":"MB"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.905361486389"
+,"Y":"49.2097133978614"
+,"json_geometry":{"type":"Point","coordinates":[-122.905361486389,49.2097133978614]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":216
+,"OBJECTID":216
+,"BUSSTOPNUM":52475
+,"ONSTREET":"2 St"
+,"ATSTREET":"Queens Av"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.906603855572"
+,"Y":"49.2106982418383"
+,"json_geometry":{"type":"Point","coordinates":[-122.906603855572,49.2106982418383]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":217
+,"OBJECTID":217
+,"BUSSTOPNUM":52476
+,"ONSTREET":"2 St"
+,"ATSTREET":"3 Av"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.908614235981"
+,"Y":"49.2122995896888"
+,"json_geometry":{"type":"Point","coordinates":[-122.908614235981,49.2122995896888]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":218
+,"OBJECTID":218
+,"BUSSTOPNUM":52477
+,"ONSTREET":"2 St"
+,"ATSTREET":"4 Av"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.910526763203"
+,"Y":"49.2138171072221"
+,"json_geometry":{"type":"Point","coordinates":[-122.910526763203,49.2138171072221]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":219
+,"OBJECTID":219
+,"BUSSTOPNUM":52478
+,"ONSTREET":"2 St"
+,"ATSTREET":"5 Av"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.912496825072"
+,"Y":"49.2153849108883"
+,"json_geometry":{"type":"Point","coordinates":[-122.912496825072,49.2153849108883]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":220
+,"OBJECTID":220
+,"BUSSTOPNUM":52481
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"2nd St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.917209613477"
+,"Y":"49.2195664392564"
+,"json_geometry":{"type":"Point","coordinates":[-122.917209613477,49.2195664392564]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":221
+,"OBJECTID":221
+,"BUSSTOPNUM":52483
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"2nd St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.918218467439"
+,"Y":"49.2191568474699"
+,"json_geometry":{"type":"Point","coordinates":[-122.918218467439,49.2191568474699]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":222
+,"OBJECTID":222
+,"BUSSTOPNUM":52484
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"4th St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.921689295237"
+,"Y":"49.2172848080106"
+,"json_geometry":{"type":"Point","coordinates":[-122.921689295237,49.2172848080106]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":223
+,"OBJECTID":223
+,"BUSSTOPNUM":52421
+,"ONSTREET":"6 St"
+,"ATSTREET":"5 Av *"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.918447122657"
+,"Y":"49.2115455355385"
+,"json_geometry":{"type":"Point","coordinates":[-122.918447122657,49.2115455355385]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":224
+,"OBJECTID":224
+,"BUSSTOPNUM":52422
+,"ONSTREET":"6 St"
+,"ATSTREET":"4 Av *"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.916377801566"
+,"Y":"49.2098955075766"
+,"json_geometry":{"type":"Point","coordinates":[-122.916377801566,49.2098955075766]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":225
+,"OBJECTID":225
+,"BUSSTOPNUM":52423
+,"ONSTREET":"6 St"
+,"ATSTREET":"3 Av *"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.914590347546"
+,"Y":"49.2084738073869"
+,"json_geometry":{"type":"Point","coordinates":[-122.914590347546,49.2084738073869]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":226
+,"OBJECTID":226
+,"BUSSTOPNUM":52424
+,"ONSTREET":"6th St"
+,"ATSTREET":"Queens Ave*"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.91251439351"
+,"Y":"49.2068301000316"
+,"json_geometry":{"type":"Point","coordinates":[-122.91251439351,49.2068301000316]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":227
+,"OBJECTID":227
+,"BUSSTOPNUM":52425
+,"ONSTREET":"6th St"
+,"ATSTREET":"Royal Ave"
+,"DIRECTION":"EB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.911236995686"
+,"Y":"49.2058300000527"
+,"json_geometry":{"type":"Point","coordinates":[-122.911236995686,49.2058300000527]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":228
+,"OBJECTID":228
+,"BUSSTOPNUM":52494
+,"ONSTREET":"Royal Ave"
+,"ATSTREET":"2nd St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.905239598642"
+,"Y":"49.2089424735014"
+,"json_geometry":{"type":"Point","coordinates":[-122.905239598642,49.2089424735014]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":229
+,"OBJECTID":229
+,"BUSSTOPNUM":52495
+,"ONSTREET":"Royal Ave"
+,"ATSTREET":"3rd St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.907276962705"
+,"Y":"49.2078295383342"
+,"json_geometry":{"type":"Point","coordinates":[-122.907276962705,49.2078295383342]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":230
+,"OBJECTID":230
+,"BUSSTOPNUM":58411
+,"ONSTREET":"Agnes St"
+,"ATSTREET":"Elliot St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.903368514618"
+,"Y":"49.2082901499675"
+,"json_geometry":{"type":"Point","coordinates":[-122.903368514618,49.2082901499675]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":231
+,"OBJECTID":231
+,"BUSSTOPNUM":58415
+,"ONSTREET":"Columbia St"
+,"ATSTREET":"Mcneely St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.912147376517"
+,"Y":"49.2007795204916"
+,"json_geometry":{"type":"Point","coordinates":[-122.912147376517,49.2007795204916]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":232
+,"OBJECTID":232
+,"BUSSTOPNUM":58746
+,"ONSTREET":"Quayside Dr"
+,"ATSTREET":"Reliance Ct"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.918476697669"
+,"Y":"49.1991110705565"
+,"json_geometry":{"type":"Point","coordinates":[-122.918476697669,49.1991110705565]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":233
+,"OBJECTID":233
+,"BUSSTOPNUM":53110
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Alberta St"
+,"DIRECTION":"NB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.892813059635"
+,"Y":"49.2234162785101"
+,"json_geometry":{"type":"Point","coordinates":[-122.892813059635,49.2234162785101]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":234
+,"OBJECTID":234
+,"BUSSTOPNUM":53111
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Keary St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.892744176649"
+,"Y":"49.2262127080685"
+,"json_geometry":{"type":"Point","coordinates":[-122.892744176649,49.2262127080685]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":235
+,"OBJECTID":235
+,"BUSSTOPNUM":53106
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Sherbrooke St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.8926993861"
+,"Y":"49.2281423033115"
+,"json_geometry":{"type":"Point","coordinates":[-122.8926993861,49.2281423033115]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":236
+,"OBJECTID":236
+,"BUSSTOPNUM":53112
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Major St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.892660946245"
+,"Y":"49.2302264333351"
+,"json_geometry":{"type":"Point","coordinates":[-122.892660946245,49.2302264333351]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":237
+,"OBJECTID":237
+,"BUSSTOPNUM":53113
+,"ONSTREET":"E Columbia St"
+,"ATSTREET":"Holmes St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.892459360191"
+,"Y":"49.2361266734863"
+,"json_geometry":{"type":"Point","coordinates":[-122.892459360191,49.2361266734863]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":238
+,"OBJECTID":238
+,"BUSSTOPNUM":58739
+,"ONSTREET":"Colborne St"
+,"ATSTREET":"Ovens Ave"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.914775401169"
+,"Y":"49.2218862048222"
+,"json_geometry":{"type":"Point","coordinates":[-122.914775401169,49.2218862048222]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":239
+,"OBJECTID":239
+,"BUSSTOPNUM":58740
+,"ONSTREET":"Cumberland St"
+,"ATSTREET":"7 Av"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.906699045854"
+,"Y":"49.222954179058"
+,"json_geometry":{"type":"Point","coordinates":[-122.906699045854,49.222954179058]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":240
+,"OBJECTID":240
+,"BUSSTOPNUM":58741
+,"ONSTREET":"Cumberland St"
+,"ATSTREET":"6 Av"
+,"DIRECTION":"WB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.904190182575"
+,"Y":"49.2212783484638"
+,"json_geometry":{"type":"Point","coordinates":[-122.904190182575,49.2212783484638]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":241
+,"OBJECTID":241
+,"BUSSTOPNUM":58742
+,"ONSTREET":"Richmond St"
+,"ATSTREET":"Miner St"
+,"DIRECTION":"NB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.896374673378"
+,"Y":"49.2183838128456"
+,"json_geometry":{"type":"Point","coordinates":[-122.896374673378,49.2183838128456]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":242
+,"OBJECTID":242
+,"BUSSTOPNUM":58743
+,"ONSTREET":"Jamieson Crt"
+,"ATSTREET":"Richmond St"
+,"DIRECTION":"NB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.895705473817"
+,"Y":"49.2160250713292"
+,"json_geometry":{"type":"Point","coordinates":[-122.895705473817,49.2160250713292]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":243
+,"OBJECTID":243
+,"BUSSTOPNUM":58744
+,"ONSTREET":"1 St"
+,"ATSTREET":"Agnes St"
+,"DIRECTION":"EB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.902016242894"
+,"Y":"49.2092937308384"
+,"json_geometry":{"type":"Point","coordinates":[-122.902016242894,49.2092937308384]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":244
+,"OBJECTID":244
+,"BUSSTOPNUM":58745
+,"ONSTREET":"Quayside Dr"
+,"ATSTREET":"K De K Ct"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.916414082378"
+,"Y":"49.1989773383136"
+,"json_geometry":{"type":"Point","coordinates":[-122.916414082378,49.1989773383136]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":245
+,"OBJECTID":245
+,"BUSSTOPNUM":58747
+,"ONSTREET":"4 St"
+,"ATSTREET":"Agnes St"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.907013454224"
+,"Y":"49.2058554081202"
+,"json_geometry":{"type":"Point","coordinates":[-122.907013454224,49.2058554081202]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":246
+,"OBJECTID":246
+,"BUSSTOPNUM":58748
+,"ONSTREET":"2 St"
+,"ATSTREET":"Queens Av"
+,"DIRECTION":"EB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.906946863729"
+,"Y":"49.2106947226624"
+,"json_geometry":{"type":"Point","coordinates":[-122.906946863729,49.2106947226624]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":247
+,"OBJECTID":247
+,"BUSSTOPNUM":58986
+,"ONSTREET":"Mcbride Blvd"
+,"ATSTREET":"8th Ave"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.911722884398"
+,"Y":"49.2220888336634"
+,"json_geometry":{"type":"Point","coordinates":[-122.911722884398,49.2220888336634]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":248
+,"OBJECTID":248
+,"BUSSTOPNUM":59008
+,"ONSTREET":"Quayside Dr"
+,"ATSTREET":"Laguna Crt*"
+,"DIRECTION":"WB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.920661509321"
+,"Y":"49.1992513715587"
+,"json_geometry":{"type":"Point","coordinates":[-122.920661509321,49.1992513715587]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":249
+,"OBJECTID":249
+,"BUSSTOPNUM":59127
+,"ONSTREET":"8th Ave"
+,"ATSTREET":"22 St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.952541012335"
+,"Y":"49.200689993297"
+,"json_geometry":{"type":"Point","coordinates":[-122.952541012335,49.200689993297]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":250
+,"OBJECTID":250
+,"BUSSTOPNUM":53624
+,"ONSTREET":"6th Ave"
+,"ATSTREET":"8th St"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.923565050603"
+,"Y":"49.2114992016895"
+,"json_geometry":{"type":"Point","coordinates":[-122.923565050603,49.2114992016895]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":251
+,"OBJECTID":251
+,"BUSSTOPNUM":53593
+,"ONSTREET":"6th Ave"
+,"ATSTREET":"Glenbrook Dr"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.905795805672"
+,"Y":"49.2208941586619"
+,"json_geometry":{"type":"Point","coordinates":[-122.905795805672,49.2208941586619]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":252
+,"OBJECTID":252
+,"BUSSTOPNUM":58461
+,"ONSTREET":"Mcbride Bl"
+,"ATSTREET":"6 Av"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.908711747719"
+,"Y":"49.2199207466209"
+,"json_geometry":{"type":"Point","coordinates":[-122.908711747719,49.2199207466209]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":255
+,"OBJECTID":255
+,"BUSSTOPNUM":53103
+,"ONSTREET":"Columbia St"
+,"ATSTREET":"Blackie St*"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.911910996928"
+,"Y":"49.2011180046311"
+,"json_geometry":{"type":"Point","coordinates":[-122.911910996928,49.2011180046311]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":256
+,"OBJECTID":256
+,"BUSSTOPNUM":53108
+,"ONSTREET":"Columbia St"
+,"ATSTREET":"Mcneely St"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.912485804891"
+,"Y":"49.2008040197523"
+,"json_geometry":{"type":"Point","coordinates":[-122.912485804891,49.2008040197523]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":257
+,"OBJECTID":257
+,"BUSSTOPNUM":52337
+,"ONSTREET":"Quayside Dr"
+,"ATSTREET":"K De K Crt"
+,"DIRECTION":"EB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.91469227759"
+,"Y":"49.1995096719942"
+,"json_geometry":{"type":"Point","coordinates":[-122.91469227759,49.1995096719942]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":258
+,"OBJECTID":258
+,"BUSSTOPNUM":59848
+,"ONSTREET":"Carnarvon St"
+,"ATSTREET":"Quayside Dr"
+,"DIRECTION":"NB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.914994065653"
+,"Y":"49.200725178128"
+,"json_geometry":{"type":"Point","coordinates":[-122.914994065653,49.200725178128]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":259
+,"OBJECTID":259
+,"BUSSTOPNUM":59881
+,"ONSTREET":"6th St"
+,"ATSTREET":"Agnes St"
+,"DIRECTION":"EB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.910108515053"
+,"Y":"49.2049685563163"
+,"json_geometry":{"type":"Point","coordinates":[-122.910108515053,49.2049685563163]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":264
+,"OBJECTID":264
+,"BUSSTOPNUM":60833
+,"ONSTREET":"Queensborough Landing"
+,"ATSTREET":"Howes St"
+,"DIRECTION":"NB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.949105790842"
+,"Y":"49.1913479537005"
+,"json_geometry":{"type":"Point","coordinates":[-122.949105790842,49.1913479537005]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":265
+,"OBJECTID":265
+,"BUSSTOPNUM":60837
+,"ONSTREET":"8th St"
+,"ATSTREET":"Carnarvon St"
+,"DIRECTION":"EB"
+,"POSITION":"MB"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.912106362751"
+,"Y":"49.2015291308548"
+,"json_geometry":{"type":"Point","coordinates":[-122.912106362751,49.2015291308548]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":266
+,"OBJECTID":266
+,"BUSSTOPNUM":60838
+,"ONSTREET":"8th St"
+,"ATSTREET":"Columbia St"
+,"DIRECTION":"WB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.912022398377"
+,"Y":"49.2018042332245"
+,"json_geometry":{"type":"Point","coordinates":[-122.912022398377,49.2018042332245]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":267
+,"OBJECTID":267
+,"BUSSTOPNUM":60839
+,"ONSTREET":"Alexander St"
+,"ATSTREET":"Columbia St"
+,"DIRECTION":"EB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.911347309979"
+,"Y":"49.2016188815735"
+,"json_geometry":{"type":"Point","coordinates":[-122.911347309979,49.2016188815735]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":268
+,"OBJECTID":268
+,"BUSSTOPNUM":60848
+,"ONSTREET":"Alexander St"
+,"ATSTREET":"Carnarvon St*"
+,"DIRECTION":"EB"
+,"POSITION":"MB"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.911492983993"
+,"Y":"49.201735113648"
+,"json_geometry":{"type":"Point","coordinates":[-122.911492983993,49.201735113648]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":269
+,"OBJECTID":269
+,"BUSSTOPNUM":60877
+,"ONSTREET":"Carnarvon St"
+,"ATSTREET":"10th St"
+,"DIRECTION":"SB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"NO"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":1
+,"Override":null
+,"X":"-122.915222239283"
+,"Y":"49.2007651320587"
+,"json_geometry":{"type":"Point","coordinates":[-122.915222239283,49.2007651320587]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":270
+,"OBJECTID":270
+,"BUSSTOPNUM":60878
+,"ONSTREET":"8th St"
+,"ATSTREET":"Columbia St*"
+,"DIRECTION":"EB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.911866911125"
+,"Y":"49.201346226811"
+,"json_geometry":{"type":"Point","coordinates":[-122.911866911125,49.201346226811]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":271
+,"OBJECTID":271
+,"BUSSTOPNUM":61067
+,"ONSTREET":"Starlight Casino Driveway"
+,"ATSTREET":"Gifford St"
+,"DIRECTION":"SB"
+,"POSITION":"FS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.954506325944"
+,"Y":"49.1861784641869"
+,"json_geometry":{"type":"Point","coordinates":[-122.954506325944,49.1861784641869]}
+}
+,{
+"json_featuretype":"BUS_STOPS"
+,"OBJECTID_1":272
+,"OBJECTID":272
+,"BUSSTOPNUM":61419
+,"ONSTREET":"Renaissance Sq"
+,"ATSTREET":"Quayside Dr"
+,"DIRECTION":"NB"
+,"POSITION":"NS"
+,"STATUS":"ACTIVE"
+,"ACCESSIBLE":"YES"
+,"CITY_NAME":"NEW WESTMINSTER"
+,"RuleID":2
+,"Override":null
+,"X":"-122.924573536808"
+,"Y":"49.1999878654647"
+,"json_geometry":{"type":"Point","coordinates":[-122.924573536808,49.1999878654647]}
+}
+]

@@ -1,0 +1,4106 @@
+[
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 1,
+		"Name" : "Centennial Community Centre Tiny Tot Playtime",
+		"Description" : "Offers socialization through play for pre-school aged children.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "Mon-Fri, 9:15am-11:15am, 12:30pm-2:30pm",
+		"Location" : "65 E Sixth Ave",
+		"PC" : "V3L 4G6",
+		"Phone" : "(604)777-5100",
+		"Email" : "",
+		"Website" : "https://onlineca.activecommunities.com/NWPR/Start/Start.asp?SCheck=595071779&SDT=40560.4876920486",
+		"X" : "-122.90823879996866",
+		"Y" : "49.22020726264855",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90823879996866, 49.22020726264855 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 2,
+		"Name" : "Century House Tiny Tot Playtime",
+		"Description" : "Offers socialization through play for pre-school aged children.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "Mon-Fri, 9:15am-11:15am",
+		"Location" : "620 Eighth St",
+		"PC" : "V3M 3S2",
+		"Phone" : "(604)519-1066",
+		"Email" : "",
+		"Website" : "https://onlineca.activecommunities.com/NWPR/Start/Start.asp?SCheck=595071779&SDT=40560.4876920486",
+		"X" : "-122.92726828217071",
+		"Y" : "49.21180394240001",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92726828217071, 49.21180394240001 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 3,
+		"Name" : "Connaught Heights Elementary School Strong Start Centre",
+		"Description" : "Provides learning activities to help pre-school aged children get ready for Kindergarten. Pre-registration is required.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "Mon-Fri, 12:30pm-3:30pm",
+		"Location" : "2201 London St",
+		"PC" : "V3M 3G1",
+		"Phone" : "(604)517-6010",
+		"Email" : "",
+		"Website" : "http://sd40.bc.ca/services/school-district-40-strong-start-early-learning-centres",
+		"X" : "-122.95530999099246",
+		"Y" : "49.20269917287598",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.95530999099246, 49.20269917287598 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 4,
+		"Name" : "Connaught Heights Elementary School Tiny Tot Playtime",
+		"Description" : "Offers socialization through play for pre-school aged children.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "Mon-Wed, 9:15am-11:15am",
+		"Location" : "2201 London St",
+		"PC" : "V3M 3G1",
+		"Phone" : "(604)525-7388",
+		"Email" : "",
+		"Website" : "https://onlineca.activecommunities.com/NWPR/Start/Start.asp?SCheck=595071779&SDT=40560.4876920486",
+		"X" : "-122.95530999099246",
+		"Y" : "49.20269917287598",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.95530999099246, 49.20269917287598 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 5,
+		"Name" : "Douglas College ECE Centre",
+		"Description" : "Offers group child care for children aged 30 to 60 months.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "2814 - 700 Royal Ave",
+		"PC" : "V3M 5Z5",
+		"Phone" : "(604)527-5632",
+		"Email" : "",
+		"Website" : "http://www.douglascollege.ca/student-services/daycare",
+		"X" : "-122.91274781516022",
+		"Y" : "49.20350201411526",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91274781516022, 49.20350201411526 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 6,
+		"Name" : "Frog Hollow Montessori House",
+		"Description" : "Offers group child care for children aged 30 to 60 months and school age.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "529 Queens Ave",
+		"PC" : "V3L 1K2",
+		"Phone" : "(604)521-1355",
+		"Email" : "",
+		"Website" : "http://www.froghollowmontessori.com/",
+		"X" : "-122.91249284301858",
+		"Y" : "49.207653330265714",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91249284301858, 49.207653330265714 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 7,
+		"Name" : "Glenbrook Daycare",
+		"Description" : "Offers group multi-age child care.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "320 Eighth Ave",
+		"PC" : "V3L 1Y2",
+		"Phone" : "(604)522-0666",
+		"Email" : "",
+		"Website" : "",
+		"X" : "-122.92091794694497",
+		"Y" : "49.217392630621376",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92091794694497, 49.217392630621376 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 8,
+		"Name" : "Glenbrook Daycare (Afterschool)",
+		"Description" : "Offers group child care for school age children.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "701 Sixth St",
+		"PC" : "V3L 3C6",
+		"Phone" : "(604)861-8667",
+		"Email" : "",
+		"Website" : "",
+		"X" : "-122.9220285940429",
+		"Y" : "49.214894293794764",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9220285940429, 49.214894293794764 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 9,
+		"Name" : "Golden Sunshine Daycare",
+		"Description" : "Offers group multi-age child care.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "320 Eighth St",
+		"PC" : "V3M 3R4",
+		"Phone" : "(778)223-6676",
+		"Email" : "",
+		"Website" : "http://goldensunshinedaycare.com/",
+		"X" : "-122.91982615941183",
+		"Y" : "49.20736594633658",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91982615941183, 49.20736594633658 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 10,
+		"Name" : "Griffin's Alley Out-of-School Care",
+		"Description" : "Offers group child care for school age children.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "701 Park Cres",
+		"PC" : "V3L 5V4",
+		"Phone" : "(604)517-5938",
+		"Email" : "",
+		"Website" : "http://wcass.com/home.html",
+		"X" : "-122.91132614091241",
+		"Y" : "49.22070089854204",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91132614091241, 49.22070089854204 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 11,
+		"Name" : "Happy Hours Wee Care Centre Society",
+		"Description" : "Offers group child care for children 30 to 60 months.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "101 - 335 Carnarvon St",
+		"PC" : "V3L 1B9",
+		"Phone" : "(604)526-1414",
+		"Email" : "",
+		"Website" : "http://www.weecarecentre.ca",
+		"X" : "-122.90632887385678",
+		"Y" : "49.2058928169234",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90632887385678, 49.2058928169234 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 12,
+		"Name" : "Hilltop Hideaway Out-of-School Care",
+		"Description" : "Offers group child care for school age children.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "331 Richmond St",
+		"PC" : "V3L 4B7",
+		"Phone" : "(604)517-5918",
+		"Email" : "",
+		"Website" : "http://wcass.com/home.html",
+		"X" : "-122.89953524768777",
+		"Y" : "49.22653999242041",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89953524768777, 49.22653999242041 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 13,
+		"Name" : "Kids Korner",
+		"Description" : "Offers group child care for school age children.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "85 Merivale St",
+		"PC" : "V3L 0G2",
+		"Phone" : "(604)540-1688",
+		"Email" : "",
+		"Website" : "http://wcass.com/home.html",
+		"X" : "-122.90440795905856",
+		"Y" : "49.20889374619169",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90440795905856, 49.20889374619169 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 14,
+		"Name" : "Klub Kelvin Out-of-School Care",
+		"Description" : "Offers group child care for school age children.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "1010 Hamilton St",
+		"PC" : "V3M 2M9",
+		"Phone" : "(604)517-5958",
+		"Email" : "",
+		"Website" : "http://wcass.com/home.html",
+		"X" : "-122.93019210086733",
+		"Y" : "49.210734343015645",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.93019210086733, 49.210734343015645 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 15,
+		"Name" : "Kolumbia Inn Daycare",
+		"Description" : "Offers group multi-age child care.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "236 Ross Dr",
+		"PC" : "V3L 0B2",
+		"Phone" : "(604)524-0522",
+		"Email" : "",
+		"Website" : "http://kidschildcare.ca/",
+		"X" : "-122.89978777430392",
+		"Y" : "49.21350280894447",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89978777430392, 49.21350280894447 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 16,
+		"Name" : "Misty Meadows Out-of-School Care",
+		"Description" : "Offers group child care for school age children.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "91 Courtney Cres",
+		"PC" : "V3L 4M1",
+		"Phone" : "(604)517-6088",
+		"Email" : "",
+		"Website" : "http://wcass.com/home.html",
+		"X" : "-122.91269168469853",
+		"Y" : "49.22611199342956",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91269168469853, 49.22611199342956 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 17,
+		"Name" : "New Westminster Family Place",
+		"Description" : "Provides a family resource program for families with children from newborn to five years old.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "Drop-in: Monday - Tuesday, 9:30 am - 11:30 am, 1:00pm - 3:00 pm, Wednesday - Friday, 9:30 am - 11:30 am",
+		"Location" : "101 - 93 Sixth Street",
+		"PC" : "V3L 2Z8",
+		"Phone" : "(604)520-3666",
+		"Email" : "info@nwfamily.bc.ca",
+		"Website" : "http://nwfamily.bc.ca/",
+		"X" : "-122.90992211784747",
+		"Y" : "49.20530886689635",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90992211784747, 49.20530886689635 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 18,
+		"Name" : "New Westminster Public Library - Main Branch",
+		"Description" : "Offers story-times and sing-alongs for pre-school children aged 2 to 5 years.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "716 Sixth Ave",
+		"PC" : "V3M 2B3",
+		"Phone" : "(604)527-4660",
+		"Email" : "",
+		"Website" : "www.nwpl.ca",
+		"X" : "-122.92238139169123",
+		"Y" : "49.2116721626214",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92238139169123, 49.2116721626214 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 19,
+		"Name" : "New Westminster Public Library - Queensborough Branch",
+		"Description" : "Offers story-times and sing-alongs for pre-school children aged 2 to 5 years.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "920 Ewen Ave",
+		"PC" : "V3M 5C8",
+		"Phone" : "(604)636-4450",
+		"Email" : "",
+		"Website" : "www.nwpl.ca",
+		"X" : "-122.9436168718548",
+		"Y" : "49.18588392554472",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9436168718548, 49.18588392554472 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 20,
+		"Name" : "Playwest",
+		"Description" : "Offers group child care for school age children.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "1714 Eighth Ave",
+		"PC" : "V3M 2S7",
+		"Phone" : "(604)517-6078",
+		"Email" : "",
+		"Website" : "http://wcass.com/home.html",
+		"X" : "-122.94235017163653",
+		"Y" : "49.20560748055629",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.94235017163653, 49.20560748055629 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 21,
+		"Name" : "QE Club House",
+		"Description" : "Offers group child care for school age children.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "921 Salter St",
+		"PC" : "V3M 6G8",
+		"Phone" : "(604)540-1688",
+		"Email" : "",
+		"Website" : "http://wcass.com/home.html",
+		"X" : "-122.9435723162792",
+		"Y" : "49.1848190369933",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9435723162792, 49.1848190369933 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 22,
+		"Name" : "Queen Elizabeth Elementary School Strong Start Centre",
+		"Description" : "Provides learning activities to help pre-school aged children get ready for Kindergarten. Pre-registration is required.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "Mon-Fri, 9:00am-12:00pm, Tue-Thu, 4:00pm-7:00pm",
+		"Location" : "921 Salter St",
+		"PC" : "V3M 6G8",
+		"Phone" : "(604)517-6080",
+		"Email" : "",
+		"Website" : "http://sd40.bc.ca/services/school-district-40-strong-start-early-learning-centres",
+		"X" : "-122.9435723162792",
+		"Y" : "49.1848190369933",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9435723162792, 49.1848190369933 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 23,
+		"Name" : "Queens Avenue Day Care",
+		"Description" : "Offers group multi-age child care.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "529 Queens Ave",
+		"PC" : "V3L 1K2",
+		"Phone" : "(604)525-3255",
+		"Email" : "",
+		"Website" : "http://www.queensavenuedaycare.com/",
+		"X" : "-122.91249284301858",
+		"Y" : "49.207653330265714",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91249284301858, 49.207653330265714 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 24,
+		"Name" : "Queen's Park Preschool",
+		"Description" : "Offers group preschool.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "600 First St",
+		"PC" : "V3M 3S2",
+		"Phone" : "(604)526-1153",
+		"Email" : "",
+		"Website" : "http://qpps.ca/",
+		"X" : "-122.90798545508046",
+		"Y" : "49.217495864411035",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90798545508046, 49.217495864411035 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 25,
+		"Name" : "Queensborough Community Centre Tiny Tot Playtime",
+		"Description" : "Offers socialization through play for pre-school aged children.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "Mon-Fri, 9:15am-11:15am, 12:30pm-2:30pm",
+		"Location" : "920 Ewen Ave",
+		"PC" : "V3M 5C8",
+		"Phone" : "(604)525-7388",
+		"Email" : "",
+		"Website" : "https://onlineca.activecommunities.com/NWPR/Start/Start.asp?SCheck=595071779&SDT=40560.4876920486",
+		"X" : "-122.9436168718548",
+		"Y" : "49.18588392554472",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9436168718548, 49.18588392554472 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 26,
+		"Name" : "Queensborough KIDS",
+		"Description" : "Offers group multi-age child care.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "920 Ewen Ave",
+		"PC" : "V3M 5C8",
+		"Phone" : "",
+		"Email" : "",
+		"Website" : "http://kidschildcare.ca/",
+		"X" : "-122.9436168718548",
+		"Y" : "49.18588392554472",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9436168718548, 49.18588392554472 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 27,
+		"Name" : "Ready Set Grow Daycare",
+		"Description" : "Offers group multi-age child care.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "850 Queens Ave",
+		"PC" : "V3M 0A8",
+		"Phone" : "(604)526-9788",
+		"Email" : "",
+		"Website" : "http://www.purposesociety.org/RSG.html",
+		"X" : "-122.91585647092386",
+		"Y" : "49.2041758645978",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91585647092386, 49.2041758645978 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 28,
+		"Name" : "Richard McBride Elementary School Strong Start Centre",
+		"Description" : "Provides learning activities to help pre-school aged children get ready for Kindergarten. Pre-registration is required.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "Mon-Fri, 9:00am-12:00pm",
+		"Location" : "331 Richmond St",
+		"PC" : "V3L 4B7",
+		"Phone" : "(604)517-6090",
+		"Email" : "",
+		"Website" : "http://sd40.bc.ca/services/school-district-40-strong-start-early-learning-centres",
+		"X" : "-122.89953524768777",
+		"Y" : "49.22653999242041",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89953524768777, 49.22653999242041 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 29,
+		"Name" : "St. Barnabas Daycare Society",
+		"Description" : "Offers group multi-age child care.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "1005 Napanee St",
+		"PC" : "V3M 5Y2",
+		"Phone" : "(604)526-6956",
+		"Email" : "",
+		"Website" : "http://stbarnabasdaycare.com/",
+		"X" : "-122.92513480023672",
+		"Y" : "49.2078392792705",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92513480023672, 49.2078392792705 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 30,
+		"Name" : "Urban Academy OOSC Centre and JK Centre",
+		"Description" : "Offers group child care for children aged 30 to 60 months and school age.",
+		"Category" : "Child Care, Child Development and Early Learning Programs",
+		"Hours" : "",
+		"Location" : "101 Third St",
+		"PC" : "V3L 2P9",
+		"Phone" : "(604)524-2211",
+		"Email" : "",
+		"Website" : "http://www.urbanacademy.ca/the-ua-experience/out-school-care",
+		"X" : "-122.90711358598637",
+		"Y" : "49.20856305140219",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90711358598637, 49.20856305140219 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 1,
+		"Name" : "Douglas College - Skills Connect for Immigrants",
+		"Description" : "Assists internationally trained professionals to transition to meaningful employment using their pre-landing education, experience and skills.",
+		"Category" : "Settlement Services",
+		"Hours" : "",
+		"Location" : "700 Royal Ave",
+		"PC" : "V3M 5Z5",
+		"Phone" : "(604)527-5400",
+		"Email" : "skillsconnect@douglascollege.ca",
+		"Website" : "http://www.douglascollege.ca",
+		"X" : "-122.91274781516022",
+		"Y" : "49.20350201411526",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91274781516022, 49.20350201411526 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 2,
+		"Name" : "Family Services of Greater Vancouver",
+		"Description" : "Offers a variety of programs for new immigrants and refugees, including ESL Conversation Circles and ESL for Grandparents.",
+		"Category" : "Settlement Services",
+		"Hours" : "",
+		"Location" : "321 Sixth St",
+		"PC" : "V3L 3A7",
+		"Phone" : "(604)525-9144",
+		"Email" : "ceds-nw@fsgv.ca",
+		"Website" : "http://www.fsgv.ca",
+		"X" : "-122.91524300931644",
+		"Y" : "49.20945714598408",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91524300931644, 49.20945714598408 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 3,
+		"Name" : "Fraser Works Co-op Employment Services Centre",
+		"Description" : "Provides career planning, job search and life skills workshops, one-on-one employment counselling  and training placement services. Career services are provided in multiple languages.",
+		"Category" : "Settlement Services",
+		"Hours" : "Mon-Fri, 8:30am-4:30pm",
+		"Location" : "2/F - 519 Seventh St",
+		"PC" : "V3M 6A7",
+		"Phone" : "(604)522-9701",
+		"Email" : "info@fraserworks.ca",
+		"Website" : "http://www.fraserworks.ca",
+		"X" : "-122.920455471798",
+		"Y" : "49.212217450947115",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.920455471798, 49.212217450947115 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 4,
+		"Name" : "Immigrant Services Society of BC",
+		"Description" : "Offers a variety of programs for new immigrants and refugees, including First Language Settlement Support, Immigrant Women's Peer Support Program, LINC (ESL, Language and Settlement), Moving Ahead, My Circle, Online Learning, Settlement Employment Support, Settlement Services, and Skills Connect.",
+		"Category" : "Settlement Services",
+		"Hours" : "",
+		"Location" : "280 - 610 Sixth St",
+		"PC" : "V3L 3C2",
+		"Phone" : "(604)522-5902",
+		"Email" : "andrea.canales@issbc.org",
+		"Website" : "http://www.issbc.org",
+		"X" : "-122.92252572535635",
+		"Y" : "49.212490006536555",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92252572535635, 49.212490006536555 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 5,
+		"Name" : "Lower Mainland Purpose Society",
+		"Description" : "Offers a variety of programs for new immigrants and refugees, including English Made Easy, Family Circle, Fun Learning and You (FLY), and Pitter-Patter Circle Time.",
+		"Category" : "Settlement Services",
+		"Hours" : "",
+		"Location" : "40 Begbie St",
+		"PC" : "V3M 3L9",
+		"Phone" : "(604)526-2522",
+		"Email" : "nan.gray@purposesociety.org",
+		"Website" : "http://www.purposesociety.org",
+		"X" : "-122.91125685863508",
+		"Y" : "49.20210369037047",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91125685863508, 49.20210369037047 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 6,
+		"Name" : "Mosaic",
+		"Description" : "Offers a variety of programs for new immigrants and refugees, including Culture Connections, Employment Program of BC, I Belong Settlement Support for LGBTQ Newcomers, Moving Ahead, Settlement Workers in the Schools (SWIS), Settlement and Integration Program, and Workplace Connections Mentoring Program.",
+		"Category" : "Settlement Services",
+		"Hours" : "",
+		"Location" : "519 Seventh St",
+		"PC" : "V3M 6A7",
+		"Phone" : "(604)438-8214",
+		"Email" : "mosaic@mosaicbc.com",
+		"Website" : "http://www.mosaicbc.com",
+		"X" : "-122.920455471798",
+		"Y" : "49.212217450947115",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.920455471798, 49.212217450947115 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 7,
+		"Name" : "New West English Language Centre",
+		"Description" : "Provides beginner to intermediate English language classes.",
+		"Category" : "Settlement Services",
+		"Hours" : "",
+		"Location" : "329 Columbia St",
+		"PC" : "V3L 5T6",
+		"Phone" : "(604)523-0606",
+		"Email" : "belc@shawcable.com",
+		"Website" : "http://www.englishcentres.ca",
+		"X" : "-122.90526186157656",
+		"Y" : "49.20499428355258",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90526186157656, 49.20499428355258 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 8,
+		"Name" : "New Westminster Family Place",
+		"Description" : "Offers a variety of programs for new immigrants and refugees, including Family Place Drop-In, Immigrant Grandparents on the Go, Mother Goose, Nobody's Perfect, and Sun Fun.",
+		"Category" : "Settlement Services",
+		"Hours" : "",
+		"Location" : "101 - 93 Sixth St",
+		"PC" : "V3L 2Z8",
+		"Phone" : "(604)520-3666",
+		"Email" : "marjorie@nwfamily.bc.ca",
+		"Website" : "http://www.nwfamily.bc.ca/index.htm",
+		"X" : "-122.90992211784747",
+		"Y" : "49.20530886689635",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90992211784747, 49.20530886689635 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 9,
+		"Name" : "New Westminster Public Library",
+		"Description" : "Provides Conversation Circles and English and French Reading Buddies.",
+		"Category" : "Settlement Services",
+		"Hours" : "",
+		"Location" : "716 Sixth Ave",
+		"PC" : "V3M 2B3",
+		"Phone" : "(604)527-4660",
+		"Email" : "sbuss@nwpl.ca",
+		"Website" : "http://www.nwpl.ca/",
+		"X" : "-122.92238139169123",
+		"Y" : "49.2116721626214",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92238139169123, 49.2116721626214 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 10,
+		"Name" : "Public Health Services",
+		"Description" : "Provides medical care and social support for new immigrants and refugees whose medical needs may be complicated by cultural, knowledge and language barriers.",
+		"Category" : "Settlement Services",
+		"Hours" : "Appointment Only",
+		"Location" : "218 - 610 Sixth St",
+		"PC" : "V3L 3C2",
+		"Phone" : "(604)777-6740",
+		"Email" : "Brenda.McIntosh@fraserhealth.ca",
+		"Website" : "http://www.fraserhealth.ca/find_us",
+		"X" : "-122.92252572535635",
+		"Y" : "49.212490006536555",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92252572535635, 49.212490006536555 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 11,
+		"Name" : "Queensborough Community Centre",
+		"Description" : "Lower Mainland Purpose Society offers English Made Easy and SUCCESS offers Settlement Services for Immigrants.",
+		"Category" : "Settlement Services",
+		"Hours" : "",
+		"Location" : "920 Ewen Ave",
+		"PC" : "V3M 5C8",
+		"Phone" : "(604)525-7388",
+		"Email" : "srenyard@newwestcity.ca",
+		"Website" : "http://www.newwestpcr.ca",
+		"X" : "-122.9436168718548",
+		"Y" : "49.18588392554472",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9436168718548, 49.18588392554472 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 12,
+		"Name" : "School District #40 (New Westminster)",
+		"Description" : "Provides Adult Foundations (ELL/ESL) Classes and Strong Start Early Learning Programs.",
+		"Category" : "Settlement Services",
+		"Hours" : "",
+		"Location" : "1001 Columbia St",
+		"PC" : "V3M 1C4",
+		"Phone" : "(604)517-6240",
+		"Email" : "",
+		"Website" : "http://www.sd40.bc.ca",
+		"X" : "-122.91742448361838",
+		"Y" : "49.201189097454",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91742448361838, 49.201189097454 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 13,
+		"Name" : "SUCCESS (Qayqayt Neighbourhood Learning Centre)",
+		"Description" : "Offers a variety of programs for new immigrants and refugees, including Employment Mentoring Program, Group Information Classes and Workshops, Highway to Career Exploration in Canada, One-on-One Settlement Services and Diwali Newcomers Welcoming Event, and Newcomer Ambassador Program.",
+		"Category" : "Settlement Services",
+		"Hours" : "",
+		"Location" : "85 Merivale St",
+		"PC" : "V3L 0G2",
+		"Phone" : "(604)430-1899",
+		"Email" : "chu.ling@success.bc.ca",
+		"Website" : "http://www.success.bc.ca",
+		"X" : "-122.90440795905856",
+		"Y" : "49.20889374619169",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90440795905856, 49.20889374619169 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 14,
+		"Name" : "Umbrella Multicultural Health Co-op",
+		"Description" : "Offers a variety of programs for new immigrants and refugees, including Many Faces of Diabetes, Pediatric Health Outreach Program, Umbrella Mobile Clinic, and Voces Maternas.",
+		"Category" : "Settlement Services",
+		"Hours" : "",
+		"Location" : "B - 630 Carnarvon St",
+		"PC" : "V3M 1E5",
+		"Phone" : "(604)553-0633",
+		"Email" : "cransen@umbrellacoop.ca",
+		"Website" : "http://www.umbrellacoop.ca",
+		"X" : "-122.90963686974206",
+		"Y" : "49.203496743701606",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90963686974206, 49.203496743701606 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 1,
+		"Name" : "Fraserside Community Services - Subsidy Programs",
+		"Description" : "Provides subsidies for the following programs for low income New Westminster residents: Parks, Culture and Recreation subsidies (for New Westminster Parks, Recreation and Culture programs), Kidsport BC grants (subsidized registration fees for sports programs for children) and Camping Bureau (subsidized registration fees for children's summer camps).",
+		"Category" : "Parks, Recreation and Community School Programming",
+		"Hours" : "Hours vary by program, please visit website for more details",
+		"Location" : "2/F - 519 Seventh Street",
+		"PC" : "V3L 3B7",
+		"Phone" : "(604)522-3722 ext 120",
+		"Email" : "info@fraserside.bc.ca",
+		"Website" : "http://www.fraserside.bc.ca/mental-health-and-counselling/community-desk/",
+		"X" : "-122.920455471798",
+		"Y" : "49.212217450947115",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.920455471798, 49.212217450947115 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 2,
+		"Name" : "New Westminster Community Schools",
+		"Description" : "Community Schools are committed to bringing programs and services to district schools in seven core programming and service areas: physical activity, arts and exploration, literacy, leadership, social responsibility, resources for children, youth and families, community engagement and health and wellness.",
+		"Category" : "Parks, Recreation and Community School Programming",
+		"Hours" : "",
+		"Location" : "2/F - 1001 Columbia Street",
+		"PC" : "V3M 1C4",
+		"Phone" : "(604)517-6240",
+		"Email" : "District Community School Coordinators: Robin Stewart (rstewart@sd40.bc.ca), Andrea Owen (aowen@sd40.bc.ca)",
+		"Website" : "http://district.sd40.bc.ca/services/community-schools",
+		"X" : "-122.9163643334876",
+		"Y" : "49.20047229052344",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9163643334876, 49.20047229052344 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 3,
+		"Name" : "New Westminster Parks, Culture and Recreation - Canada Games Pool",
+		"Description" : "Indoor swimming and fitness facilities, including aquatics and fitness programming. There are free swims during certain periods of the week/month, please contact New Westminster Parks, Culture and Recreation or view the Active Living Guide for details. ",
+		"Category" : "Parks, Recreation and Community School Programming",
+		"Hours" : "Facility is open on Monday-Thursday, 6:00 am - 9:55 pm, Friday, 6:00 am - 10:25 pm, Saturday, 8:00 am - 8:25 pm, Sunday, 8:00 am - 9:55 pm , hours for particular programs and services vary",
+		"Location" : "65 East Sixth Avenue",
+		"PC" : "V3L 4G6",
+		"Phone" : "(604)526-4281",
+		"Email" : "",
+		"Website" : "http://www.newwestpcr.ca/recreation/recreation_centres/canada_games_pool.php",
+		"X" : "-122.90723884417564",
+		"Y" : "49.22158156046215",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90723884417564, 49.22158156046215 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 4,
+		"Name" : "New Westminster Parks, Culture and Recreation - Centennial Community Centre",
+		"Description" : "Offers various fitness, sports, culture, arts and other programming.",
+		"Category" : "Parks, Recreation and Community School Programming",
+		"Hours" : "Monday-Friday, 9:00 am - 8:30 pm, Friday, 9:00 am - 8:00 pm, Saturday, 8:00 am - 1:00 pm, Sunday, 8:30 am - 12:00 pm",
+		"Location" : "65 East Sixth Avenue",
+		"PC" : "V3L 4G6",
+		"Phone" : "(604)777-5100",
+		"Email" : "",
+		"Website" : "http://www.newwestpcr.ca/recreation/recreation_centres/centennial_community_centre.php",
+		"X" : "-122.90723884417564",
+		"Y" : "49.22158156046215",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90723884417564, 49.22158156046215 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 5,
+		"Name" : "New Westminster Parks, Culture and Recreation - Century House",
+		"Description" : "Offers various programs for persons 50+ years old.",
+		"Category" : "Parks, Recreation and Community School Programming",
+		"Hours" : "Monday-Friday, 9:00 am - 9:00 pm, Saturday, 9:00 am - 4:00 pm, Sunday, 12:00 pm - 4:00 pm (reduced hours during July & August)",
+		"Location" : "620 Eighth Street",
+		"PC" : "V3M 3S2",
+		"Phone" : "(604)519-1066",
+		"Email" : "",
+		"Website" : "http://www.newwestpcr.ca/recreation/recreation_centres/century_house.php",
+		"X" : "-122.92602861447645",
+		"Y" : "49.21175624925655",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92602861447645, 49.21175624925655 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 6,
+		"Name" : "New Westminster Parks, Culture and Recreation - Hume Park Outdoor Pool",
+		"Description" : "Outdoor swimming facilities, including aquatics programming. There are free swims during certain periods of the week, please contact New Westminster Parks, Culture and Recreation or view the Active Living Guide for details.",
+		"Category" : "Parks, Recreation and Community School Programming",
+		"Hours" : "Variable (weather-dependent) but usually open from late June to Labour Day from 1:15 pm - 8:00 pm",
+		"Location" : "660 East Columbia Street",
+		"PC" : "",
+		"Phone" : "(604)526-4281",
+		"Email" : "",
+		"Website" : "http://www.newwestpcr.ca/recreation/recreation_centres/canada_games_pool/outdoor_pools.php",
+		"X" : "-122.89174558767459",
+		"Y" : "49.23318782041552",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89174558767459, 49.23318782041552 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 7,
+		"Name" : "New Westminster Parks, Culture and Recreation - Moody Park Arena",
+		"Description" : "Indoor ice skating rink that offers various ice sports related programs.",
+		"Category" : "Parks, Recreation and Community School Programming",
+		"Hours" : "Hours vary depending on season",
+		"Location" : "701 Eighth Avenue",
+		"PC" : "V3M 2R2",
+		"Phone" : "(604)525-5301",
+		"Email" : "",
+		"Website" : "http://www.newwestpcr.ca/recreation/recreation_centres/moody_park_arena.php",
+		"X" : "-122.9261783718952",
+		"Y" : "49.21556332422588",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9261783718952, 49.21556332422588 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 8,
+		"Name" : "New Westminster Parks, Culture and Recreation - Moody Park Outdoor Pool",
+		"Description" : "Outdoor swimming facilities, including aquatics programming. There are free swims during certain periods of the week, please contact New Westminster Parks, Culture and Recreation or view the Active Living Guide for details .",
+		"Category" : "Parks, Recreation and Community School Programming",
+		"Hours" : "Variable (weather-dependent) but usually open from late June to Labour Day from 1:15 pm - 8:00 pm",
+		"Location" : "701 Tenth Street ",
+		"PC" : "",
+		"Phone" : "(604)526-4281",
+		"Email" : "",
+		"Website" : "http://www.newwestpcr.ca/recreation/recreation_centres/canada_games_pool/outdoor_pools.php",
+		"X" : "-122.92816347757771",
+		"Y" : "49.21131823811966",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92816347757771, 49.21131823811966 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 9,
+		"Name" : "New Westminster Parks, Culture and Recreation - Museum and Archives (located at Anvil Centre)",
+		"Description" : "Offers various cultural programs and exhibits at museum and archives.",
+		"Category" : "Parks, Recreation and Community School Programming",
+		"Hours" : "Monday-Wednesday, Friday-Sunday, 10:00 am - 5:00 pm, Thursday, 10:00 am - 8:00 pm",
+		"Location" : "777 Columbia Street",
+		"PC" : "V3M 1B6",
+		"Phone" : "(604)515-8330",
+		"Email" : "anvilcentre@newwestcity.ca",
+		"Website" : "http://www.newwestpcr.ca/culture/museum_and_archives.php",
+		"X" : "-122.91119907005971",
+		"Y" : "49.20179604621419",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91119907005971, 49.20179604621419 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 10,
+		"Name" : "New Westminster Parks, Culture and Recreation - Queens Park Arena",
+		"Description" : "Indoor ice skating rink that offers various ice sports related programs (and other sports during summer months). Location is within Queens Park itself near 3rd Avenue entrance.",
+		"Category" : "Parks, Recreation and Community School Programming",
+		"Hours" : "Hours vary depending on season",
+		"Location" : "600 First Street ",
+		"PC" : "",
+		"Phone" : "(604)777-5111",
+		"Email" : "",
+		"Website" : "http://www.newwestpcr.ca/recreation/recreation_centres/queens_park_arena.php",
+		"X" : "-122.9057725467226",
+		"Y" : "49.214826986315074",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9057725467226, 49.214826986315074 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 11,
+		"Name" : "New Westminster Parks, Culture and Recreation - Queens Park Arenex",
+		"Description" : "Indoor facility that includes a gymnasium and has various sports programs. Location is within Queens Park itself near 3rd Avenue entrance.",
+		"Category" : "Parks, Recreation and Community School Programming",
+		"Hours" : "Program hours vary, refer to Active Living Guide for more details",
+		"Location" : "600 First Street ",
+		"PC" : "",
+		"Phone" : "(604)777-5121",
+		"Email" : "",
+		"Website" : "http://www.newwestpcr.ca/recreation/recreation_centres/queens_park_arenex.php",
+		"X" : "-122.90345214924537",
+		"Y" : "49.21447285358266",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90345214924537, 49.21447285358266 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 12,
+		"Name" : "New Westminster Parks, Culture and Recreation - Queensborough Community Centre",
+		"Description" : "Facility includes a fitness centre, gymnasium, a library, meeting rooms and more. Various programs offered.",
+		"Category" : "Parks, Recreation and Community School Programming",
+		"Hours" : "Monday-Friday, 7:00 am - 9:30 pm, Saturday, 8:30 am - 5:30 pm, Sunday, 8:30 am - 8:30 pm",
+		"Location" : "920 Ewen Avenue",
+		"PC" : "V3M 5C8",
+		"Phone" : "(604)527-7388",
+		"Email" : "",
+		"Website" : "http://www.newwestpcr.ca/recreation/recreation_centres/queensborough_community_centre.php",
+		"X" : "-122.9436168718548",
+		"Y" : "49.18588392554472",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9436168718548, 49.18588392554472 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 13,
+		"Name" : "New Westminster Parks, Culture and Recreation - Youth Centre",
+		"Description" : "Indoor facility with a gymnasium, fitness centre and various activities for youth (13-18 years old).",
+		"Category" : "Parks, Recreation and Community School Programming",
+		"Hours" : "Monday-Thursday, 3:15 pm - 9:00 pm, Friday-Saturday, 3:15pm-11:00pm",
+		"Location" : "620 Eighth Street",
+		"PC" : "V3M 3S2",
+		"Phone" : "(604)515-3801",
+		"Email" : "",
+		"Website" : "http://www.newwestpcr.ca/recreation/youth_centre.php",
+		"X" : "-122.92602861447645",
+		"Y" : "49.21175624925655",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92602861447645, 49.21175624925655 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 1,
+		"Name" : "British Columbia Provincial Government - Ministry of Children and Family Development",
+		"Description" : "Provides child and youth mental health services.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "",
+		"Location" : "201 - 1065 Columbia Street",
+		"PC" : "V3M 6H7",
+		"Phone" : "(604)660-9495",
+		"Email" : "",
+		"Website" : "http://www.mcf.gov.bc.ca/sda/contacts.htm",
+		"X" : "-122.9190590670046",
+		"Y" : "49.20075296762267",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9190590670046, 49.20075296762267 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 2,
+		"Name" : "Canadian Mental Health Association (Vancouver - Fraser Branch)",
+		"Description" : "Offers education, housing and outreach services for mental health clients.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "",
+		"Location" : "435 Sixth Street",
+		"PC" : "V3L 3B1",
+		"Phone" : "(604)516-8080",
+		"Email" : "info.vf@cmha.bc.ca",
+		"Website" : "http://vancouver-fraser.cmha.bc.ca/",
+		"X" : "-122.91793031243603",
+		"Y" : "49.211545952987336",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91793031243603, 49.211545952987336 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 3,
+		"Name" : "Community Mental Health Centre - New Westminster Mental Health Office ",
+		"Description" : "Provides a variety of mental health services.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "",
+		"Location" : "2/F - 403 Sixth Street",
+		"PC" : "V3L 3B1",
+		"Phone" : "(604)777-6800",
+		"Email" : "",
+		"Website" : "http://www.fraserhealth.ca/find-us/services/our-services?program_id=8715",
+		"X" : "-122.91645291714045",
+		"Y" : "49.21051541558173",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91645291714045, 49.21051541558173 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 4,
+		"Name" : "DEWY (Pacific Community Resources)",
+		"Description" : "DEWY assists youth aged 13 to 18 years old who have problems with alcohol and/or drug use. ",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "",
+		"Location" : "102 - 332 Columbia Street",
+		"PC" : "V3L 1A6",
+		"Phone" : "(604)523-5652",
+		"Email" : "",
+		"Website" : "http://www.pcrs.ca/dewy",
+		"X" : "-122.90420387892445",
+		"Y" : "49.2048999974751",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90420387892445, 49.2048999974751 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 5,
+		"Name" : "Douglas College Dental Assisting Clinic",
+		"Description" : "Provides reduced cost preventative dental services for patients between the ages of 4 and 25 years old.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "By appointment",
+		"Location" : "700 Royal Avenue",
+		"PC" : "V3M 5Z5",
+		"Phone" : "(604)527-5464",
+		"Email" : "",
+		"Website" : "http://www.douglascollege.ca/programs-courses/faculties/health-sciences/dental-assisting/dental-clinic-preventative-services",
+		"X" : "-122.91274781516022",
+		"Y" : "49.20350201411526",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91274781516022, 49.20350201411526 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 6,
+		"Name" : "Family Services of Greater Vancouver - Counselling Services",
+		"Description" : "Provides counselling services to families, children and adults.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "",
+		"Location" : "321 Sixth Street",
+		"PC" : "V3L 3A7",
+		"Phone" : "(604)874-2938",
+		"Email" : "",
+		"Website" : "http://www.fsgv.ca/find-the-support-you-need/counselling/",
+		"X" : "-122.91524300931644",
+		"Y" : "49.20945714598408",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91524300931644, 49.20945714598408 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 7,
+		"Name" : "Fraser Health Authority - New Westminster Public Health Unit",
+		"Description" : "Provides a variety of public health services, including vaccines.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "",
+		"Location" : "610 Sixth Street",
+		"PC" : "V3L 3C2",
+		"Phone" : "(604)777-6740",
+		"Email" : "",
+		"Website" : "http://www.fraserhealth.ca/find-us/locations/our-locations?site_id=2505",
+		"X" : "-122.92252572535635",
+		"Y" : "49.212490006536555",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92252572535635, 49.212490006536555 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 8,
+		"Name" : "Fraser Health Authority - Royal Columbian Hospital",
+		"Description" : "Hospital that provides a variety of services including trauma care, birth services, emergency services etc.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "Facility is open 7 days a week, 24 hours a day",
+		"Location" : "330 East Columbia Street",
+		"PC" : "V3L 3W7",
+		"Phone" : "(604)520-4253 (non-emergency), 911 (emergency)",
+		"Email" : "",
+		"Website" : "http://www.fraserhealth.ca/find-us/locations/our-locations?site_id=1789",
+		"X" : "-122.89134622297507",
+		"Y" : "49.22676060749211",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89134622297507, 49.22676060749211 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 9,
+		"Name" : "Fraserside Community Services - Children Who Witness Abuse",
+		"Description" : "Fraserside’s Children Who Witness Abuse (CWWA) program provides group and individual counselling to children who have been affected by witnessing the abuse of a parent or caregiver.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "",
+		"Location" : "2/F - 519 Seventh Street",
+		"PC" : "V3M 6A7",
+		"Phone" : "(604)522-3722 ext 118",
+		"Email" : "",
+		"Website" : "http://www.fraserside.bc.ca/mental-health-and-counselling/children-who-witness-abuse/",
+		"X" : "-122.920455471798",
+		"Y" : "49.212217450947115",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.920455471798, 49.212217450947115 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 10,
+		"Name" : "Inpatient Psychiatry Unit at Sherbrooke Centre (Royal Columbian Hospital)",
+		"Description" : "Provides services to admitted inpatients requiring further support managing mental health issues.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "",
+		"Location" : "260 Sherbrooke Street",
+		"PC" : "V3L 3M2",
+		"Phone" : "(604)520-4253",
+		"Email" : "",
+		"Website" : "http://www.fraserhealth.ca/find-us/services/our-services?program_id=8962",
+		"X" : "-122.89127334916965",
+		"Y" : "49.22754448780105",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89127334916965, 49.22754448780105 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 11,
+		"Name" : "Last Door Recovery Centre",
+		"Description" : "Long-term residential treatment centre for men who are experiencing problematic substance misuse.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "",
+		"Location" : "323 Eighth Street",
+		"PC" : "V3M 3R3",
+		"Phone" : "(604)525-9771",
+		"Email" : "adult@lastdoor.org",
+		"Website" : "http://www.lastdoor.org",
+		"X" : "-122.91915066436316",
+		"Y" : "49.207803546249124",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91915066436316, 49.207803546249124 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 12,
+		"Name" : "Last Door Youth Program",
+		"Description" : "Residential Program for male youth ages 14 to 18 who are experiencing problematic substance misuse. ",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "",
+		"Location" : "109 Ash Street",
+		"PC" : "V3M 3M2",
+		"Phone" : "(604)520-3587",
+		"Email" : "youth@lastdoor.org",
+		"Website" : "http://www.lastdoor.org",
+		"X" : "-122.91435733743715",
+		"Y" : "49.204585173233376",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91435733743715, 49.204585173233376 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 13,
+		"Name" : "New West UBC Counselling Centre",
+		"Description" : "Provides free counselling to adults, adolescents, and families from September to June.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "",
+		"Location" : "821 Eighth Street",
+		"PC" : "V3M 3S9",
+		"Phone" : "(604)525-6651",
+		"Email" : "",
+		"Website" : "http://ecps.educ.ubc.ca/counselling-centres/new-westminster-ubc-counselling-centre/",
+		"X" : "-122.92842855180281",
+		"Y" : "49.215961952125525",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92842855180281, 49.215961952125525 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 14,
+		"Name" : "New Westminster Homelessness Coalition Society - I's on the Street",
+		"Description" : "As part of I's on the Street program, helps to connect homeless or at risk of homeless people with support services such as addictions and mental health.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "",
+		"Location" : "750 Carnarvon Street",
+		"PC" : "V3M 1E7",
+		"Phone" : "",
+		"Email" : "info@nwhomeless.ca",
+		"Website" : "http://nwhomeless.ca/?page_id=144",
+		"X" : "-122.9116023674434",
+		"Y" : "49.202383459116035",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9116023674434, 49.202383459116035 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 15,
+		"Name" : "New Westminster Public Health Unit - Prevention and Health Promotion for Substance Use",
+		"Description" : "The prevention and health promotion for substance use services provides support services to improve the health and functioning of children and youth with mental health disorders or potential problematic substance misuse.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "Monday to Friday, 8:30am-4:30pm",
+		"Location" : "218 - 610 Sixth Street",
+		"PC" : "V3L 3C2",
+		"Phone" : "(604)777-6740",
+		"Email" : "",
+		"Website" : "http://www.fraserhealth.ca/find-us/services/our-services?program_id=13656",
+		"X" : "-122.92252572535635",
+		"Y" : "49.212490006536555",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92252572535635, 49.212490006536555 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 16,
+		"Name" : "Perspectives Adult & Youth Addiction Services",
+		"Description" : "Provides free one-to-one and group counseling services to anyone affected, either directly or indirectly by the misuse of alcohol or other drugs. Self referrals accepted.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "Monday to Friday, 9:00 am-12:00 pm, 1:00 pm-5:00 pm",
+		"Location" : "2/F - 519 Seventh Street",
+		"PC" : "V3M 6A7",
+		"Phone" : "(604)522-3722 ext 101",
+		"Email" : "info@fraserside.bc.ca",
+		"Website" : "http://www.fraserside.bc.ca/mental-health-and-counselling/perspectives-addiction-services",
+		"X" : "-122.920455471798",
+		"Y" : "49.212217450947115",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.920455471798, 49.212217450947115 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 17,
+		"Name" : "Pregnancy Outreach Programs - Olivet Baptist Church",
+		"Description" : "Provides programs that assist pregnant women and their infants who need extra help and support. Programs may provide weekly lunches, food vouchers, prenatal vitamins, educational sessions, and one-on-one support from trained volunteer mentors. Program provided through Burnaby Family Life Institute.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "Tuesday, 10:30 am - 1:00 pm for moms and babies up to 6 months, Tuesday, 12:00 pm - 2:30 pm for pregnant women",
+		"Location" : "613 Queens Avenue",
+		"PC" : "V3M 1L1",
+		"Phone" : "(604)659-2200",
+		"Email" : "bfl_info@burnabyfamilylife.org",
+		"Website" : "http://www.fraserhealth.ca/find-us/services/our-services?program_id=13648",
+		"X" : "-122.91421070035818",
+		"Y" : "49.2068182806286",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91421070035818, 49.2068182806286 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 18,
+		"Name" : "Purpose Society - Youth Clinic",
+		"Description" : "Youth can talk with an alcohol or drug counsellor or therapist.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "Tuesday, 2:30 pm - 6:00 pm, Thursday, 3:00 pm - 7:00 pm",
+		"Location" : "38 Begbie Street",
+		"PC" : "V3M 3L9",
+		"Phone" : "(604)526-2522",
+		"Email" : "",
+		"Website" : "http://www.purposesociety.org/Youth_Clinic.html",
+		"X" : "-122.91125685863508",
+		"Y" : "49.20210369037047",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91125685863508, 49.20210369037047 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 19,
+		"Name" : "Purpose Society Community Clinic and Resource Centre for Adults",
+		"Description" : "Free walk-in clinic to improve the health and wellbeing of people who may otherwise be unable to receive treatment.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "First and third Friday of every month, 11:00 am - 1:00 pm",
+		"Location" : "40 Begbie Street",
+		"PC" : "V3M 3L9",
+		"Phone" : "(604)526-2522",
+		"Email" : "info@purposesociety.org",
+		"Website" : "http://www.purposesociety.org/Adult_Clinic.html",
+		"X" : "-122.91125685863508",
+		"Y" : "49.20210369037047",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91125685863508, 49.20210369037047 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 20,
+		"Name" : "Sherbrooke Centre at Royal Columbian Hospital",
+		"Description" : "Offers psychiatric group therapy program and fraser early psychosis intervention program.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "Group therapy program, hours vary. Early psychosis intervention program: Monday-Friday, 8:30am-4:30pm",
+		"Location" : "260 Sherbrooke Street",
+		"PC" : "V3L 3M2",
+		"Phone" : "psychiatric group therapy program ((604)520-4397), Fraser Early Psychosis Intervention Program ((604)777-8386); 24 hour crisis line: (604)951-8855",
+		"Email" : "",
+		"Website" : "http://www.fraserhealth.ca/find-us/services/our-services?program_id=8950",
+		"X" : "-122.89127334916965",
+		"Y" : "49.22754448780105",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89127334916965, 49.22754448780105 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 21,
+		"Name" : "Union Gospel Mission",
+		"Description" : "Provides counselling services. Has an Alcoholics Anonymous Group.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "Counselling, Monday-Friday: 1:00 pm - 3:00 pm (by appointment), Alcoholics Appointment, Tuesday, 1:00 pm",
+		"Location" : "658 Clarkson Street",
+		"PC" : "V3M 1E1",
+		"Phone" : "(604)525-8989",
+		"Email" : "contact@ugm.ca ",
+		"Website" : "https://www.ugm.ca/program-meal-times/",
+		"X" : "-122.90934416053088",
+		"Y" : "49.202799308421426",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90934416053088, 49.202799308421426 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 22,
+		"Name" : "Westminster House Recovery Program for Women",
+		"Description" : "Long-term residential recovery centre for women healing from addiction.",
+		"Category" : "Health, Mental Health & Addictions Services",
+		"Hours" : "",
+		"Location" : "228 Seventh Street",
+		"PC" : "V3M 3K3",
+		"Phone" : "(604)524-5633",
+		"Email" : "info@westminsterhouse.ca",
+		"Website" : "http://www.westminsterhouse.ca",
+		"X" : "-122.91593073383025",
+		"Y" : "49.207337765099936",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91593073383025, 49.207337765099936 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 1,
+		"Name" : "Aunt Leah's Place",
+		"Description" : "Offers support services to foster children, former foster children and young mothers, including housing, job training and life skills.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "816 Twentieth Street",
+		"PC" : "V3M 4W6",
+		"Phone" : "(604)525-1204",
+		"Email" : "auntleahs@auntleahs.org",
+		"Website" : "http://auntleahs.org/find-help/",
+		"X" : "-122.94926011127286",
+		"Y" : "49.203235896852874",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.94926011127286, 49.203235896852874 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 2,
+		"Name" : "British Columbia Provincial Government - Family Justice Centre",
+		"Description" : "Providers information and assistance to families that are considering or experiencing separation or divorce.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "Monday, Wednesday-Friday, 8:00 am - 5:15 pm, Thursday, 8:00 am - 7:00 pm",
+		"Location" : "204 - 88 Tenth Street",
+		"PC" : "V3M 6H8",
+		"Phone" : "(604)660-8636",
+		"Email" : "",
+		"Website" : "http://www.clicklaw.bc.ca/helpmap/service/1019",
+		"X" : "-122.91742448361838",
+		"Y" : "49.201189097454",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91742448361838, 49.201189097454 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 3,
+		"Name" : "British Columbia Provincial Government - Ministry of Children and Family Development",
+		"Description" : "Provides child and youth mental health services, and child and family services (including child protection programs, adoption programs etc).",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "201 - 1065 Columbia Street",
+		"PC" : "V3M 6H7",
+		"Phone" : "(604)660-9495",
+		"Email" : "",
+		"Website" : "http://www.mcf.gov.bc.ca/sda/contacts.htm",
+		"X" : "-122.9190590670046",
+		"Y" : "49.20075296762267",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9190590670046, 49.20075296762267 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 4,
+		"Name" : "Camaray Centre - Parent Support Program at Centennial Community Centre",
+		"Description" : "Offers prevention and early intervention services to parents and parents-to-be to increase a family’s knowledge and skills for effective parenting to strengthen family resiliency.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "65 East Sixth Avenue",
+		"PC" : "V3L 4G6",
+		"Phone" : "(604)436-9449",
+		"Email" : "info@cameray.ca",
+		"Website" : "http://cameray.ca/parent-support-program/",
+		"X" : "-122.90723884417564",
+		"Y" : "49.22158156046215",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90723884417564, 49.22158156046215 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 5,
+		"Name" : "Family Services of Greater Vancouver",
+		"Description" : "Provides a range of programs from prevention to intervention. Specific programs include: community education, counselling, employment assistance, family and parenting services, immigrant support, victim assistance and youth services.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "301 - 321 Sixth Street",
+		"PC" : "V3L 3A7",
+		"Phone" : "(604)525-9144",
+		"Email" : "",
+		"Website" : "http://www.fsgv.ca/",
+		"X" : "-122.91524300931644",
+		"Y" : "49.20945714598408",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91524300931644, 49.20945714598408 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 6,
+		"Name" : "Fraserside Community Services Society",
+		"Description" : "Provides a range of services to individuals and families including: Children Who Witness Abuse counselling, emergency shelter for families and programs for adults with developmental and mental health issues.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "2/F - 519 Seventh Street",
+		"PC" : "V3M 6A7",
+		"Phone" : "(604)522-3722",
+		"Email" : "info@fraserside.bc.ca",
+		"Website" : "http://www.fraserside.bc.ca/",
+		"X" : "-122.920455471798",
+		"Y" : "49.212217450947115",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.920455471798, 49.212217450947115 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 7,
+		"Name" : "Immigrant Services of Society of British Columbia",
+		"Description" : "Provides settlement services to newcomers, including career guidance and training, confidential support, information and referral and social connections.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "280 - 610 Sixth Street",
+		"PC" : "V3L 3C2",
+		"Phone" : "(604)522-5902",
+		"Email" : "andrea.canales@issbc.org ",
+		"Website" : "http://issbc.org/",
+		"X" : "-122.92252572535635",
+		"Y" : "49.212490006536555",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92252572535635, 49.212490006536555 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 8,
+		"Name" : "Inclusion BC",
+		"Description" : "Provides a variety of support services to persons with special needs (intellectual disabilities) and their families",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "227 Sixth Street",
+		"PC" : "V3L 3A5",
+		"Phone" : "(604)777-9100",
+		"Email" : "info@inclusionbc.org",
+		"Website" : "http://www.inclusionbc.org/our-work",
+		"X" : "-122.91375364044025",
+		"Y" : "49.20825385976762",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91375364044025, 49.20825385976762 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 9,
+		"Name" : "Lower Mainland Purpose Society",
+		"Description" : "Delivers a continuum of programs to children, youth and families. Specific programs include child care, counselling, health, an independent secondary school, information and referral, settlement services and youth programming.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "Monday-Friday, 8:30 am - 5:00 pm",
+		"Location" : "40 Begbie Street",
+		"PC" : "V3M 3L9",
+		"Phone" : "(604)526-2522",
+		"Email" : "info@purposesociety.org",
+		"Website" : "http://www.purposesociety.org/Home.html",
+		"X" : "-122.91125685863508",
+		"Y" : "49.20210369037047",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91125685863508, 49.20210369037047 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 10,
+		"Name" : "New Westminster Family Place",
+		"Description" : "Provides a family resource program for families with children from newborn to five years old.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "Drop-in: Monday - Tuesday, 9:30 am - 11:30 am, 1:00pm - 3:00 pm, Wednesday - Friday, 9:30 am - 11:30 am. Please check Family Place website for program hours",
+		"Location" : "101 - 93 Sixth Street",
+		"PC" : "V3L 2Z8",
+		"Phone" : "(604)520-3666",
+		"Email" : "info@nwfamily.bc.ca",
+		"Website" : "http://nwfamily.bc.ca/",
+		"X" : "-122.90992211784747",
+		"Y" : "49.20530886689635",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90992211784747, 49.20530886689635 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 11,
+		"Name" : "Salvation Army Family Services",
+		"Description" : "Provides community and family services, including childcare.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "325 Sixth Street",
+		"PC" : "V3L 3A9",
+		"Phone" : "(604)521-5319",
+		"Email" : "",
+		"Website" : "http://www.salvationarmy.ca/britishcolumbia/regions/",
+		"X" : "-122.91567883408926",
+		"Y" : "49.20982419482195",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91567883408926, 49.20982419482195 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 12,
+		"Name" : "Simon Fraser Society for Community Living",
+		"Description" : "Have programs for children with special needs, including New Westminster Supported Child Development, New Westminster Aboriginal Supported Child Development, and Key Support Worker.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "811 Royal Avenue",
+		"PC" : "V3M 1K1",
+		"Phone" : "(604)525-9494",
+		"Email" : "info@sfscl.org",
+		"Website" : "http://sfscl.org/services/services-at-a-glance/",
+		"X" : "-122.91574664253496",
+		"Y" : "49.203288938024194",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91574664253496, 49.203288938024194 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 13,
+		"Name" : "Spirit of the Children Society",
+		"Description" : "Supports Aboriginal families by providing information on resources and holds various programs to bring the Aboriginal community together.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "Monday - Friday, 8:30 am - 4:30 pm",
+		"Location" : "201 - 768 Columbia Street",
+		"PC" : "V3M 1B4",
+		"Phone" : "(604)524-9113",
+		"Email" : "reception@sotcs.ca",
+		"Website" : "http://www.sotcs.ca/",
+		"X" : "-122.910794429807",
+		"Y" : "49.201189703788145",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.910794429807, 49.201189703788145 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 14,
+		"Name" : "Western Society for Children",
+		"Description" : "Provides family support and rehabilitation, parenting information, pre-employment, recreation, resources and social support for children with disabilities.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "102 - 93 Sixth Street",
+		"PC" : "V3L 2Z8",
+		"Phone" : "(604)515-0810",
+		"Email" : "director@wsfc.ca",
+		"Website" : "http://www.wsfc.ca",
+		"X" : "-122.90992211784747",
+		"Y" : "49.20530886689635",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90992211784747, 49.20530886689635 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 1,
+		"Name" : "Douglas College Food Bank",
+		"Description" : "Provides food bank services for Douglas College students.",
+		"Category" : "Food Programs and Services",
+		"Hours" : "Monday-Friday, 9:00 am - 4:00 pm",
+		"Location" : "700 Royal Avenue",
+		"PC" : "V3M 5Z5",
+		"Phone" : "(604)527-5110",
+		"Email" : "nwcoordinator@douglasstudentsunion.ca",
+		"Website" : "http://dsu18.ca/services/food-bank/",
+		"X" : "-122.91274781516022",
+		"Y" : "49.20350201411526",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91274781516022, 49.20350201411526 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 2,
+		"Name" : "Ecole Qayqayt Elementary School - Hot Lunch Program",
+		"Description" : "Provides an in-house hot lunch program for Ecole Qayqayt Elementary School Students (grades K-7).",
+		"Category" : "Food Programs and Services",
+		"Hours" : "",
+		"Location" : "85 Merivale Street",
+		"PC" : "V3L 0G2",
+		"Phone" : "(604)517-6168",
+		"Email" : "bwheeler@sd40.bc.ca",
+		"Website" : "http://district.sd40.bc.ca/services/school-meals",
+		"X" : "-122.90512117149315",
+		"Y" : "49.20793631315965",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90512117149315, 49.20793631315965 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 3,
+		"Name" : "Holy Trinity Anglican Cathedral - Breakfast Program",
+		"Description" : "Drop-in breakfast.",
+		"Category" : "Food Programs and Services",
+		"Hours" : "Thursday, 8:00 am - 9:00 am",
+		"Location" : "514 Carnarvon Street",
+		"PC" : "V3L 1C4",
+		"Phone" : "(604)521-2511",
+		"Email" : "",
+		"Website" : "http://holytrinitycathedral.ca/our-programs/breakfast-program/",
+		"X" : "-122.90751533580699",
+		"Y" : "49.20460949200707",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90751533580699, 49.20460949200707 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 4,
+		"Name" : "Lord Kelvin Elementary School - Hot Lunch Program",
+		"Description" : "Provides an in-house hot lunch program for Lord Kelvin Elementary School Students (grades K-7).",
+		"Category" : "Food Programs and Services",
+		"Hours" : "",
+		"Location" : "1010 Hamilton Street",
+		"PC" : "V3M 2M9",
+		"Phone" : "(604)517-6168",
+		"Email" : "bwheeler@sd40.bc.ca",
+		"Website" : "http://district.sd40.bc.ca/services/school-meals",
+		"X" : "-122.93019210086733",
+		"Y" : "49.210734343015645",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.93019210086733, 49.210734343015645 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 5,
+		"Name" : "New Westminster Family Place",
+		"Description" : "Food bank drop-in.",
+		"Category" : "Food Programs and Services",
+		"Hours" : "Tuesday - Wednesday, 9:00 am - 11:00 am",
+		"Location" : "101 - 93 Sixth Street",
+		"PC" : "V3L 2Z8",
+		"Phone" : "(604)520-3666",
+		"Email" : "info@nwfamily.bc.ca",
+		"Website" : "http://nwfamily.bc.ca/?page_id=21",
+		"X" : "-122.90992211784747",
+		"Y" : "49.20530886689635",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90992211784747, 49.20530886689635 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 6,
+		"Name" : "Port Royal Community Garden",
+		"Description" : "New Westminster residents can grow food in a community garden in Port Royal. Actual community garden is located in Port Royal Park (near Star Crescent); location shown is just the administrative location. There are other community gardens in New Westminster, with more information available on the New Westminster Parks and Rec Society website (http://www.newwestpcr.ca/parks/park_amenities/community_gardens.php).",
+		"Category" : "Food Programs and Services",
+		"Hours" : "",
+		"Location" : "920 Ewen Avenue",
+		"PC" : "V3M 5C8",
+		"Phone" : "(604)525-7388",
+		"Email" : "rchadwick@newwestcity.ca",
+		"Website" : "http://www.portroyalgardens.ca/about/",
+		"X" : "-122.9436168718548",
+		"Y" : "49.18588392554472",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9436168718548, 49.18588392554472 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 7,
+		"Name" : "Pregnancy Outreach Programs - Olivet Baptist Church",
+		"Description" : "These programs assist pregnant women and their infants who need extra help and support. Programs may provide weekly lunches, food vouchers and prenatal vitamins. Program provided through Burnaby Family Life Institute.",
+		"Category" : "Food Programs and Services",
+		"Hours" : "Tuesday, 10:30 am - 1:00 pm for moms and babies up to 6 months, Tuesday, 12:00 pm - 2:30 pm for pregnant women",
+		"Location" : "613 Queens Avenue",
+		"PC" : "V3M 1L1",
+		"Phone" : "(604)659-2200",
+		"Email" : "bfl_info@burnabyfamilylife.org",
+		"Website" : "http://www.fraserhealth.ca/find-us/services/our-services?program_id=13648",
+		"X" : "-122.91421070035818",
+		"Y" : "49.2068182806286",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91421070035818, 49.2068182806286 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 8,
+		"Name" : "Queen Elizabeth Elementary School - Hot Lunch Program",
+		"Description" : "Provides an in-house hot lunch program for Queen Elizabeth Elementary School Students (grades K-4).",
+		"Category" : "Food Programs and Services",
+		"Hours" : "",
+		"Location" : "921 Salter Street",
+		"PC" : "V3M 6G8",
+		"Phone" : "(604)517-6168",
+		"Email" : "bwheeler@sd40.bc.ca",
+		"Website" : "http://district.sd40.bc.ca/services/school-meals",
+		"X" : "-122.9435723162792",
+		"Y" : "49.1848190369933",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9435723162792, 49.1848190369933 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 9,
+		"Name" : "Queens Avenue United Church - Community Lunch",
+		"Description" : "Community lunch.",
+		"Category" : "Food Programs and Services",
+		"Hours" : "Wednesday, 11:30 am - 1:00 pm",
+		"Location" : "529 Queens Avenue",
+		"PC" : "V3L 1K2",
+		"Phone" : "(604)522-1606",
+		"Email" : "queensaveuc@telus.net",
+		"Website" : "http://queensavenue.org/ministries/community-lunch/",
+		"X" : "-122.91249284301858",
+		"Y" : "49.207653330265714",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91249284301858, 49.207653330265714 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 10,
+		"Name" : "Queensborough Middle School - Hot Lunch Program",
+		"Description" : "Provides an in-house hot lunch program for Queensborough Middle School Students (grades 5-8).",
+		"Category" : "Food Programs and Services",
+		"Hours" : "",
+		"Location" : "833 Salter Street",
+		"PC" : "V3M 6G8",
+		"Phone" : "(604)517-6168",
+		"Email" : "bwheeler@sd40.bc.ca",
+		"Website" : "http://district.sd40.bc.ca/services/school-meals",
+		"X" : "-122.94093147077892",
+		"Y" : "49.18632001342384",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.94093147077892, 49.18632001342384 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 11,
+		"Name" : "Saint Barnabas Anglican Church- Community Meal and Food Cupboard Programs",
+		"Description" : "Community meal provides lunch and is open to all. Food cupboard program provides emergency food hampers for a couple of meals.",
+		"Category" : "Food Programs and Services",
+		"Hours" : "Community Meal: Thursday, 11:00 am, Emergency Food Cupboard: Friday, 10:00 am-12:00 pm",
+		"Location" : "1010 Fifth Avenue",
+		"PC" : "V3M 1Y5",
+		"Phone" : "(604)526-6646",
+		"Email" : "",
+		"Website" : "http://stbarnabasparish.ca/ministry/",
+		"X" : "-122.92552052207931",
+		"Y" : "49.207702269467006",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92552052207931, 49.207702269467006 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 12,
+		"Name" : "Salvation Army - Community Lunch and Food Programs",
+		"Description" : "Community lunch program. Drop in food program (free bread), emergency food rations available by appointment. Also has a produce day program.",
+		"Category" : "Food Programs and Services",
+		"Hours" : "Emergency food program: Monday-Friday, 10:00 am - 12:00 pm (by appointment). Saturday Brunch: Saturday, 10:00 am. Sunday meal program: Sunday, 12:30 pm, Produce day program: Wednesday, 1:00 pm",
+		"Location" : "325 Sixth Street",
+		"PC" : "V3L 3A9",
+		"Phone" : "(604)521-2421",
+		"Email" : "",
+		"Website" : "http://www.salvationarmy.ca/britishcolumbia/regions/",
+		"X" : "-122.91567883408926",
+		"Y" : "49.20982419482195",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91567883408926, 49.20982419482195 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 13,
+		"Name" : "Spirit of the Children Society - Traditional Kitchen for Aboriginal Families and Youth",
+		"Description" : "Create a meal together in positive environment, share and learn recipes, learn how to shop for foods on a budget, learn about healthy eating habits, and experience traditional Aboriginal foods.",
+		"Category" : "Food Programs and Services",
+		"Hours" : "",
+		"Location" : "201 - 768 Columbia Street",
+		"PC" : "V3M 1B4",
+		"Phone" : "(604)524-9113",
+		"Email" : "reception@sotcs.ca",
+		"Website" : "http://www.sotcs.ca/programsservices/traditional-kitchen-for-aboriginal-families-and-youth/",
+		"X" : "-122.910794429807",
+		"Y" : "49.201189703788145",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.910794429807, 49.201189703788145 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 14,
+		"Name" : "Union Gospel Mission",
+		"Description" : "Breakfast and soup programs.",
+		"Category" : "Food Programs and Services",
+		"Hours" : "Breakfast Service: Monday-Friday, 8:30 am - 9:30 am, Soup Service: Monday-Friday, 11:15 am - 12:00 pm",
+		"Location" : "658 Clarkson Street",
+		"PC" : "V3M 1E1",
+		"Phone" : "(604)525-8989",
+		"Email" : "contact@ugm.ca ",
+		"Website" : "https://www.ugm.ca/program-meal-times/",
+		"X" : "-122.90934416053088",
+		"Y" : "49.202799308421426",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90934416053088, 49.202799308421426 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 1,
+		"Name" : "Association of Community Organizations for Reform Now (ACORN)",
+		"Description" : "ACORN has many social justice advocacy campaigns, including campaigns supporting affordable housing and renters.",
+		"Category" : "Housing Outreach, Advocacy and Referral",
+		"Hours" : "",
+		"Location" : "2 - 630B Carnarvon Street",
+		"PC" : "V3M 1E5",
+		"Phone" : "(604)522-8706",
+		"Email" : "bcacorn@acorncanada.org",
+		"Website" : "https://www.acorncanada.org/campaign",
+		"X" : "-122.90963686974206",
+		"Y" : "49.203496743701606",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90963686974206, 49.203496743701606 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 2,
+		"Name" : "Aunt Leah's Place",
+		"Description" : "Provides housing subsidy program (HELPS) for former foster children. Also manages a Housing First LINK program that can connect foster youth with housing options.",
+		"Category" : "Housing Outreach, Advocacy and Referral",
+		"Hours" : "",
+		"Location" : "816 Twentieth Street",
+		"PC" : "V3M 4W6",
+		"Phone" : "(604)525-1204",
+		"Email" : "auntleahs@auntleahs.org",
+		"Website" : "http://auntleahs.org/find-help/housing/housing-and-education-link-subsidy-program-helps/",
+		"X" : "-122.94926011127286",
+		"Y" : "49.203235896852874",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.94926011127286, 49.203235896852874 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 3,
+		"Name" : "CMHA (Canadian Mental Health Association) - Vancouver Fraser Branch",
+		"Description" : "Provides a variety of housing assistance programs for persons with mental illness, including subsidy programs and case managers that assist people with finding housing.",
+		"Category" : "Housing Outreach, Advocacy and Referral",
+		"Hours" : "",
+		"Location" : "435 Sixth Street",
+		"PC" : "V3L 3B1",
+		"Phone" : "(604)516-8080",
+		"Email" : "info.vf@cmha.bc.ca",
+		"Website" : "http://vancouver-fraser.cmha.bc.ca/how-we-can-help/housing-programs/new-westminster-office",
+		"X" : "-122.91793031243603",
+		"Y" : "49.211545952987336",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91793031243603, 49.211545952987336 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 4,
+		"Name" : "Lookout Emergency Aid Society Housing Outreach Team",
+		"Description" : "Assists people on the street or at high risk of eviction with their housing needs. Services include advocacy, assessment, liason and referral.",
+		"Category" : "Housing Outreach, Advocacy and Referral",
+		"Hours" : "",
+		"Location" : "740 Carnarvon Street",
+		"PC" : "V3M 1E7",
+		"Phone" : "(604)529-9126 ext 106",
+		"Email" : "ornewwest@lookoutsociety.ca",
+		"Website" : "http://lookoutsociety.ca/solutions/our-programs/outreach",
+		"X" : "-122.9116023674434",
+		"Y" : "49.202383459116035",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9116023674434, 49.202383459116035 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 5,
+		"Name" : "MOSAIC",
+		"Description" : "Settlement workers can help newcomers to Canada in finding a place to live.",
+		"Category" : "Housing Outreach, Advocacy and Referral",
+		"Hours" : "",
+		"Location" : "519 Seventh Street",
+		"PC" : "V3M 6A7",
+		"Phone" : "(604)438-8214",
+		"Email" : "mosaic@mosaicbc.com ",
+		"Website" : "http://www.mosaicbc.com/settlement-services/general-support/information-newcomers-your-first-steps-bc",
+		"X" : "-122.920455471798",
+		"Y" : "49.212217450947115",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.920455471798, 49.212217450947115 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 6,
+		"Name" : "New Westminster Homelessness Coalition Society - I's on the Street",
+		"Description" : "As part of I's on the Street program, helps to connect homeless or at risk of homeless people with support services such as shelter and housing.",
+		"Category" : "Housing Outreach, Advocacy and Referral",
+		"Hours" : "",
+		"Location" : "750 Carnarvon Street",
+		"PC" : "V3M 1E7",
+		"Phone" : "",
+		"Email" : "info@nwhomeless.ca",
+		"Website" : "http://nwhomeless.ca/?page_id=144",
+		"X" : "-122.9116023674434",
+		"Y" : "49.202383459116035",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9116023674434, 49.202383459116035 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 7,
+		"Name" : "Seniors Services Society",
+		"Description" : "Provides housing counseling, housing outreach services, and a shelter program for homeless and at risk seniors (55+).",
+		"Category" : "Housing Outreach, Advocacy and Referral",
+		"Hours" : "Monday - Friday, 8:30 am - 12:30 pm, 1:00 pm - 4:30 pm",
+		"Location" : "750 Carnarvon Street",
+		"PC" : "V3M 1E7",
+		"Phone" : "(604)520-6621",
+		"Email" : "housing@seniorsservicessociety.ca",
+		"Website" : "http://www.seniorsservicessociety.ca/hhome.htm",
+		"X" : "-122.9116023674434",
+		"Y" : "49.202383459116035",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9116023674434, 49.202383459116035 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 8,
+		"Name" : "Spirit of the Children Society",
+		"Description" : "Support for families needing support to obtain or sustain their housing. Program is based on the Seven Sacred Teachings and the Medicine Wheel.",
+		"Category" : "Housing Outreach, Advocacy and Referral",
+		"Hours" : "",
+		"Location" : "201 - 768 Columbia Street",
+		"PC" : "V3M 1B4",
+		"Phone" : "(604)524-9113 ext 2227",
+		"Email" : "reception@sotcs.ca",
+		"Website" : "http://www.sotcs.ca/programsservices/aboriginal-family-housing-support/",
+		"X" : "-122.910794429807",
+		"Y" : "49.201189703788145",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.910794429807, 49.201189703788145 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 1,
+		"Name" : "Aunt Leah's House",
+		"Description" : "Aunt Leah’s House provides supported housing for pregnant and parenting teen moms under the age of 19 who are in the care of the Ministry. Aunt Leah's House is managed by Aunt Leah's Place. For the safety of the women and children living in these residences, the addresses of the residences are not provided; the address provided is the address for the organizational headquarters.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "816 Twentieth Street",
+		"PC" : "V3M 4W6",
+		"Phone" : "(604)525-1204",
+		"Email" : "auntleahs@auntleahs.org",
+		"Website" : "http://auntleahs.org/find-help/housing/",
+		"X" : "-122.94926011127286",
+		"Y" : "49.203235896852874",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.94926011127286, 49.203235896852874 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 2,
+		"Name" : "Barnabas House",
+		"Description" : "Provides transitional housing for mental health clients. Managed by CMHA (Canadian Mental Health Association) - Vancouver Fraser Branch. Address refers to residence address. The administrative address for the CMHA in New Westminster is located at 435 Sixth Street.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "1002 Fifth Avenue",
+		"PC" : "V3M 1Y5",
+		"Phone" : "(604)516-8080",
+		"Email" : "info.vf@cmha.bc.ca",
+		"Website" : "http://vancouver-fraser.cmha.bc.ca/how-we-can-help/housing-programs/new-westminster-office",
+		"X" : "-122.92513480023672",
+		"Y" : "49.2078392792705",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92513480023672, 49.2078392792705 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 3,
+		"Name" : "Bluebird House",
+		"Description" : "Provides transitional housing for mental health clients. Managed by CMHA (Canadian Mental Health Association) - Vancouver Fraser Branch. Address refers to residence address. The administrative address for the CMHA in New Westminster is located at 435 Sixth Street.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "1002 Fifth Avenue",
+		"PC" : "V3M 1Y5",
+		"Phone" : "(604)516-8080",
+		"Email" : "info.vf@cmha.bc.ca",
+		"Website" : "http://vancouver-fraser.cmha.bc.ca/how-we-can-help/housing-programs/new-westminster-office",
+		"X" : "-122.92513480023672",
+		"Y" : "49.2078392792705",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92513480023672, 49.2078392792705 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 4,
+		"Name" : "Cliff Block Housing Centre",
+		"Description" : "Provides transitional housing units and supportive permanent housing units for persons in need. Managed by Lookout Society",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "606 Clarkson Street",
+		"PC" : "V3M 1C8",
+		"Phone" : "(604)523-9126",
+		"Email" : "lookoutnewwest@lookoutsociety.ca",
+		"Website" : "http://lookoutsociety.ca/solutions/our-facilities/locations#V3",
+		"X" : "-122.90843577914941",
+		"Y" : "49.20341737947455",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90843577914941, 49.20341737947455 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 5,
+		"Name" : "Columbia House",
+		"Description" : "Provides community living housing for persons with developmental disabilities. Managed by Posabilities Association of British Columbia. Address refers to residence address. The head office for posAbilities Association of BC is at Suite 240-4664 Lougheed Highway, Burnaby, BC.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "319 Keary Street",
+		"PC" : "V3L 3L2",
+		"Phone" : "(604)522-8405",
+		"Email" : "info@posAbilities.ca",
+		"Website" : "http://www.fraserhealth.ca/media/201014_Public-List-Residential-Facilities.pdf",
+		"X" : "-122.8940019436031",
+		"Y" : "49.225847491898016",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.8940019436031, 49.225847491898016 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 6,
+		"Name" : "Columbia Place",
+		"Description" : "Provides second stage housing for women who have been involved in the criminal justice system. Supports include GED completion, career assistance and various recreational programs. Managed by Elizabeth Fry Society of Greater Vancouver.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "402 East Columbia Street",
+		"PC" : "V3L 3X1",
+		"Phone" : "(604)520-1166",
+		"Email" : "info@elizabethfry.com",
+		"Website" : "http://halfwayhouses.ca/en/region/bcyhha/facility/columbia_place/",
+		"X" : "-122.89242926128995",
+		"Y" : "49.22805504991801",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89242926128995, 49.22805504991801 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 7,
+		"Name" : "Elizabeth Barnett Terrace",
+		"Description" : "Supported independent living units. Managed by Pioneer Community Living Association.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "222 Sherbrooke Street",
+		"PC" : "V3L 3M2",
+		"Phone" : "(604)525-2084",
+		"Email" : "info@pclaservices.ca",
+		"Website" : "http://www.pclaservices.ca/services.html",
+		"X" : "-122.88817489649544",
+		"Y" : "49.22704310244171",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.88817489649544, 49.22704310244171 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 8,
+		"Name" : "Elizabeth Gurney House",
+		"Description" : "Shelter for homeless women and their children - shelter provides daily necessities, crisis intervention, addiction and debt counseling and support in accessing low income housing. Managed by Elizabeth Fry Society of Greater Vancouver.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "402 East Columbia Street",
+		"PC" : "V3L 3X1",
+		"Phone" : "(604)520-1166",
+		"Email" : "info@elizabethfry.com",
+		"Website" : "https://www.elizabethfry.com/programs/atrisk-children.htm",
+		"X" : "-122.89242926128995",
+		"Y" : "49.22805504991801",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89242926128995, 49.22805504991801 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 9,
+		"Name" : "Extreme Weather Response Shelter",
+		"Description" : "Provides shelter beds for homeless men and women during extreme weather (very hot, very cold, very wet, very snowy etc.).",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "606 Clarkson Street",
+		"PC" : "V3M 1C8",
+		"Phone" : "(604)529-9126 ext 101",
+		"Email" : "lookoutnewwest@lookoutsociety.ca",
+		"Website" : "http://lookoutsociety.ca/solutions/our-facilities/extreme-weather-shelters",
+		"X" : "-122.90843577914941",
+		"Y" : "49.20341737947455",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90843577914941, 49.20341737947455 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 10,
+		"Name" : "Fraserside Community Shelter",
+		"Description" : "Provides shelter beds for homeless families with children, as well as single adult women. Fraserside Community Shelter is operated by Fraserside Community Services Society. For the safety of the families with children, the address of the actual shelter location is not included in the listing. The address included in the listing refers to the community services office for Fraserside Community Services.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "2/F - 519 Seventh Street",
+		"PC" : "V3L 3B7",
+		"Phone" : "(604)525-3929",
+		"Email" : "",
+		"Website" : "http://www.fraserside.bc.ca/social-housing/emergency-family-shelter/",
+		"X" : "-122.920455471798",
+		"Y" : "49.212217450947115",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.920455471798, 49.212217450947115 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 11,
+		"Name" : "Genesis House",
+		"Description" : "Provides supportive housing for persons with substance use issues. Managed by Westcoast Genesis Society.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "219 Carnarvon Street",
+		"PC" : "V3L 1B7",
+		"Phone" : "(604)636-3580",
+		"Email" : "",
+		"Website" : "http://www.westcoastgenesissociety.ca/our_services.html",
+		"X" : "-122.90420540710973",
+		"Y" : "49.206906801572735",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90420540710973, 49.206906801572735 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 12,
+		"Name" : "Ibsen Residence",
+		"Description" : "Provides two-year transitional housing program for adults with mental illness. Address refers to residence address. The community services office for Fraserside Community Services is the 2nd floor of 519 Seventh Street, New Westminster.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "609 Robson Avenue",
+		"PC" : "V3M 1M8",
+		"Phone" : "(604)777-6800",
+		"Email" : "",
+		"Website" : "http://www.fraserside.bc.ca/social-housing/ibsen/",
+		"X" : "-122.9142600593566",
+		"Y" : "49.207371933524094",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9142600593566, 49.207371933524094 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 13,
+		"Name" : "Keary Street Home #1",
+		"Description" : "Provides community living housing for persons with developmental disabilities. Managed by Posabilities Association of British Columbia. Address refers to residence address. The head office for posAbilities Association of BC is at Suite 240-4664 Lougheed Highway, Burnaby, BC.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "313 Keary Street",
+		"PC" : "V3L 3L2",
+		"Phone" : "(604)522-4032",
+		"Email" : "info@posAbilities.ca",
+		"Website" : "http://www.fraserhealth.ca/media/201014_Public-List-Residential-Facilities.pdf",
+		"X" : "-122.89369308788629",
+		"Y" : "49.22583573911827",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89369308788629, 49.22583573911827 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 14,
+		"Name" : "Last Door Recovery Centre",
+		"Description" : "Long-term residential treatment centre for men who are experiencing problematic substance misuse. Managed by the Last Door Recovery Society.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "323 Eighth Street",
+		"PC" : "V3M 3R3",
+		"Phone" : "(604)525-9771",
+		"Email" : "adult@lastdoor.org",
+		"Website" : "http://www.lastdoor.org",
+		"X" : "-122.91915066436316",
+		"Y" : "49.207803546249124",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91915066436316, 49.207803546249124 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 15,
+		"Name" : "Last Door Youth Program",
+		"Description" : "Residential Program for male youth ages 14 to 18 who are experiencing problematic substance misuse. Managed by the Last Door Recovery Society.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "109 Ash Street",
+		"PC" : "V3M 3M2",
+		"Phone" : "(604)520-3587",
+		"Email" : "youth@lastdoor.org",
+		"Website" : "http://www.lastdoor.org",
+		"X" : "-122.91435733743715",
+		"Y" : "49.204585173233376",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91435733743715, 49.204585173233376 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 16,
+		"Name" : "Lina's Place",
+		"Description" : "Supportive housing for persons with a mental illness. Managed by Pioneer Community Living Association. Administrative office is at 220 Sherbrooke Street.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "1309 Sixth Avenue",
+		"PC" : "V3M 2C3",
+		"Phone" : "(604)525-2084",
+		"Email" : "info@pclaservices.ca",
+		"Website" : "http://www.pclaservices.ca/services.html",
+		"X" : "-122.93297545580482",
+		"Y" : "49.20659117039288",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.93297545580482, 49.20659117039288 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 17,
+		"Name" : "Maria Keary Cottage",
+		"Description" : "Provides supportive housing for persons with substance use issues. Also has low-barrier harm reduction beds for chronically homeless men. Managed by Westcoast Genesis Society.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "305 Carnarvon Street",
+		"PC" : "V3L 1B9",
+		"Phone" : "(604)636-3590",
+		"Email" : "",
+		"Website" : "http://www.westcoastgenesissociety.ca/our_services.html",
+		"X" : "-122.9048293282595",
+		"Y" : "49.20651102333626",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9048293282595, 49.20651102333626 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 18,
+		"Name" : "Pathways",
+		"Description" : "Semi-independent (second stage) apartments for women without resources or who are in transition to independent living. Managed by Elizabeth Fry Society of Greater Vancouver.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "402 East Columbia Street",
+		"PC" : "V3L 3X1",
+		"Phone" : "(604)520-1166",
+		"Email" : "info@elizabethfry.com",
+		"Website" : "https://www.elizabethfry.com/programs/atrisk-women.htm",
+		"X" : "-122.89242926128995",
+		"Y" : "49.22805504991801",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89242926128995, 49.22805504991801 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 19,
+		"Name" : "Pioneer House",
+		"Description" : "Community residential facility for persons diagnosed with a severe and persistent mental illness. Managed by Pioneer Community Living Association.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "220 Sherbrooke Street",
+		"PC" : "V3L 3M2",
+		"Phone" : "(604)525-2084",
+		"Email" : "info@pclaservices.ca",
+		"Website" : "http://www.pclaservices.ca/services.html",
+		"X" : "-122.8881052586701",
+		"Y" : "49.22745846954228",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.8881052586701, 49.22745846954228 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 20,
+		"Name" : "Rhoda Kaellis Residence",
+		"Description" : "Provides transitional housing units and supportive permanent housing units for persons in need. Managed by Lookout Society",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "1105 Royal Avenue",
+		"PC" : "V3M 1K4",
+		"Phone" : "(604)544-5145",
+		"Email" : "lookoutnewwest@lookoutsociety.ca",
+		"Website" : "http://lookoutsociety.ca/solutions/our-facilities/locations#V3",
+		"X" : "-122.92032607251737",
+		"Y" : "49.200814947356406",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92032607251737, 49.200814947356406 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 21,
+		"Name" : "Stevenson House",
+		"Description" : "Provides shelter beds for homeless men. Administrative office for Salvation Army New Westminster (which operates the shelter) is located at 325 Sixth Street, New Westminster.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "32 Elliott Street",
+		"PC" : "V3L 2K1",
+		"Phone" : "(604)521-2421",
+		"Email" : "",
+		"Website" : "http://www.salvationarmy.ca/britishcolumbia/houses/",
+		"X" : "-122.90255314886765",
+		"Y" : "49.20696083406963",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90255314886765, 49.20696083406963 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 22,
+		"Name" : "The Russell Residence and Shelter",
+		"Description" : "Provides shelter beds for homeless people and supportive permanent housing units for persons in need. Managed by Lookout Society.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "740 Carnarvon Street",
+		"PC" : "V3M 1E7",
+		"Phone" : "(604)529-9126",
+		"Email" : "lookoutnewwest@lookoutsociety.ca",
+		"Website" : "http://lookoutsociety.ca/solutions/our-facilities/locations#V3",
+		"X" : "-122.9116023674434",
+		"Y" : "49.202383459116035",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9116023674434, 49.202383459116035 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 23,
+		"Name" : "Victoria Heights",
+		"Description" : "Assisted living residence for seniors.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "230 Ross Drive",
+		"PC" : "V3L 0B1",
+		"Phone" : "(604)523-9227",
+		"Email" : "goodsaminfo@gss.org",
+		"Website" : "https://www.gss.org/locations/british-columbia/new-westminster/",
+		"X" : "-122.89983499405727",
+		"Y" : "49.213600771663664",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89983499405727, 49.213600771663664 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 24,
+		"Name" : "Victoria Rest Home",
+		"Description" : "Assisted living residence for seniors and adults with disabilities.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "731 Queens Avenue",
+		"PC" : "V3M 1L7",
+		"Phone" : "(604)525-2048",
+		"Email" : "",
+		"Website" : "http://www.fraserhealth.ca/media/Fraser-Health_Public-List-of-Licensed-Adult-Care-Facilities_04Sep2015.pdf",
+		"X" : "-122.91648101859857",
+		"Y" : "49.2055292105631",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91648101859857, 49.2055292105631 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 25,
+		"Name" : "Wells Gray Residence",
+		"Description" : "Provides community living housing for persons with developmental disabilities. Managed by Community Living Society. Address refers to residence address. The head office for Community Living Society is 7th Floor - 713 Columbia Street, New Westminster.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "312 Wells Gray Place",
+		"PC" : "V3L 3Y3",
+		"Phone" : "(604)540-7308",
+		"Email" : "contactus@communitylivingsociety.ca",
+		"Website" : "http://www.fraserhealth.ca/media/201014_Public-List-Residential-Facilities.pdf",
+		"X" : "-122.89366800370236",
+		"Y" : "49.23256488999805",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89366800370236, 49.23256488999805 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 26,
+		"Name" : "Westminster House Recovery Program for Women",
+		"Description" : "Long-term residential recovery centre for women healing from addiction. Managed by Westminster House.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "228 Seventh Street",
+		"PC" : "V3M 3K3",
+		"Phone" : "(604)524-5633",
+		"Email" : "info@westminsterhouse.ca",
+		"Website" : "http://www.westminsterhouse.ca",
+		"X" : "-122.91593073383025",
+		"Y" : "49.207337765099936",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91593073383025, 49.207337765099936 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 27,
+		"Name" : "Women in Need Gaining Strength (WINGS) ",
+		"Description" : "Provides transitional and supportive housing for women and their children who are fleeing abusive situations. WINGS operates one transitional house (Monarch Place) and one supportive (second-stage) house (Chrysalis Place). For the safety of the women and chilren living in these residences, the addresses of the residences are not provided; the address provided is the mailing address for the organization.",
+		"Category" : "Emergency, Transitional and Supported Housing",
+		"Hours" : "",
+		"Location" : "501 - 1015 Columbia Street",
+		"PC" : "V3M 6V3",
+		"Phone" : "(604)521-1888",
+		"Email" : "",
+		"Website" : "http://monarchplace.org/about-us/wings/",
+		"X" : "-122.91787120219065",
+		"Y" : "49.20139871416298",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91787120219065, 49.20139871416298 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 1,
+		"Name" : "Access",
+		"Description" : "Provides skills and employment training programs for Aboriginal people.",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "201 - 681 Columbia Street",
+		"PC" : "V3M 1A8",
+		"Phone" : "(604)521-5929",
+		"Email" : "",
+		"Website" : "http://www.accessfutures.com/",
+		"X" : "-122.90995207229413",
+		"Y" : "49.202471261180655",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90995207229413, 49.202471261180655 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 2,
+		"Name" : "Aunt Leah's Place",
+		"Description" : "Job training opportunities are available for work in restaurants, retail stores, and landscaping.  Training includes work experience, help with resumes, interviewing and finding jobs for youth.",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "816 Twentieth Street",
+		"PC" : "V3M 4W6",
+		"Phone" : "(604)525-1204",
+		"Email" : "auntleahs@auntleahs.org",
+		"Website" : "http://auntleahs.org/about-us/who-we-help/",
+		"X" : "-122.94926011127286",
+		"Y" : "49.203235896852874",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.94926011127286, 49.203235896852874 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 3,
+		"Name" : "Aware Society - Job Options BC",
+		"Description" : "Provides career planning and employment counselling.",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "544 Columbia Street",
+		"PC" : "V3L 1B1",
+		"Phone" : "(604)525-0633",
+		"Email" : "joboptionsbc@awaresociety.bc.ca",
+		"Website" : "http://www.awaresociety.bc.ca/employment-services/joboptionsbc.php",
+		"X" : "-122.90713562068132",
+		"Y" : "49.20325524464897",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90713562068132, 49.20325524464897 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 4,
+		"Name" : "Douglas College ",
+		"Description" : "Has the following employment programs: Skills Connect for Immigrants (assists internationally trained professionals to transition to meaningful employment using their pre-landing education, experience and skills) and Self Employment Program (offers practical training, business advice and group support to help people develop the skills and knowledge needed to start and operate a successful business). ",
+		"Category" : "Employment and Job Training",
+		"Hours" : "Monday to Friday, 8:30 am - 4:00 pm",
+		"Location" : "700 Royal Avenue",
+		"PC" : "V3M 5Z5",
+		"Phone" : "(604)527-5400 (for skills connect), (604)527-5020 (self employment program)",
+		"Email" : "skillsconnect@douglascollege.ca  (skills connect); sep@douglascollege.ca (self-employment program)",
+		"Website" : "http://www.douglascollege.ca/programs-courses/training-group/jobs-search-career-development/skills-connect-immigrants",
+		"X" : "-122.91274781516022",
+		"Y" : "49.20350201411526",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91274781516022, 49.20350201411526 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 5,
+		"Name" : "Fraser Works New Westminster Employment Service Centre",
+		"Description" : "Employment support and referral through a case management approach.",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "2/F - 519 Seventh Street",
+		"PC" : "V3M 6A7",
+		"Phone" : "(604)522-9701 ext 123",
+		"Email" : "info@fraserworks.ca",
+		"Website" : "http://fraserworks.ca/",
+		"X" : "-122.920455471798",
+		"Y" : "49.212217450947115",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.920455471798, 49.212217450947115 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 6,
+		"Name" : "Immigrant Services Society of BC",
+		"Description" : "Provides employment services for immigrants.",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "280 - 610 Sixth Street",
+		"PC" : "V3L 3C2",
+		"Phone" : "(604)522-5902",
+		"Email" : "settlement@issbc.org",
+		"Website" : "http://issbc.org/prim-nav/programs/career-services",
+		"X" : "-122.92252572535635",
+		"Y" : "49.212490006536555",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92252572535635, 49.212490006536555 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 7,
+		"Name" : "Inclusion BC - Ready, Willing & Able ",
+		"Description" : "Helps link persons with intellectual disabilities and Autism with job opportunities.",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "227 Sixth Street",
+		"PC" : "V3L 3A5",
+		"Phone" : "(604)777-9100",
+		"Email" : "info@inclusionbc.org",
+		"Website" : "http://www.inclusionbc.org/ready-willing-and-able",
+		"X" : "-122.91375364044025",
+		"Y" : "49.20825385976762",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91375364044025, 49.20825385976762 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 8,
+		"Name" : "New Westminster Homelessness Coalition Society - I's on the Street",
+		"Description" : "Engages homeless and at risk of homeless persons in supervised employment cleaning and tidying the sidewalks/streets in front of local businesses. Also can connect homeless or at risk of homeless persons with employment and job training.",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "750 Carnarvon Street",
+		"PC" : "V3M 1E7",
+		"Phone" : "",
+		"Email" : "info@nwhomeless.ca",
+		"Website" : "http://nwhomeless.ca/?page_id=144",
+		"X" : "-122.9116023674434",
+		"Y" : "49.202383459116035",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9116023674434, 49.202383459116035 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 9,
+		"Name" : "Service Canada Centre",
+		"Description" : "Employment, counselling and placement",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "201 - 620 Royal Avenue",
+		"PC" : "V3M 1J2",
+		"Phone" : "1-800-926-9105",
+		"Email" : "",
+		"Website" : "http://www1.servicecanada.gc.ca/cgi-bin/sc-dsp.cgi?rc=5940&ln=e#pa",
+		"X" : "-122.91148369358666",
+		"Y" : "49.20491835146481",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91148369358666, 49.20491835146481 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 1,
+		"Name" : "ACORN Canada",
+		"Description" : "Year round assistance with income tax preparation from volunteers.",
+		"Category" : "Government and Justice Services",
+		"Hours" : "Monday-Saturday, 10:00 am - 6:00 pm (by appointment)",
+		"Location" : "2 - 630B Carnarvon Street",
+		"PC" : "V3M 1E5",
+		"Phone" : "(604)522-8707",
+		"Email" : "bcacorn@acorncanada.org",
+		"Website" : "http://www.cra-arc.gc.ca/tx/ndvdls/vlntr/clncs/newwestminster-bc-eng.html",
+		"X" : "-122.90963686974206",
+		"Y" : "49.203496743701606",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90963686974206, 49.203496743701606 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 2,
+		"Name" : "BC Provincial Government - Ministry of Child and Family Development - Aboriginal Circle 6 Tri-Cities Family Services",
+		"Description" : "Aboriginal Child and Youth Mental Health and Aboriginal Circle 6 Guardianship/Collaborative Practice programs.",
+		"Category" : "Government and Justice Services",
+		"Hours" : "",
+		"Location" : "201 - 768 Columbia Street",
+		"PC" : "V3M 1B4",
+		"Phone" : "(604)660-5149",
+		"Email" : "",
+		"Website" : "http://www.mcf.gov.bc.ca/sda/contacts.htm",
+		"X" : "-122.910794429807",
+		"Y" : "49.201189703788145",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.910794429807, 49.201189703788145 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 3,
+		"Name" : "BC Provincial Government - Ministry of Child and Family Development - Aboriginal Circle 6 Tri-Cities Family Services",
+		"Description" : "Aboriginal 6 Tri-Cities Family Services Program.",
+		"Category" : "Government and Justice Services",
+		"Hours" : "",
+		"Location" : "201 - 237 East Columbia Street",
+		"PC" : "V3L 3W4",
+		"Phone" : "(604)660-9710",
+		"Email" : "",
+		"Website" : "http://www.mcf.gov.bc.ca/sda/contacts.htm",
+		"X" : "-122.89320328399515",
+		"Y" : "49.2248494547638",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89320328399515, 49.2248494547638 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 4,
+		"Name" : "British Columbia Provincial Government - Family Justice Centre",
+		"Description" : "Providers information and assistance to families that are considering or experiencing separation or divorce.",
+		"Category" : "Government and Justice Services",
+		"Hours" : "Monday, Wednesday-Friday, 8:00 am - 5:15 pm, Thursday, 8:00 am - 7:00 pm",
+		"Location" : "204 - 88 Tenth Street",
+		"PC" : "V3M 6H8",
+		"Phone" : "(604)660-8636",
+		"Email" : "",
+		"Website" : "http://www.clicklaw.bc.ca/helpmap/service/1019",
+		"X" : "-122.91742448361838",
+		"Y" : "49.201189097454",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91742448361838, 49.201189097454 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 5,
+		"Name" : "British Columbia Provincial Government - Ministry of Children and Family Development",
+		"Description" : "Provides child and youth mental health services, and child and family services (including child protection programs, adoption programs etc).",
+		"Category" : "Government and Justice Services",
+		"Hours" : "",
+		"Location" : "201 - 1065 Columbia Street",
+		"PC" : "V3M 6H7",
+		"Phone" : "(604)660-9495",
+		"Email" : "",
+		"Website" : "http://www.mcf.gov.bc.ca/sda/contacts.htm",
+		"X" : "-122.9190590670046",
+		"Y" : "49.20075296762267",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9190590670046, 49.20075296762267 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 6,
+		"Name" : "British Columbia Provincial Government - Ministry of Justice - New Westminster Community Corrections",
+		"Description" : "Supervises clients on bail or clients sentenced on a community court order.",
+		"Category" : "Government and Justice Services",
+		"Hours" : "Monday-Friday, 8:00 am - 5:00 pm",
+		"Location" : "103 - 80A Sixth Street",
+		"PC" : "V3L 5B3",
+		"Phone" : "(604)660-8834",
+		"Email" : "",
+		"Website" : "http://www.pssg.gov.bc.ca/corrections/contact/cco.htm",
+		"X" : "-122.91055787308517",
+		"Y" : "49.20482320562745",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91055787308517, 49.20482320562745 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 7,
+		"Name" : "British Columbia Provincial Government - Ministry of Social Development and Social Innovation - Employment and Assistance Office",
+		"Description" : "Assists people in applying for income assistance programs. ",
+		"Category" : "Government and Justice Services",
+		"Hours" : "",
+		"Location" : "202 - 1015 Columbia Street",
+		"PC" : "V3M 6H6",
+		"Phone" : "1-866-866-0800",
+		"Email" : "",
+		"Website" : "http://www.eia.gov.bc.ca/contacts/offices.html",
+		"X" : "-122.91787120219065",
+		"Y" : "49.20139871416298",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91787120219065, 49.20139871416298 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 8,
+		"Name" : "City of New Westminster - City Hall",
+		"Description" : "Provides municipal services including applying for building and development permits, applying for business licences, paying property taxes and electrical utility bills.",
+		"Category" : "Government and Justice Services",
+		"Hours" : "Monday, 8:00 am - 8:00 pm, Tuesday-Friday, 8:00am-5:00pm",
+		"Location" : "511 Royal Avenue",
+		"PC" : "V3L 1H9",
+		"Phone" : "(604)521-3711",
+		"Email" : "Postmaster@newwestcity.ca",
+		"Website" : "http://www.newwestcity.ca/city_hall/mayor_and_council/contacts-and-directories",
+		"X" : "-122.91085233479406",
+		"Y" : "49.20688189784689",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91085233479406, 49.20688189784689 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 9,
+		"Name" : "City of New Westminster - Fire & Rescue Services",
+		"Description" : "Provides fire prevention, emergency management and education services.",
+		"Category" : "Government and Justice Services",
+		"Hours" : "Non-emergency hours: Monday to Friday, 8:30 am - 4:30 pm",
+		"Location" : "1 East Sixth Avenue",
+		"PC" : "V3L 4G6",
+		"Phone" : "(604)519-1000 (non-emergency), 911 (emergency)",
+		"Email" : "fire@newwestcity.ca",
+		"Website" : "http://www.newwestcity.ca/residents/public_safety/fire__rescue_services.php",
+		"X" : "-122.90823879996866",
+		"Y" : "49.22020726264855",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90823879996866, 49.22020726264855 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 10,
+		"Name" : "City of New Westminster - Police Department",
+		"Description" : "Provides crisis services and trauma response, crime reporting, criminal record checks, emotional support and referral service.",
+		"Category" : "Government and Justice Services",
+		"Hours" : "Non-emergency services: Monday- Sunday, 8:00 am - 7:00 pm",
+		"Location" : "555 Columbia Street",
+		"PC" : "V3L 1B2",
+		"Phone" : "(604)525-5411 (non-emergency), 911 (emergency)",
+		"Email" : "inf@nwpolice.org",
+		"Website" : "http://www.nwpolice.org/",
+		"X" : "-122.90763511920632",
+		"Y" : "49.203703522925274",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90763511920632, 49.203703522925274 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 11,
+		"Name" : "Elizabeth Fry Society of Greater Vancouver",
+		"Description" : "Provides programs for woman (and their families) involved or at risk of involvement in the correctional system.",
+		"Category" : "Government and Justice Services",
+		"Hours" : "",
+		"Location" : "402 East Columbia Street",
+		"PC" : "V3L 3X1",
+		"Phone" : "(604)520-1166",
+		"Email" : "info@elizabethfry.com",
+		"Website" : "https://www.elizabethfry.com/",
+		"X" : "-122.89242926128995",
+		"Y" : "49.22805504991801",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89242926128995, 49.22805504991801 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 12,
+		"Name" : "Federal Government of Canada - Service Canada Centre",
+		"Description" : "Provides a variety of federal government services, including employment programs, social insurance number application, pension plan programs, and employment insurance application.",
+		"Category" : "Government and Justice Services",
+		"Hours" : "Monday to Friday, 8:30 am - 4:00 pm",
+		"Location" : "201 - 620 Royal Avenue",
+		"PC" : "V3M 1J2",
+		"Phone" : "1-800-926-9105",
+		"Email" : "",
+		"Website" : "http://www1.servicecanada.gc.ca/cgi-bin/sc-dsp.cgi?rc=5940&ln=e#pa",
+		"X" : "-122.91148369358666",
+		"Y" : "49.20491835146481",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91148369358666, 49.20491835146481 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 13,
+		"Name" : "Fraser Health Authority - Public Health Unit",
+		"Description" : "Provides health related programs, including STD testing, needle exchange, chronic disease prevention and child development programs.",
+		"Category" : "Government and Justice Services",
+		"Hours" : "",
+		"Location" : "218 - 610 Sixth Street",
+		"PC" : "V3L 3C2",
+		"Phone" : "(604)777-6740",
+		"Email" : "",
+		"Website" : "http://www.fraserhealth.ca/find-us/locations/our-locations?site_id=2505",
+		"X" : "-122.92252572535635",
+		"Y" : "49.212490006536555",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92252572535635, 49.212490006536555 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 14,
+		"Name" : "Immigrant Services Society of BC",
+		"Description" : "Offers free tax clinics during March and April of each year for newcomers to Canada.",
+		"Category" : "Government and Justice Services",
+		"Hours" : "",
+		"Location" : "280 - 610 Sixth Street",
+		"PC" : "V3L 3C2",
+		"Phone" : "(604)522-5902 ext 1791",
+		"Email" : "andrea.canales@issbc.org ",
+		"Website" : "http://issbc.org/prim-corp-nav/news-events/news/volunteers-contribute-over-900-hours-to-newcomer-tax-clinics",
+		"X" : "-122.92252572535635",
+		"Y" : "49.212490006536555",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92252572535635, 49.212490006536555 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 15,
+		"Name" : "Mosaic",
+		"Description" : "Offers a free tax clinic in March and April of each year for low-income permanent residents, as well as free tax-information workshops for newcomers of all income levels.",
+		"Category" : "Government and Justice Services",
+		"Hours" : "",
+		"Location" : "519 Seventh Street",
+		"PC" : "V3M 6A7",
+		"Phone" : "(604)438-8214",
+		"Email" : "mosaic@mosaicbc.com ",
+		"Website" : "http://www.mosaicbc.com/settlement-services/general-support/information-newcomers-legal-information-taxes-and-social-support",
+		"X" : "-122.920455471798",
+		"Y" : "49.212217450947115",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.920455471798, 49.212217450947115 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 16,
+		"Name" : "Seniors Services Society",
+		"Description" : "Provides free yearly income tax clinic in March and April.",
+		"Category" : "Government and Justice Services",
+		"Hours" : "",
+		"Location" : "750 Carnarvon Street",
+		"PC" : "V3M 1E7",
+		"Phone" : "(604)520-6621",
+		"Email" : "",
+		"Website" : "http://www.seniorsservicessociety.ca/staxclinic.htm",
+		"X" : "-122.9116023674434",
+		"Y" : "49.202383459116035",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9116023674434, 49.202383459116035 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 17,
+		"Name" : "Union Gospel Mission",
+		"Description" : "Provides seasonal income tax assistance.",
+		"Category" : "Government and Justice Services",
+		"Hours" : "",
+		"Location" : "658 Clarkson Street",
+		"PC" : "V3M 1E1",
+		"Phone" : "(604)525-8989",
+		"Email" : "contact@ugm.ca ",
+		"Website" : "https://www.ugm.ca/program-meal-times/",
+		"X" : "-122.90934416053088",
+		"Y" : "49.202799308421426",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90934416053088, 49.202799308421426 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 1,
+		"Name" : "Century House Senior Peer Counselling",
+		"Description" : "Trained senior volunteers provide free and confidential one-on-one support to older adults (50+) to help meet life's challenges.",
+		"Category" : "Seniors Services",
+		"Hours" : "",
+		"Location" : "620 Eighth St",
+		"PC" : "V3M 3S2",
+		"Phone" : "(604)519-1064",
+		"Email" : "",
+		"Website" : "http://www.centuryhouseassociation.com/?p=519",
+		"X" : "-122.92726828217071",
+		"Y" : "49.21180394240001",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92726828217071, 49.21180394240001 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 2,
+		"Name" : "New Westminster Mental Health Centre",
+		"Description" : "Offers outreach assessment, consultation and follow-up services for seniors experiencing psychiatric problems such as dementia.",
+		"Category" : "Seniors Services",
+		"Hours" : "",
+		"Location" : "2/F - 403 Sixth St",
+		"PC" : "V3L 3B1",
+		"Phone" : "(604)777-6800",
+		"Email" : "",
+		"Website" : "",
+		"X" : "-122.91645291714045",
+		"Y" : "49.21051541558173",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91645291714045, 49.21051541558173 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 3,
+		"Name" : "New Westminster Parks, Culture and Recreation - Century House",
+		"Description" : "Serves as a community focal point for older adults (50+) and provides a variety of education, leisure, recreation and social programs.",
+		"Category" : "Seniors Services",
+		"Hours" : "",
+		"Location" : "620 Eighth St",
+		"PC" : "V3M 3S2",
+		"Phone" : "(604)519-1066",
+		"Email" : "",
+		"Website" : "http://www.newwestpcr.ca/recreation/recreation_centres/century_house.php",
+		"X" : "-122.92726828217071",
+		"Y" : "49.21180394240001",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92726828217071, 49.21180394240001 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 4,
+		"Name" : "New Westminster Police Department Elder Abuse Unit",
+		"Description" : "Offers victim assistance to seniors who may be experiencing elder abuse or neglect within a relationship. Offered in partnership with Family Services of Greater Vancouver.",
+		"Category" : "Seniors Services",
+		"Hours" : "",
+		"Location" : "555 Columbia St",
+		"PC" : "V3L 1B2",
+		"Phone" : "(604)529-2459",
+		"Email" : "",
+		"Website" : "http://www.nwpolice.org/",
+		"X" : "-122.90763511920632",
+		"Y" : "49.203703522925274",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90763511920632, 49.203703522925274 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 5,
+		"Name" : "Queen's Park Care Centre",
+		"Description" : "Provides residential care programs and services to seniors.",
+		"Category" : "Seniors Services",
+		"Hours" : "",
+		"Location" : "315 McBride Blvd",
+		"PC" : "V3L 5E8",
+		"Phone" : "(604)520-0911",
+		"Email" : "",
+		"Website" : "http://www.fraserhealth.ca/find-us/services/residential-care/residential-care---new-westminster/qu",
+		"X" : "-122.90233941010868",
+		"Y" : "49.21693252498891",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90233941010868, 49.21693252498891 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 6,
+		"Name" : "Queensborough 50+ Social Club",
+		"Description" : "Offers opportunities for friendship, fun and social interaction. Activities and programs include bingo, a social luncheon and volunteer opportunities.",
+		"Category" : "Seniors Services",
+		"Hours" : "",
+		"Location" : "920 Ewen Ave",
+		"PC" : "V3M 5C8",
+		"Phone" : "(604)525-7388",
+		"Email" : "",
+		"Website" : "http://www.newwestpcr.ca/recreation/recreation_centres/queensborough_community_centre.php",
+		"X" : "-122.9436168718548",
+		"Y" : "49.18588392554472",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9436168718548, 49.18588392554472 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 7,
+		"Name" : "Sapperton Old Age Pensioners Association",
+		"Description" : "Offers opportunities for friendship, fun and social interaction.",
+		"Category" : "Seniors Services",
+		"Hours" : "",
+		"Location" : "318 Keary St",
+		"PC" : "V3L 3L3",
+		"Phone" : "(604)525-4686",
+		"Email" : "",
+		"Website" : "",
+		"X" : "-122.89397515163854",
+		"Y" : "49.22528747065566",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89397515163854, 49.22528747065566 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 8,
+		"Name" : "Seniors Services Society",
+		"Description" : "Offers a range of services to seniors, including a dining and lunch program, grocery shopping, housing services and meals-on-wheels.",
+		"Category" : "Seniors Services",
+		"Hours" : "",
+		"Location" : "750 Carnarvon St",
+		"PC" : "V3M 1E7",
+		"Phone" : "(604)520-6621",
+		"Email" : "",
+		"Website" : "http://www.seniorsservicessociety.ca/contact.html",
+		"X" : "-122.9116023674434",
+		"Y" : "49.202383459116035",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9116023674434, 49.202383459116035 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 1,
+		"Name" : "Elizabeth Fry Society of Greater Vancouver - Maida Duncan Drop-In Centre",
+		"Description" : "Offers marginalized women a place to go for hot lunches, showers, laundry, free clothing and household items, as well social activities and education upgrading.",
+		"Category" : "Drop-In Centre",
+		"Hours" : "",
+		"Location" : "402 East Columbia Street",
+		"PC" : "V3L 3X1",
+		"Phone" : "(604)520-1166",
+		"Email" : "info@elizabethfry.com",
+		"Website" : "https://www.elizabethfry.com/programs/atrisk-women.htm",
+		"X" : "-122.89242926128995",
+		"Y" : "49.22805504991801",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89242926128995, 49.22805504991801 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 2,
+		"Name" : "Union Gospel Mission",
+		"Description" : "Breakfast and soup programs.",
+		"Category" : "Drop-In Centre",
+		"Hours" : "Breakfast Service: Monday-Friday, 8:30 am - 9:30 am, Soup Service: Monday-Friday, 11:15 am - 12:00 pm",
+		"Location" : "658 Clarkson Street",
+		"PC" : "V3M 1E1",
+		"Phone" : "(604)525-8989",
+		"Email" : "contact@ugm.ca ",
+		"Website" : "https://www.ugm.ca/program-meal-times/",
+		"X" : "-122.90934416053088",
+		"Y" : "49.202799308421426",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90934416053088, 49.202799308421426 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 1,
+		"Name" : "Bridgeview Heights",
+		"Description" : "MUST APPLY THROUGH BC HOUSING either on-line or by mail. Housing for families with children.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "For BC Housing: Monday-Friday, 8:30am-4:30pm",
+		"Location" : "511 Thirteenth St",
+		"PC" : "V3M 4M1",
+		"Phone" : "(604)433-2218",
+		"Email" : "inquiry@affordablehsg.com",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.93059118539031",
+		"Y" : "49.20621684165381",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.93059118539031, 49.20621684165381 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 2,
+		"Name" : "Cedar Manor",
+		"Description" : "MUST APPLY THROUGH CEDAR MANOR - only market rent units available currently.Housing for seniors (55+), persons with disabilities and singles.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "Monday-Friday, 8:30am-4:30pm",
+		"Location" : "312 Hospital St",
+		"PC" : "V3N 3L4",
+		"Phone" : "(604)299-8288",
+		"Email" : "inquiry@affordablehsg.com",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.89383322882809",
+		"Y" : "49.226195768544855",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.89383322882809, 49.226195768544855 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 3,
+		"Name" : "Connaught Heights Pentecostal Villa",
+		"Description" : "MUST APPLY THROUGH CONNAUGHT HEIGHTS PENTECOSTAL SOCIETY by mail. Housing for seniors (55+).",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "",
+		"Location" : "2222 Edinburgh St",
+		"PC" : "V3M 2Y1",
+		"Phone" : "(604)540-1941",
+		"Email" : "",
+		"Website" : "http://www.cglf.ca/storage/Inventory%20of%20Lower%20Mainland%20Christian%20Housing.pdf",
+		"X" : "-122.95390804434082",
+		"Y" : "49.20063352568668",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.95390804434082, 49.20063352568668 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 4,
+		"Name" : "Crown Manor",
+		"Description" : "MUST APPLY THROUGH BC HOUSING either on-line or by mail. Housing for seniors (55+), persons with disabilities, singles, and families with children.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "For BC Housing: Monday-Friday, 8:30am-4:30pm",
+		"Location" : "430 Ninth St",
+		"PC" : "V3M 3W4",
+		"Phone" : "(604)433-2218",
+		"Email" : "icentre@metrovancouver.org",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.92394047061435",
+		"Y" : "49.20853128037355",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92394047061435, 49.20853128037355 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 5,
+		"Name" : "Dunwood Place",
+		"Description" : "MUST APPLY THROUGH THE PRESBYTERIAN SENIOR CITIZENS' HOUSING SOCIETY in person or by mail. Housing for seniors (65+).",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "Monday-Friday, 9:00am-4:00pm",
+		"Location" : "901 Colborne St",
+		"PC" : "V3L 5E9",
+		"Phone" : "(604)521-8636",
+		"Email" : "",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.91626808266709",
+		"Y" : "49.22358201413698",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91626808266709, 49.22358201413698 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 6,
+		"Name" : "Fraser River Place Housing Co-op",
+		"Description" : "MUST APPLY THROUGH FRASER RIVER PLACE HSG CO-OP MEMBERSHIP COMMITTEE by mail. Co-op housing for all household types.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "",
+		"Location" : "530 Ginger Dr",
+		"PC" : "V3L 5K8",
+		"Phone" : "",
+		"Email" : "",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.90690517548394",
+		"Y" : "49.21910908153716",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90690517548394, 49.21910908153716 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 7,
+		"Name" : "Hillside Place",
+		"Description" : "MUST APPLY THROUGH BC HOUSING either on-line or by mail. Housing for families with children.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "For BC Housing: Monday-Friday, 8:30am-4:30pm",
+		"Location" : "1025 Queens Ave",
+		"PC" : "V3M 1M4",
+		"Phone" : "(604)433-2218",
+		"Email" : "inquiry@affordablehsg.com",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.92065708771254",
+		"Y" : "49.203243302097036",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92065708771254, 49.203243302097036 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 8,
+		"Name" : "Hunter Heights",
+		"Description" : "MUST APPLY THROUGH FRASERSIDE COMMUNITY SERVICES. Housing for singles and couples.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "",
+		"Location" : "1115 Sixth Ave",
+		"PC" : "V3M 4J3",
+		"Phone" : "(604)522-3722",
+		"Email" : "jackier@fraserside.bc.ca",
+		"Website" : "http://www.fraserside.bc.ca/social_housing/hunter_heights.htm",
+		"X" : "-122.93049882430199",
+		"Y" : "49.20794555822337",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.93049882430199, 49.20794555822337 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 9,
+		"Name" : "Legion Manor",
+		"Description" : "MUST APPLY THROUGH ROYAL CITY LEGION HOUSING SOCIETY by mail. Housing for seniors (55+).",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "",
+		"Location" : "505 Sixth Ave",
+		"PC" : "V3L 5H3",
+		"Phone" : "(604)526-0116",
+		"Email" : "",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.91988919701926",
+		"Y" : "49.21388632616596",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91988919701926, 49.21388632616596 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 10,
+		"Name" : "Lions Moody Park Tower",
+		"Description" : "MUST APPLY THROUGH BC HOUSING either on-line or by mail. Housing for seniors (55+) and persons with disabilities.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "For BC Housing: Monday-Friday, 8:30am-4:30pm",
+		"Location" : "525 Eighth St",
+		"PC" : "V3M 6H2",
+		"Phone" : "(604)433-2218",
+		"Email" : "",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.92282036503556",
+		"Y" : "49.21073429331534",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92282036503556, 49.21073429331534 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 11,
+		"Name" : "London Square",
+		"Description" : "MUST APPLY THROUGH BC HOUSING either on-line or by mail. Housing for families with children.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "For BC Housing: Monday-Friday, 8:30am-4:30pm",
+		"Location" : "1206A London St",
+		"PC" : "V3M 5Z6",
+		"Phone" : "(604)433-2218",
+		"Email" : "icentre@metrovancouver.org",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.93679294471455",
+		"Y" : "49.21219376625162",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.93679294471455, 49.21219376625162 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 12,
+		"Name" : "McBride Place",
+		"Description" : "MUST APPLY THROUGH BC HOUSING either on-line or by mail. Housing for families with children.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "For BC Housing: Monday-Friday, 8:30am-4:30pm",
+		"Location" : "431 Ginger Dr",
+		"PC" : "V3L 5L1",
+		"Phone" : "(604)433-2218",
+		"Email" : "icentre@metrovancouver.org",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.9051553782999",
+		"Y" : "49.218217148262525",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9051553782999, 49.218217148262525 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 13,
+		"Name" : "New Westminster Housing Co-operative",
+		"Description" : "MUST APPLY THROUGH NEW WESTMINSTER HOUSING CO-OPERATIVE MEMBERSHIP COMMITTEE by mail or by email. Co-op housing for all household types.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "",
+		"Location" : "243 Tenth St",
+		"PC" : "V3M 3Y1",
+		"Phone" : "",
+		"Email" : "new.west.coop@gmail.com",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.91990737990986",
+		"Y" : "49.20476523800184",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91990737990986, 49.20476523800184 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 14,
+		"Name" : "Queen's Avenue Hsg Co-op",
+		"Description" : "MUST APPLY THROUGH QUEEN'S AVENUE HOUSING COOPERATIVE by mail or by email. Co-op housing for all household types.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "",
+		"Location" : "136 Tenth St",
+		"PC" : "V3M 3X8",
+		"Phone" : "",
+		"Email" : "qacoop@gmail.com?£",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.91953906943387",
+		"Y" : "49.20306663099956",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91953906943387, 49.20306663099956 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 15,
+		"Name" : "Queen's Park Hsg Co-op",
+		"Description" : "MUST APPLY THROUGH  QUEEN'S PARK HOUSING CO-OP MEMBERSHIP COMMITTEE by mail. Co-op housing for all household types.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "",
+		"Location" : "386 Ginger Dr",
+		"PC" : "V3L 5L4",
+		"Phone" : "(604)520-3886",
+		"Email" : "",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.90470781805703",
+		"Y" : "49.2171709394927",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90470781805703, 49.2171709394927 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 16,
+		"Name" : "Riverbend Housing Co-op",
+		"Description" : "MUST APPLY THROUGH RIVERBEND HOUSING CO-OP MEMBERSHIP COMMITTEE by mail or email. Co-op housing for all household types.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "",
+		"Location" : "1050 Quayside Dr",
+		"PC" : "V3M 6C1",
+		"Phone" : "(604)520-3442",
+		"Email" : "info@riverbendcoop.org",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.91659224798757",
+		"Y" : "49.19860273253524",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91659224798757, 49.19860273253524 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 17,
+		"Name" : "Ross Towers",
+		"Description" : "MUST APPLY THROUGH BC HOUSING by mail or online. Housing for seniors (55+) and persons with disabilities.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "For BC Housing: Monday-Friday, 8:30am-4:30pm",
+		"Location" : "45 Clute St",
+		"PC" : "V3L 1Z7",
+		"Phone" : "(604)433-2218",
+		"Email" : "",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.91558436971101",
+		"Y" : "49.222960887990155",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91558436971101, 49.222960887990155 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 18,
+		"Name" : "Rotary Tower",
+		"Description" : "MUST APPLY THROUGH BAYSIDE PROPERTY SERVICES LTD - phone to view. Housing for seniors (55+) - couples only.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "",
+		"Location" : "25 Clute St",
+		"PC" : "V3L 1Z6",
+		"Phone" : "(778)859-0798",
+		"Email" : "",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.91455428020957",
+		"Y" : "49.22337076464271",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91455428020957, 49.22337076464271 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 19,
+		"Name" : "Sapperton Terrace Hsg Co-op",
+		"Description" : "MUST APPLY THROUGH SAPPERTON TERRACE HOUSING CO-OP MEMBERSHIP COMMITTEE by mail. Co-op housing for all household types.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "",
+		"Location" : "318 Ward St",
+		"PC" : "V3L 5P3",
+		"Phone" : "",
+		"Email" : "",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.8941694260604",
+		"Y" : "49.22911036029343",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.8941694260604, 49.22911036029343 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 20,
+		"Name" : "Wesley Manor",
+		"Description" : "MUST APPLY THROUGH WESLEY MANOR SOCIETY - phone Wesley Manor Society for more details. Housing for seniors (55+ years old). ",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "",
+		"Location" : "815 Kennedy St",
+		"PC" : "V3M 1R8",
+		"Phone" : "(604)524-8117",
+		"Email" : "",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.92058223644055",
+		"Y" : "49.20718222886633",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92058223644055, 49.20718222886633 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 21,
+		"Name" : "Westminster Heights Co-op",
+		"Description" : "MUST APPLY THROUGH WESTMINSTER HEIGHTS CO-OP MEMBERSHIP COMMITTEE by mail. Co-op housing for families with children.",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "Monday, 9:30am-11:00am, Thursday, 9:30am-12:30pm",
+		"Location" : "1005 Queens Ave",
+		"PC" : "V3M 1M4",
+		"Phone" : "",
+		"Email" : "",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.92010112624469",
+		"Y" : "49.20382190127359",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92010112624469, 49.20382190127359 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 22,
+		"Name" : "Westminster Landing Co-op",
+		"Description" : "MUST APPLY THROUGH WESTMINSTER LANDING CO-OP MEMBERSHIP COMMITTEE by mail. Co-op housing for all household types",
+		"Category" : "Non-Market and Co-op Housing",
+		"Hours" : "",
+		"Location" : "13 K de K Crt",
+		"PC" : "V3M 6B6",
+		"Phone" : "(604)521-8338",
+		"Email" : "",
+		"Website" : "http://www.bchousing.org/Options/Subsidized_Housing/Listings",
+		"X" : "-122.9144598820122",
+		"Y" : "49.198971623100604",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9144598820122, 49.198971623100604 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 1,
+		"Name" : "Family Services of Greater Vancouver",
+		"Description" : "Provides various programs related to literacy and education (including financial literacy courses, ESL practice groups) etc. . Locations for courses and programs vary - please visit website for more details.",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "",
+		"Location" : "301 - 321 Sixth Street",
+		"PC" : "V3L 3A7",
+		"Phone" : "(604)525-9144",
+		"Email" : "",
+		"Website" : "http://www.fsgv.ca/find-the-support-you-need/courses/",
+		"X" : "-122.91524300931644",
+		"Y" : "49.20945714598408",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91524300931644, 49.20945714598408 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 2,
+		"Name" : "I-Care Literacy Program (Douglas College)",
+		"Description" : "Adults can meet with a trained volunteer tutor once a week to learn basic reading, writing and spelling.",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "",
+		"Location" : "700 Royal Avenue",
+		"PC" : "V3M 5Z5",
+		"Phone" : "(604)527-5409",
+		"Email" : "walkern@douglascollege.ca",
+		"Website" : "http://www.douglascollege.ca/programs-courses/faculties/language-literature-performing-arts/icare-literacy-program",
+		"X" : "-122.91274781516022",
+		"Y" : "49.20350201411526",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91274781516022, 49.20350201411526 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 3,
+		"Name" : "Immigrant Services Society of BC",
+		"Description" : "Provides language learning services through LINC  (Language Instruction for Newcomers to Canada) program.",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "",
+		"Location" : "280 - 610 Sixth Street",
+		"PC" : "V3L 3C2",
+		"Phone" : "(604)522-5902",
+		"Email" : "linc.nwest@issbc.org",
+		"Website" : "http://issbc.org/prim-nav/find-a-service-or-course/learn-english/learnenglish",
+		"X" : "-122.92252572535635",
+		"Y" : "49.212490006536555",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92252572535635, 49.212490006536555 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 4,
+		"Name" : "Inclusion BC - On My Way Program",
+		"Description" : "A project to help students with special needs and their families prepare for life after high school.",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "",
+		"Location" : "227 Sixth Street",
+		"PC" : "V3L 3A5",
+		"Phone" : "(604)777-9100",
+		"Email" : "info@inclusionbc.org",
+		"Website" : "http://transitionplanningbc.ca/",
+		"X" : "-122.91375364044025",
+		"Y" : "49.20825385976762",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91375364044025, 49.20825385976762 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 5,
+		"Name" : "New Westminster Public Library - Main Branch",
+		"Description" : "Offers electronic and written resources (books, videos etc), learning related events and programs for children, teens and adults. Also has ESL conversation circles.",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "Monday-Thursday, 9:30 am - 9 pm, Friday & Saturday, 9:30 am - 6 pm, Sunday, 12 pm- 5 pm",
+		"Location" : "716 Sixth Avenue",
+		"PC" : "V3M 2B3",
+		"Phone" : "(604)527-4660",
+		"Email" : "askus@nwpl.ca",
+		"Website" : "http://www.nwpl.ca/",
+		"X" : "-122.92238139169123",
+		"Y" : "49.2116721626214",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92238139169123, 49.2116721626214 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 6,
+		"Name" : "New Westminster Public Library - Queensborough Branch",
+		"Description" : "Offers electronic and written resources (books, videos etc), learning related events and programs for children, teens and adults. Also has ESL conversation circles.",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "Monday & Saturday, 10 am - 2 pm, Tuesday & Thursday, 12 pm - 8 pm, Wednesday and Friday, 10 am - 6 pm",
+		"Location" : "920 Ewen Avenue",
+		"PC" : "V3M 5C8",
+		"Phone" : "(604)636-4450",
+		"Email" : "askus@nwpl.ca",
+		"Website" : "http://www.nwpl.ca/",
+		"X" : "-122.9436168718548",
+		"Y" : "49.18588392554472",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9436168718548, 49.18588392554472 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 7,
+		"Name" : "New Westminster School District - Adult Learning Centre (Downtown)",
+		"Description" : "Provides community education courses, including high school upgrade courses. Language learning centre provides English language learning courses.",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "",
+		"Location" : "1001 Columbia Street",
+		"PC" : "V3M 1C4",
+		"Phone" : "(604)517-6191",
+		"Email" : "",
+		"Website" : "http://www.ce40.ca/",
+		"X" : "-122.9163643334876",
+		"Y" : "49.20047229052344",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9163643334876, 49.20047229052344 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 8,
+		"Name" : "New Westminster School District - Adult Learning Centre and Language Learning Centre (Pearson)",
+		"Description" : "Provides community education courses, including high school upgrade courses. Language learning centre provides English language learning courses.",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "",
+		"Location" : "835 Eighth Street",
+		"PC" : "V3M 3S9",
+		"Phone" : "(604)517-6286",
+		"Email" : "",
+		"Website" : "http://www.ce40.ca/",
+		"X" : "-122.92842855180281",
+		"Y" : "49.215961952125525",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92842855180281, 49.215961952125525 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 9,
+		"Name" : "New Westminster School District - General (School Board office)",
+		"Description" : "Provides public education for elementary, middle, and secondary school students at various schools throughout New Westminster.",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "",
+		"Location" : "2/F - 1001 Columbia Street",
+		"PC" : "V3M 1C4",
+		"Phone" : "(604)517-6240",
+		"Email" : "",
+		"Website" : "http://district.sd40.bc.ca/",
+		"X" : "-122.9163643334876",
+		"Y" : "49.20047229052344",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9163643334876, 49.20047229052344 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 10,
+		"Name" : "New Westminster School District - Power Program",
+		"Description" : "High school completion program for ages 16-18 years old.",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "",
+		"Location" : "1001 Columbia Street",
+		"PC" : "V3M 1C4",
+		"Phone" : "(604)517-6159",
+		"Email" : "",
+		"Website" : "http://district.sd40.bc.ca/power/about",
+		"X" : "-122.9163643334876",
+		"Y" : "49.20047229052344",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9163643334876, 49.20047229052344 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 11,
+		"Name" : "New Westminster School District - SIGMA Youth Adult Learning Centre",
+		"Description" : "Offers flexible high school completion program for students ages 16-18 years old.",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "",
+		"Location" : "835 Eighth Street",
+		"PC" : "V3M 3S9",
+		"Phone" : "(604)517-6292",
+		"Email" : "sigma@sd40.bc.ca",
+		"Website" : "http://district.sd40.bc.ca/programs-services/sigma",
+		"X" : "-122.92842855180281",
+		"Y" : "49.215961952125525",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92842855180281, 49.215961952125525 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 12,
+		"Name" : "New Westminster School District - Urban First Nations Learning Support Centre",
+		"Description" : "Offers courses and services (including grade 12 diploma - Adult Dogwood) for Aboriginal People.",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "Monday to Thursday, 11:30 am - 2:30 pm (September to June)",
+		"Location" : "1001 Columbia Street",
+		"PC" : "V3M 1C4",
+		"Phone" : "(604)517-6191",
+		"Email" : "",
+		"Website" : "http://district.sd40.bc.ca/programs-services/urban-first-nations-learning-support-centre",
+		"X" : "-122.9163643334876",
+		"Y" : "49.20047229052344",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9163643334876, 49.20047229052344 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 13,
+		"Name" : "Purpose Society - English Made Easy Program",
+		"Description" : "Provides an opportunity for parents, grandparents and children (up to six years of age) to learn English, make friends, enjoy great food and learn about other cultures.",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "Wednesday, 10 am - 12 pm",
+		"Location" : "40 Begbie Street",
+		"PC" : "V3M 3L9",
+		"Phone" : "(604)526-2522",
+		"Email" : "",
+		"Website" : "http://www.purposesociety.org/Parenting_Groups.html",
+		"X" : "-122.91125685863508",
+		"Y" : "49.20210369037047",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91125685863508, 49.20210369037047 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 14,
+		"Name" : "Purpose Society - Purpose Secondary School",
+		"Description" : "High school graduation program for grades 9 to 12.",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "",
+		"Location" : "40 Begbie Street",
+		"PC" : "V3M 3L9",
+		"Phone" : "(604)528-6014 (September-June phone), (604)526-2522 (July/August phone)",
+		"Email" : "purpose_school@telus.net",
+		"Website" : "http://www.purposesecondary.org/WELCOME.html",
+		"X" : "-122.91125685863508",
+		"Y" : "49.20210369037047",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91125685863508, 49.20210369037047 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 15,
+		"Name" : "UFCW - 247 Training and Education Centre",
+		"Description" : "Offers various career related and skills courses.",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "",
+		"Location" : "544 Columbia Street",
+		"PC" : "V3L 1B1",
+		"Phone" : "(604)523-5421",
+		"Email" : "webCampusadmin@ufcw.ca",
+		"Website" : "http://www.ufcw247trainingcentre.com/",
+		"X" : "-122.90713562068132",
+		"Y" : "49.20325524464897",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90713562068132, 49.20325524464897 ]
+		}
+	},
+	{
+		"json_featuretype" : "COMMUNITY_SERVICE_ASSETS",
+		"OBJECTID" : 16,
+		"Name" : "Union Gospel Mission",
+		"Description" : "Provides monthly lifeskills programming and workshops. ",
+		"Category" : "Education, Language and Literacy",
+		"Hours" : "",
+		"Location" : "658 Clarkson Street",
+		"PC" : "V3M 1E1",
+		"Phone" : "(604)525-8989",
+		"Email" : "contact@ugm.ca ",
+		"Website" : "https://www.ugm.ca/program-meal-times/",
+		"X" : "-122.90934416053088",
+		"Y" : "49.202799308421426",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90934416053088, 49.202799308421426 ]
+		}
+	}
+]

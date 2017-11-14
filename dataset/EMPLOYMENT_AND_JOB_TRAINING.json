@@ -1,0 +1,164 @@
+[
+	{
+		"json_featuretype" : "EMPLOYMENT_AND_JOB_TRAINING",
+		"Name" : "Access",
+		"Description" : "Provides skills and employment training programs for Aboriginal people.",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "201 - 681 Columbia Street",
+		"PC" : "V3M 1A8",
+		"Phone" : "(604)521-5929",
+		"Email" : "",
+		"Website" : "http://www.accessfutures.com/",
+		"X" : "-122.90995207229413",
+		"Y" : "49.202471261180655",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90995207229413, 49.202471261180655 ]
+		}
+	},
+	{
+		"json_featuretype" : "EMPLOYMENT_AND_JOB_TRAINING",
+		"Name" : "Aunt Leah's Place",
+		"Description" : "Job training opportunities are available for work in restaurants, retail stores, and landscaping.  Training includes work experience, help with resumes, interviewing and finding jobs for youth.",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "816 Twentieth Street",
+		"PC" : "V3M 4W6",
+		"Phone" : "(604)525-1204",
+		"Email" : "auntleahs@auntleahs.org",
+		"Website" : "http://auntleahs.org/about-us/who-we-help/",
+		"X" : "-122.94926011127286",
+		"Y" : "49.203235896852874",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.94926011127286, 49.203235896852874 ]
+		}
+	},
+	{
+		"json_featuretype" : "EMPLOYMENT_AND_JOB_TRAINING",
+		"Name" : "Aware Society - Job Options BC",
+		"Description" : "Provides career planning and employment counselling.",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "544 Columbia Street",
+		"PC" : "V3L 1B1",
+		"Phone" : "(604)525-0633",
+		"Email" : "joboptionsbc@awaresociety.bc.ca",
+		"Website" : "http://www.awaresociety.bc.ca/employment-services/joboptionsbc.php",
+		"X" : "-122.90713562068132",
+		"Y" : "49.20325524464897",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90713562068132, 49.20325524464897 ]
+		}
+	},
+	{
+		"json_featuretype" : "EMPLOYMENT_AND_JOB_TRAINING",
+		"Name" : "Douglas College ",
+		"Description" : "Has the following employment programs: Skills Connect for Immigrants (assists internationally trained professionals to transition to meaningful employment using their pre-landing education, experience and skills) and Self Employment Program (offers practical training, business advice and group support to help people develop the skills and knowledge needed to start and operate a successful business). ",
+		"Category" : "Employment and Job Training",
+		"Hours" : "Monday to Friday, 8:30 am - 4:00 pm",
+		"Location" : "700 Royal Avenue",
+		"PC" : "V3M 5Z5",
+		"Phone" : "(604)527-5400 (for skills connect), (604)527-5020 (self employment program)",
+		"Email" : "skillsconnect@douglascollege.ca  (skills connect); sep@douglascollege.ca (self-employment program)",
+		"Website" : "http://www.douglascollege.ca/programs-courses/training-group/jobs-search-career-development/skills-connect-immigrants",
+		"X" : "-122.91274781516022",
+		"Y" : "49.20350201411526",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91274781516022, 49.20350201411526 ]
+		}
+	},
+	{
+		"json_featuretype" : "EMPLOYMENT_AND_JOB_TRAINING",
+		"Name" : "Fraser Works New Westminster Employment Service Centre",
+		"Description" : "Employment support and referral through a case management approach.",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "2/F - 519 Seventh Street",
+		"PC" : "V3M 6A7",
+		"Phone" : "(604)522-9701 ext 123",
+		"Email" : "info@fraserworks.ca",
+		"Website" : "http://fraserworks.ca/",
+		"X" : "-122.920455471798",
+		"Y" : "49.212217450947115",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.920455471798, 49.212217450947115 ]
+		}
+	},
+	{
+		"json_featuretype" : "EMPLOYMENT_AND_JOB_TRAINING",
+		"Name" : "Immigrant Services Society of BC",
+		"Description" : "Provides employment services for immigrants.",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "280 - 610 Sixth Street",
+		"PC" : "V3L 3C2",
+		"Phone" : "(604)522-5902",
+		"Email" : "settlement@issbc.org",
+		"Website" : "http://issbc.org/prim-nav/programs/career-services",
+		"X" : "-122.92252572535635",
+		"Y" : "49.212490006536555",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92252572535635, 49.212490006536555 ]
+		}
+	},
+	{
+		"json_featuretype" : "EMPLOYMENT_AND_JOB_TRAINING",
+		"Name" : "Inclusion BC - Ready, Willing & Able ",
+		"Description" : "Helps link persons with intellectual disabilities and Autism with job opportunities.",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "227 Sixth Street",
+		"PC" : "V3L 3A5",
+		"Phone" : "(604)777-9100",
+		"Email" : "info@inclusionbc.org",
+		"Website" : "http://www.inclusionbc.org/ready-willing-and-able",
+		"X" : "-122.91375364044025",
+		"Y" : "49.20825385976762",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91375364044025, 49.20825385976762 ]
+		}
+	},
+	{
+		"json_featuretype" : "EMPLOYMENT_AND_JOB_TRAINING",
+		"Name" : "New Westminster Homelessness Coalition Society - I's on the Street",
+		"Description" : "Engages homeless and at risk of homeless persons in supervised employment cleaning and tidying the sidewalks/streets in front of local businesses. Also can connect homeless or at risk of homeless persons with employment and job training.",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "750 Carnarvon Street",
+		"PC" : "V3M 1E7",
+		"Phone" : "",
+		"Email" : "info@nwhomeless.ca",
+		"Website" : "http://nwhomeless.ca/?page_id=144",
+		"X" : "-122.9116023674434",
+		"Y" : "49.202383459116035",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9116023674434, 49.202383459116035 ]
+		}
+	},
+	{
+		"json_featuretype" : "EMPLOYMENT_AND_JOB_TRAINING",
+		"Name" : "Service Canada Centre",
+		"Description" : "Employment, counselling and placement",
+		"Category" : "Employment and Job Training",
+		"Hours" : "",
+		"Location" : "201 - 620 Royal Avenue",
+		"PC" : "V3M 1J2",
+		"Phone" : "1-800-926-9105",
+		"Email" : "",
+		"Website" : "http://www1.servicecanada.gc.ca/cgi-bin/sc-dsp.cgi?rc=5940&ln=e#pa",
+		"X" : "-122.91148369358666",
+		"Y" : "49.20491835146481",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91148369358666, 49.20491835146481 ]
+		}
+	}
+]

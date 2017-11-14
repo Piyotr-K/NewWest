@@ -1,0 +1,57 @@
+[
+{
+"json_featuretype":"SKYTRAIN_STATIONS_PTS"
+,"NAME":"22nd St Skytrain Station"
+,"Y":"49.199955"
+,"X":"-122.948975"
+,"ID":16127
+,"ADDR_NUM":"2124"
+,"ADDR_ROAD":"Seventh Ave"
+,"CITY":"New Westminster"
+,"json_geometry":{"type":"Point","coordinates":[-122.948974646369,49.199955384412]}
+}
+,{
+"json_featuretype":"SKYTRAIN_STATIONS_PTS"
+,"NAME":"New Westminister Skytrain Station"
+,"Y":"49.201347"
+,"X":"-122.912009"
+,"ID":16128
+,"ADDR_NUM":"34"
+,"ADDR_ROAD":"Eighth St"
+,"CITY":"New Westminster"
+,"json_geometry":{"type":"Point","coordinates":[-122.912008571095,49.2013467207148]}
+}
+,{
+"json_featuretype":"SKYTRAIN_STATIONS_PTS"
+,"NAME":"Columbia Skytrain Station"
+,"Y":"49.204489"
+,"X":"-122.905916"
+,"ID":16129
+,"ADDR_NUM":"425"
+,"ADDR_ROAD":"Columbia St"
+,"CITY":"New Westminster"
+,"json_geometry":{"type":"Point","coordinates":[-122.905916284921,49.2044890722475]}
+}
+,{
+"json_featuretype":"SKYTRAIN_STATIONS_PTS"
+,"NAME":"Braid Skytrain Station"
+,"Y":"49.231547"
+,"X":"-122.8829"
+,"ID":16154
+,"ADDR_NUM":"81"
+,"ADDR_ROAD":"Braid St"
+,"CITY":"New Westminster"
+,"json_geometry":{"type":"Point","coordinates":[-122.882899687932,49.2315472587181]}
+}
+,{
+"json_featuretype":"SKYTRAIN_STATIONS_PTS"
+,"NAME":"Sapperton Skytrain Station"
+,"Y":"49.225301"
+,"X":"-122.889654"
+,"ID":16155
+,"ADDR_NUM":"202"
+,"ADDR_ROAD":"Keary St"
+,"CITY":"New Westminster"
+,"json_geometry":{"type":"Point","coordinates":[-122.889654336054,49.2253013075711]}
+}
+]

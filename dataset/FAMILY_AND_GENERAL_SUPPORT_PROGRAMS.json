@@ -1,0 +1,254 @@
+[
+	{
+		"json_featuretype" : "FAMILY_AND_GENERAL_SUPPORT_PROGRAMS",
+		"Name" : "Aunt Leah's Place",
+		"Description" : "Offers support services to foster children, former foster children and young mothers, including housing, job training and life skills.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "816 Twentieth Street",
+		"PC" : "V3M 4W6",
+		"Phone" : "(604)525-1204",
+		"Email" : "auntleahs@auntleahs.org",
+		"Website" : "http://auntleahs.org/find-help/",
+		"X" : "-122.94926011127286",
+		"Y" : "49.203235896852874",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.94926011127286, 49.203235896852874 ]
+		}
+	},
+	{
+		"json_featuretype" : "FAMILY_AND_GENERAL_SUPPORT_PROGRAMS",
+		"Name" : "British Columbia Provincial Government - Family Justice Centre",
+		"Description" : "Providers information and assistance to families that are considering or experiencing separation or divorce.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "Monday, Wednesday-Friday, 8:00 am - 5:15 pm, Thursday, 8:00 am - 7:00 pm",
+		"Location" : "204 - 88 Tenth Street",
+		"PC" : "V3M 6H8",
+		"Phone" : "(604)660-8636",
+		"Email" : "",
+		"Website" : "http://www.clicklaw.bc.ca/helpmap/service/1019",
+		"X" : "-122.91742448361838",
+		"Y" : "49.201189097454",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91742448361838, 49.201189097454 ]
+		}
+	},
+	{
+		"json_featuretype" : "FAMILY_AND_GENERAL_SUPPORT_PROGRAMS",
+		"Name" : "British Columbia Provincial Government - Ministry of Children and Family Development",
+		"Description" : "Provides child and youth mental health services, and child and family services (including child protection programs, adoption programs etc).",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "201 - 1065 Columbia Street",
+		"PC" : "V3M 6H7",
+		"Phone" : "(604)660-9495",
+		"Email" : "",
+		"Website" : "http://www.mcf.gov.bc.ca/sda/contacts.htm",
+		"X" : "-122.9190590670046",
+		"Y" : "49.20075296762267",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.9190590670046, 49.20075296762267 ]
+		}
+	},
+	{
+		"json_featuretype" : "FAMILY_AND_GENERAL_SUPPORT_PROGRAMS",
+		"Name" : "Camaray Centre - Parent Support Program at Centennial Community Centre",
+		"Description" : "Offers prevention and early intervention services to parents and parents-to-be to increase a family’s knowledge and skills for effective parenting to strengthen family resiliency.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "65 East Sixth Avenue",
+		"PC" : "V3L 4G6",
+		"Phone" : "(604)436-9449",
+		"Email" : "info@cameray.ca",
+		"Website" : "http://cameray.ca/parent-support-program/",
+		"X" : "-122.90723884417564",
+		"Y" : "49.22158156046215",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90723884417564, 49.22158156046215 ]
+		}
+	},
+	{
+		"json_featuretype" : "FAMILY_AND_GENERAL_SUPPORT_PROGRAMS",
+		"Name" : "Family Services of Greater Vancouver",
+		"Description" : "Provides a range of programs from prevention to intervention. Specific programs include: community education, counselling, employment assistance, family and parenting services, immigrant support, victim assistance and youth services.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "301 - 321 Sixth Street",
+		"PC" : "V3L 3A7",
+		"Phone" : "(604)525-9144",
+		"Email" : "",
+		"Website" : "http://www.fsgv.ca/",
+		"X" : "-122.91524300931644",
+		"Y" : "49.20945714598408",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91524300931644, 49.20945714598408 ]
+		}
+	},
+	{
+		"json_featuretype" : "FAMILY_AND_GENERAL_SUPPORT_PROGRAMS",
+		"Name" : "Fraserside Community Services Society",
+		"Description" : "Provides a range of services to individuals and families including: Children Who Witness Abuse counselling, emergency shelter for families and programs for adults with developmental and mental health issues.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "2/F - 519 Seventh Street",
+		"PC" : "V3M 6A7",
+		"Phone" : "(604)522-3722",
+		"Email" : "info@fraserside.bc.ca",
+		"Website" : "http://www.fraserside.bc.ca/",
+		"X" : "-122.920455471798",
+		"Y" : "49.212217450947115",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.920455471798, 49.212217450947115 ]
+		}
+	},
+	{
+		"json_featuretype" : "FAMILY_AND_GENERAL_SUPPORT_PROGRAMS",
+		"Name" : "Immigrant Services of Society of British Columbia",
+		"Description" : "Provides settlement services to newcomers, including career guidance and training, confidential support, information and referral and social connections.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "280 - 610 Sixth Street",
+		"PC" : "V3L 3C2",
+		"Phone" : "(604)522-5902",
+		"Email" : "andrea.canales@issbc.org ",
+		"Website" : "http://issbc.org/",
+		"X" : "-122.92252572535635",
+		"Y" : "49.212490006536555",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.92252572535635, 49.212490006536555 ]
+		}
+	},
+	{
+		"json_featuretype" : "FAMILY_AND_GENERAL_SUPPORT_PROGRAMS",
+		"Name" : "Inclusion BC",
+		"Description" : "Provides a variety of support services to persons with special needs (intellectual disabilities) and their families",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "227 Sixth Street",
+		"PC" : "V3L 3A5",
+		"Phone" : "(604)777-9100",
+		"Email" : "info@inclusionbc.org",
+		"Website" : "http://www.inclusionbc.org/our-work",
+		"X" : "-122.91375364044025",
+		"Y" : "49.20825385976762",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91375364044025, 49.20825385976762 ]
+		}
+	},
+	{
+		"json_featuretype" : "FAMILY_AND_GENERAL_SUPPORT_PROGRAMS",
+		"Name" : "Lower Mainland Purpose Society",
+		"Description" : "Delivers a continuum of programs to children, youth and families. Specific programs include child care, counselling, health, an independent secondary school, information and referral, settlement services and youth programming.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "Monday-Friday, 8:30 am - 5:00 pm",
+		"Location" : "40 Begbie Street",
+		"PC" : "V3M 3L9",
+		"Phone" : "(604)526-2522",
+		"Email" : "info@purposesociety.org",
+		"Website" : "http://www.purposesociety.org/Home.html",
+		"X" : "-122.91125685863508",
+		"Y" : "49.20210369037047",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91125685863508, 49.20210369037047 ]
+		}
+	},
+	{
+		"json_featuretype" : "FAMILY_AND_GENERAL_SUPPORT_PROGRAMS",
+		"Name" : "New Westminster Family Place",
+		"Description" : "Provides a family resource program for families with children from newborn to five years old.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "Drop-in: Monday - Tuesday, 9:30 am - 11:30 am, 1:00pm - 3:00 pm, Wednesday - Friday, 9:30 am - 11:30 am. Please check Family Place website for program hours",
+		"Location" : "101 - 93 Sixth Street",
+		"PC" : "V3L 2Z8",
+		"Phone" : "(604)520-3666",
+		"Email" : "info@nwfamily.bc.ca",
+		"Website" : "http://nwfamily.bc.ca/",
+		"X" : "-122.90992211784747",
+		"Y" : "49.20530886689635",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90992211784747, 49.20530886689635 ]
+		}
+	},
+	{
+		"json_featuretype" : "FAMILY_AND_GENERAL_SUPPORT_PROGRAMS",
+		"Name" : "Salvation Army Family Services",
+		"Description" : "Provides community and family services, including childcare.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "325 Sixth Street",
+		"PC" : "V3L 3A9",
+		"Phone" : "(604)521-5319",
+		"Email" : "",
+		"Website" : "http://www.salvationarmy.ca/britishcolumbia/regions/",
+		"X" : "-122.91567883408926",
+		"Y" : "49.20982419482195",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91567883408926, 49.20982419482195 ]
+		}
+	},
+	{
+		"json_featuretype" : "FAMILY_AND_GENERAL_SUPPORT_PROGRAMS",
+		"Name" : "Simon Fraser Society for Community Living",
+		"Description" : "Have programs for children with special needs, including New Westminster Supported Child Development, New Westminster Aboriginal Supported Child Development, and Key Support Worker.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "811 Royal Avenue",
+		"PC" : "V3M 1K1",
+		"Phone" : "(604)525-9494",
+		"Email" : "info@sfscl.org",
+		"Website" : "http://sfscl.org/services/services-at-a-glance/",
+		"X" : "-122.91574664253496",
+		"Y" : "49.203288938024194",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.91574664253496, 49.203288938024194 ]
+		}
+	},
+	{
+		"json_featuretype" : "FAMILY_AND_GENERAL_SUPPORT_PROGRAMS",
+		"Name" : "Spirit of the Children Society",
+		"Description" : "Supports Aboriginal families by providing information on resources and holds various programs to bring the Aboriginal community together.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "Monday - Friday, 8:30 am - 4:30 pm",
+		"Location" : "201 - 768 Columbia Street",
+		"PC" : "V3M 1B4",
+		"Phone" : "(604)524-9113",
+		"Email" : "reception@sotcs.ca",
+		"Website" : "http://www.sotcs.ca/",
+		"X" : "-122.910794429807",
+		"Y" : "49.201189703788145",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.910794429807, 49.201189703788145 ]
+		}
+	},
+	{
+		"json_featuretype" : "FAMILY_AND_GENERAL_SUPPORT_PROGRAMS",
+		"Name" : "Western Society for Children",
+		"Description" : "Provides family support and rehabilitation, parenting information, pre-employment, recreation, resources and social support for children with disabilities.",
+		"Category" : "Family and General Support Programs",
+		"Hours" : "",
+		"Location" : "102 - 93 Sixth Street",
+		"PC" : "V3L 2Z8",
+		"Phone" : "(604)515-0810",
+		"Email" : "director@wsfc.ca",
+		"Website" : "http://www.wsfc.ca",
+		"X" : "-122.90992211784747",
+		"Y" : "49.20530886689635",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ -122.90992211784747, 49.20530886689635 ]
+		}
+	}
+]

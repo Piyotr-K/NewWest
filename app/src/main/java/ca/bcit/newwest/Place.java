@@ -89,7 +89,7 @@ public class Place {
     public void setCategory(String category) {
         this.mCategory = category;
     }
-
+      
     /**
      * Get neighbourhood of the place
      * @return name of the neighbourhood

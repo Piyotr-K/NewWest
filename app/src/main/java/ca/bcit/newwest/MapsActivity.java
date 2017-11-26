@@ -49,7 +49,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             PolygonOptions rectOptions = new PolygonOptions().addAll(neighbourhood.getLatLngs());
             rectOptions.strokeColor(Color.RED);
             Polygon polygon = mMap.addPolygon(rectOptions);
-            polygon.setStrokeWidth(2);
+            polygon.setStrokeWidth(5);
             polygon.setClickable(true);
             polygon.setTag(neighbourhood.getNeighNum());
         }

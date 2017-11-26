@@ -2,7 +2,9 @@ package ca.bcit.newwest.database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
+import android.database.sqlite.SQLiteException;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.util.Log;
 
 /**
  * @author Jason, Tzu Hsiang Chen
@@ -13,18 +15,46 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     private static final String TAG = DatabaseHelper.class.getSimpleName();
     private static final int DATABASE_VERSION = 1;
     private static final String DATABASE_NAME = "NewWest.db";
-
+    // Create helper instance
+    private static DatabaseHelper instance;
 
     public DatabaseHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
     }
 
-    @Override
-    public void onCreate(SQLiteDatabase sqLiteDatabase) {
+    /**
+     * Start database instance.
+     *
+     * @param context - current context.
+     * @return databaseHelper - current instance.
+     */
+    public static synchronized DatabaseHelper getInstance(Context context) {
+        if (instance == null) {
+            instance = new DatabaseHelper(context);
+        }
+        return instance;
     }
 
     @Override
-    public void onUpgrade(SQLiteDatabase sqLiteDatabase, int i, int i1) {
+    public void onCreate(SQLiteDatabase sqLiteDatabase) {
+        Log.i(TAG, "Create SQLite database version " + DATABASE_VERSION);
+        try {
+            sqLiteDatabase.execSQL(IPlace.CREATE_PLACE_TABLE);
+        } catch (SQLiteException e) {
+            Log.e(TAG, "Cannot create table - " + e.getMessage());
+        }
+    }
 
+    @Override
+    public void onUpgrade(SQLiteDatabase sqLiteDatabase, int oldVersion, int newVersion) {
+        if (oldVersion != newVersion) {
+            Log.i(TAG, "Upgrade SQLite database from version " + oldVersion + " to version " + newVersion);
+            try {
+                sqLiteDatabase.execSQL(IPlace.DROP_PLACE_TABLE);
+                this.onCreate(sqLiteDatabase);
+            } catch (SQLiteException e) {
+                Log.e(TAG, "Cannot upgrade table - " + e.getMessage());
+            }
+        }
     }
 }

@@ -8,12 +8,14 @@ package ca.bcit.newwest;
 public class Place {
     private String mName;
     private String mLocation;
+    private String mCategory;
     private String mPostalCode;
     private double mX;
     private double mY;
 
-    public Place(String name, double x, double y) {
+    public Place(String name, String category, double x, double y) {
         this.mName = name;
+        this.mCategory = category;
         this.mX = x;
         this.mY = y;
     }
@@ -32,6 +34,14 @@ public class Place {
 
     public void setLocation(String location) {
         this.mLocation = location;
+    }
+
+    public String getCategory() {
+        return mCategory;
+    }
+
+    public void setCategory(String category) {
+        this.mCategory = category;
     }
 
     public String getPostalCode() {

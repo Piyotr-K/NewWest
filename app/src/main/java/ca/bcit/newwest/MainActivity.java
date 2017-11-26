@@ -46,14 +46,16 @@ public class MainActivity extends AppCompatActivity {
         protected Void doInBackground(Void... voids) {
             HttpHandler http = new HttpHandler();
             String jsonStr = http.makeServiceCall(NEIGHBOURHOOD_URL);
+            String jsonStr2 = http.makeServiceCall(PARK_RECREATION_URL);
             if (jsonStr == null) {
                 return null;
             }
 
             try {
-                JSONArray jsonArray = new JSONArray(jsonStr);
-                for (int i = 0; i < jsonArray.length(); i++) {
-                    JSONObject jsonObject = jsonArray.getJSONObject(i);
+                JSONArray neighbourJsonArray = new JSONArray(jsonStr);
+                JSONArray recreationJsonArray = new JSONArray(jsonStr2);
+                for (int i = 0; i < neighbourJsonArray.length(); i++) {
+                    JSONObject jsonObject = neighbourJsonArray.getJSONObject(i);
                     JSONArray array = jsonObject.getJSONObject("json_geometry").getJSONArray("coordinates").getJSONArray(0);
                     Neighbourhood neighbourhood = new Neighbourhood();
                     neighbourhood.setName(jsonObject.getString("NEIGH_NAME"));
@@ -63,6 +65,17 @@ public class MainActivity extends AppCompatActivity {
                     }
 
                     NeighbourhoodList.addNeighbourhood(neighbourhood);
+                }
+
+                for (int i = 0; i < recreationJsonArray.length(); i++) {
+                    JSONObject jsonObject = recreationJsonArray.getJSONObject(i);
+                    JSONArray array = jsonObject.getJSONObject("json_geometry").getJSONArray("coordinates").getJSONArray(0);
+                    Neighbourhood neighbourhood = new Neighbourhood();
+                    neighbourhood.setName(jsonObject.getString("NEIGH_NAME"));
+                    neighbourhood.setNeighNum(jsonObject.getString("NEIGHNUM"));
+                    for (int j = 0; j < array.length(); j++) {
+                        neighbourhood.addLatLng(array.getJSONArray(j).getDouble(0), array.getJSONArray(j).getDouble(1));
+                    }
                 }
 
             } catch (JSONException e) {

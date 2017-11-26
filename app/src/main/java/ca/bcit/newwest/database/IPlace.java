@@ -11,6 +11,7 @@ public interface IPlace {
 
     // place column names
     String PLACE_ID_COLUMN = "placeId";
+    String PLACE_OBJECT_ID_COLUMN = "objectId";
     String PLACE_NAME_COLUMN = "name";
     String PLACE_CATEGORY_COLUMN = "category";
     String PLACE_NEIGHBOURHOOD_COLUMN = "neighbourhood";
@@ -20,6 +21,7 @@ public interface IPlace {
     // create place table
     String CREATE_PLACE_TABLE = "CREATE TABLE " + PLACE_TABLE_NAME + "("
             + PLACE_ID_COLUMN + " INTEGER PRIMARY KEY AUTOINCREMENT, "
+            + PLACE_OBJECT_ID_COLUMN + " INTEGER, "
             + PLACE_NAME_COLUMN + " TEXT, "
             + PLACE_CATEGORY_COLUMN + " TEXT, "
             + PLACE_NEIGHBOURHOOD_COLUMN + " TEXT, "

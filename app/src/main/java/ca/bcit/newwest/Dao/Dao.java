@@ -68,7 +68,7 @@ public abstract class Dao {
             long result = sqLiteDatabase.update(tableName, values, columnName + WHERE, args);
             sqLiteDatabase.close();
             Log.d(TAG, "Update " + result + " row");
-            success = result > 0;
+            success = result == 0;
         } catch (SQLException e) {
             Log.e(TAG, e.getMessage());
         }

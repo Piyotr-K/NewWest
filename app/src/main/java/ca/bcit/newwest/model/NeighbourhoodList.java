@@ -1,4 +1,4 @@
-package ca.bcit.newwest;
+package ca.bcit.newwest.model;
 
 import java.util.ArrayList;
 import java.util.List;

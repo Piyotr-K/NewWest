@@ -1,4 +1,4 @@
-package ca.bcit.newwest;
+package ca.bcit.newwest.model;
 
 /**
  * @author Jason, Tzu Hsiang Chen
@@ -7,6 +7,7 @@ package ca.bcit.newwest;
 
 public class Place {
     private int mId;
+    private int mObjectId;
     private String mName;
     private String mCategory;
     private String mNeighbourhood;
@@ -56,6 +57,22 @@ public class Place {
      */
     public void setId(int id) {
         this.mId = id;
+    }
+
+    /**
+     * Get object Id
+     * @return an object Id
+     */
+    public int getObjectId() {
+        return mObjectId;
+    }
+
+    /**
+     * Set object Id
+     * @param objectId - an object Id
+     */
+    public void setObjectId(int objectId) {
+        this.mObjectId = objectId;
     }
 
     /**

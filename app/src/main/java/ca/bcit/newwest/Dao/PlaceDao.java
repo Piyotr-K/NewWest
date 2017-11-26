@@ -4,7 +4,7 @@ import android.content.ContentValues;
 import android.content.Context;
 import android.util.Log;
 
-import ca.bcit.newwest.Place;
+import ca.bcit.newwest.model.Place;
 import ca.bcit.newwest.database.IPlace;
 
 /**
@@ -18,7 +18,7 @@ import ca.bcit.newwest.database.IPlace;
 public class PlaceDao extends Dao {
     private static final String TAG = PlaceDao.class.getSimpleName();
 
-    protected PlaceDao(Context context) {
+    public PlaceDao(Context context) {
         super(context, IPlace.PLACE_TABLE_NAME);
     }
 
@@ -28,6 +28,7 @@ public class PlaceDao extends Dao {
      */
     public void insert(Place place) {
         ContentValues values = new ContentValues();
+        values.put(IPlace.PLACE_OBJECT_ID_COLUMN, place.getObjectId());
         values.put(IPlace.PLACE_NAME_COLUMN, place.getName());
         values.put(IPlace.PLACE_CATEGORY_COLUMN, place.getCategory());
         values.put(IPlace.PLACE_NEIGHBOURHOOD_COLUMN, place.getNeighbourhood());
@@ -44,6 +45,7 @@ public class PlaceDao extends Dao {
     public void update(Place place) {
         ContentValues values = new ContentValues();
         values.put(IPlace.PLACE_NAME_COLUMN, place.getName());
+        values.put(IPlace.PLACE_OBJECT_ID_COLUMN, place.getObjectId());
         values.put(IPlace.PLACE_CATEGORY_COLUMN, place.getCategory());
         values.put(IPlace.PLACE_NEIGHBOURHOOD_COLUMN, place.getNeighbourhood());
         values.put(IPlace.PLACE_COORDINATE_X_COLUMN, place.getX());
@@ -61,5 +63,20 @@ public class PlaceDao extends Dao {
         String[] args = {String.valueOf(placeId)};
         Log.i(TAG, "Deleting placeId " + placeId);
         super.delete(IPlace.PLACE_ID_COLUMN, args);
+    }
+
+    public void insertOrUpdate(Place place) {
+        ContentValues values = new ContentValues();
+        values.put(IPlace.PLACE_NAME_COLUMN, place.getName());
+        values.put(IPlace.PLACE_CATEGORY_COLUMN, place.getCategory());
+        values.put(IPlace.PLACE_NEIGHBOURHOOD_COLUMN, place.getNeighbourhood());
+        values.put(IPlace.PLACE_COORDINATE_X_COLUMN, place.getX());
+        values.put(IPlace.PLACE_COORDINATE_Y_COLUMN, place.getY());
+        String[] args = {String.valueOf(place.getObjectId())};
+        boolean success = super.update(IPlace.PLACE_OBJECT_ID_COLUMN, args, values);
+        if (!success) {
+            values.put(IPlace.PLACE_OBJECT_ID_COLUMN, place.getObjectId());
+            super.insert(values);
+        }
     }
 }

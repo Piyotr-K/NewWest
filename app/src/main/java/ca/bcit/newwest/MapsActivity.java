@@ -1,7 +1,8 @@
 package ca.bcit.newwest;
 
-import android.support.v4.app.FragmentActivity;
+import android.graphics.Color;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
@@ -9,8 +10,11 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
+import com.google.android.gms.maps.model.Polygon;
+import com.google.android.gms.maps.model.PolygonOptions;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
+    private static final String TAG = MapsActivity.class.getSimpleName();
 
     private GoogleMap mMap;
 
@@ -40,6 +44,25 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         // Add a marker in Sydney and move the camera
         LatLng newWest = new LatLng(49.2056288, -122.9113522);
         mMap.addMarker(new MarkerOptions().position(newWest).title("Marker in New West"));
-        mMap.moveCamera(CameraUpdateFactory.newLatLng(newWest));
+        for (int i = 0; i < NeighbourhoodList.getNeighbourhoods().size(); i++) {
+            Neighbourhood neighbourhood = NeighbourhoodList.getNeighbourhood(i);
+            PolygonOptions rectOptions = new PolygonOptions().addAll(neighbourhood.getLatLngs());
+            rectOptions.strokeColor(Color.RED);
+            Polygon polygon = mMap.addPolygon(rectOptions);
+            polygon.setStrokeWidth(2);
+            polygon.setClickable(true);
+            polygon.setTag(neighbourhood.getNeighNum());
+        }
+        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(newWest, 12.0f));
+        clickArea();
+    }
+
+    private void clickArea() {
+        mMap.setOnPolygonClickListener(new GoogleMap.OnPolygonClickListener() {
+            @Override
+            public void onPolygonClick(Polygon polygon) {
+                System.out.println(polygon.getTag());
+            }
+        });
     }
 }

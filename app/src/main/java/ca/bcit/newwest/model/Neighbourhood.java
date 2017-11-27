@@ -1,4 +1,4 @@
-package ca.bcit.newwest;
+package ca.bcit.newwest.model;
 
 import com.google.android.gms.maps.model.LatLng;
 

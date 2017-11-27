@@ -13,6 +13,9 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.model.Polygon;
 import com.google.android.gms.maps.model.PolygonOptions;
 
+import ca.bcit.newwest.model.Neighbourhood;
+import ca.bcit.newwest.model.NeighbourhoodList;
+
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
     private static final String TAG = MapsActivity.class.getSimpleName();
 

@@ -11,4 +11,5 @@
         <item>Brow of the Hill</item>
         <item>Downtown</item>
     </string-array>
+    <string name="loading_placeholder">Loading.</string>
 </resources>

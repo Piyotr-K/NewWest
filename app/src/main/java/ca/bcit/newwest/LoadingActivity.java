@@ -1,9 +1,13 @@
 package ca.bcit.newwest;
 
+import android.content.Context;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.Window;
+import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.android.gms.maps.model.LatLng;
 
@@ -24,12 +28,15 @@ public class LoadingActivity extends AppCompatActivity {
     private static final String PARKS_URL = "http://opendata.newwestcity.ca/downloads/parks/PARKS.json";
     private static final String SCHOOLS_URL = "http://opendata.newwestcity.ca/downloads/school-sites/SCHOOL_SITES.json";
     private static final String SKYTRAINS_STATION_URL = "http://opendata.newwestcity.ca/downloads/skytrain-stations-points/SKYTRAIN_STATIONS_PTS.json";
+    private TextView tv;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_loading);
-        //this.requestWindowFeature(Window.FEATURE_NO_TITLE);
+
+        tv = (TextView) findViewById(R.id.loading_text);
+
         new DataRequest().execute();
     }
 
@@ -37,11 +44,30 @@ public class LoadingActivity extends AppCompatActivity {
 
         @Override
         protected Void doInBackground(Void... voids) {
+            Thread thread1 = new Thread() {
+                @Override
+                public void run() {
+                    try {
+                        tv.setText(tv.getText() + ".");
+                        sleep(500);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+                }
+            };
+
             try {
                 pullNeighbourhoodsData();
+                thread1.run();
+
                 pullParksData();
+                thread1.run();
+
                 pullSchoolsData();
+                thread1.run();
+
                 pullSkytrainsData();
+                thread1.run();
             } catch (JSONException e) {
                 Log.e(TAG, "Json parsing error: " + e.getMessage());
             }

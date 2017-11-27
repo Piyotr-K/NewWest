@@ -6,4 +6,22 @@
     android:layout_height="match_parent"
     tools:context="ca.bcit.newwest.LoadingActivity">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/loading_screen" />
+
+    <TextView
+        android:id="@+id/loading_text"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:background="#7A000000"
+        android:text="@string/loading_placeholder"
+        android:padding="12dip"
+        android:textColor="#ffffffff"
+        android:textSize="50sp"/>
 </RelativeLayout>

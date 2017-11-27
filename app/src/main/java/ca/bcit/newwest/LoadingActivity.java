@@ -4,11 +4,14 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-import android.view.Window;
+
+import com.google.android.gms.maps.model.LatLng;
 
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
+
+import java.util.List;
 
 import ca.bcit.newwest.Dao.PlaceDao;
 import ca.bcit.newwest.model.Neighbourhood;
@@ -26,7 +29,7 @@ public class LoadingActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_loading);
-        this.requestWindowFeature(Window.FEATURE_NO_TITLE);
+        //this.requestWindowFeature(Window.FEATURE_NO_TITLE);
         new DataRequest().execute();
     }
 
@@ -76,15 +79,21 @@ public class LoadingActivity extends AppCompatActivity {
                 return;
             }
 
-            JSONArray neighbourJsonArray = new JSONArray(jsonStr);
-            for (int i = 0; i < neighbourJsonArray.length(); i++) {
-                JSONObject jsonObject = neighbourJsonArray.getJSONObject(i);
+            JSONArray parkJsonArray = new JSONArray(jsonStr);
+            for (int i = 0; i < parkJsonArray.length(); i++) {
+                JSONObject jsonObject = parkJsonArray.getJSONObject(i);
                 Place place = new Place();
                 place.setObjectId(jsonObject.getInt("OBJECTID"));
                 place.setName(jsonObject.getString("Name"));
                 place.setCategory("Park");
                 place.setNeighbourhood("Neighbourhood");
-                JSONArray points = jsonObject.getJSONObject("json_geometry").getJSONArray("coordinates").getJSONArray(0);
+                String type = jsonObject.getJSONObject("json_geometry").getString("type");
+                JSONArray points = jsonObject.getJSONObject("json_geometry").getJSONArray("coordinates");
+                if (type.equalsIgnoreCase("MultiPolygon")) {
+                    points = points.getJSONArray(0).getJSONArray(0);
+                } else {
+                    points = points.getJSONArray(0);
+                }
                 place.setX(points.getJSONArray(0).getDouble(0));
                 place.setY(points.getJSONArray(0).getDouble(1));
                 PlaceDao placeDao = new PlaceDao(LoadingActivity.this);
@@ -101,9 +110,9 @@ public class LoadingActivity extends AppCompatActivity {
                 return;
             }
 
-            JSONArray neighbourJsonArray = new JSONArray(jsonStr);
-            for (int i = 0; i < neighbourJsonArray.length(); i++) {
-                JSONObject jsonObject = neighbourJsonArray.getJSONObject(i);
+            JSONArray schoolJsonArray = new JSONArray(jsonStr);
+            for (int i = 0; i < schoolJsonArray.length(); i++) {
+                JSONObject jsonObject = schoolJsonArray.getJSONObject(i);
                 Place place = new Place();
                 place.setObjectId(jsonObject.getInt("OBJECTID"));
                 place.setName(jsonObject.getString("Name"));
@@ -127,20 +136,63 @@ public class LoadingActivity extends AppCompatActivity {
                 return;
             }
 
-            JSONArray neighbourJsonArray = new JSONArray(jsonStr);
-            for (int i = 0; i < neighbourJsonArray.length(); i++) {
-                JSONObject jsonObject = neighbourJsonArray.getJSONObject(i);
+            JSONArray skytrainJsonArray = new JSONArray(jsonStr);
+            for (int i = 0; i < skytrainJsonArray.length(); i++) {
+                JSONObject jsonObject = skytrainJsonArray.getJSONObject(i);
                 Place place = new Place();
                 place.setObjectId(jsonObject.getInt("ID"));
-                place.setName(jsonObject.getString("Name"));
+                place.setName(jsonObject.getString("NAME"));
                 place.setCategory("Skytrain");
                 //place.setNeighbourhood("Neighbourhood");
                 place.setX(jsonObject.getDouble("X"));
                 place.setY(jsonObject.getDouble("Y"));
+                for (Neighbourhood n : NeighbourhoodList.getNeighbourhoods()) {
+                    if (isPointInArea(place.getX(), place.getY(), n.getLatLngs())) {
+                        System.out.println(n.getName());
+                        place.setNeighbourhood(n.getName());
+                        break;
+                    }
+                }
                 PlaceDao placeDao = new PlaceDao(LoadingActivity.this);
                 placeDao.insertOrUpdate(place);
                 placeDao.close();
             }
+        }
+
+        private boolean isPointInArea(double x, double y, List<LatLng> vertices) {
+            int count = 0;
+            for (int i = 0; i < vertices.size() - 1; i++) {
+                if (rayCastIntersect(x, y, vertices.get(i), vertices.get(i + 1))) {
+                    count++;
+                }
+            }
+
+            return ((count % 2) == 1);
+        }
+
+        private boolean rayCastIntersect(double x, double y, LatLng vertA, LatLng vertB) {
+            double aY = vertA.latitude;
+            double bY = vertB.latitude;
+            double aX = vertA.longitude;
+            double bX = vertB.longitude;
+
+            if ((aY > y && bY > y) || (aY < y && bY < y)
+                    || (aX < x && bX < x)) {
+                return false; // a and b can't both be above or below pt.y, and a or
+                // b must be east of pt.x
+            }
+
+            double m = (aY - bY) / (aX - bX); // Rise over run
+            double bee = (-aX) * m + aY; // y = mx + b
+            double temp = (y - bee) / m; // algebra is neat!
+
+            return temp > x;
+        }
+
+        @Override
+        protected void onPostExecute(Void aVoid) {
+            super.onPostExecute(aVoid);
+            LoadingActivity.this.finish();
         }
     }
 }

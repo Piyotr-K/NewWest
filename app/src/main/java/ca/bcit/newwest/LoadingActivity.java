@@ -1,13 +1,10 @@
 package ca.bcit.newwest;
 
-import android.content.Context;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-import android.view.Window;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.google.android.gms.maps.model.LatLng;
 
@@ -44,30 +41,11 @@ public class LoadingActivity extends AppCompatActivity {
 
         @Override
         protected Void doInBackground(Void... voids) {
-            Thread thread1 = new Thread() {
-                @Override
-                public void run() {
-                    try {
-                        tv.setText(tv.getText() + ".");
-                        sleep(500);
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
-                }
-            };
-
             try {
                 pullNeighbourhoodsData();
-                thread1.run();
-
                 pullParksData();
-                thread1.run();
-
                 pullSchoolsData();
-                thread1.run();
-
                 pullSkytrainsData();
-                thread1.run();
             } catch (JSONException e) {
                 Log.e(TAG, "Json parsing error: " + e.getMessage());
             }

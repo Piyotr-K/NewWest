@@ -65,6 +65,10 @@ public class PlaceDao extends Dao {
         super.delete(IPlace.PLACE_ID_COLUMN, args);
     }
 
+    /**
+     * Insert or update a place
+     * @param place - place object
+     */
     public void insertOrUpdate(Place place) {
         ContentValues values = new ContentValues();
         values.put(IPlace.PLACE_NAME_COLUMN, place.getName());

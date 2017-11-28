@@ -18,6 +18,10 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     // Create helper instance
     private static DatabaseHelper instance;
 
+    /**
+     * DatabaseHelper constructor
+     * @param context - current context
+     */
     public DatabaseHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
     }
@@ -35,6 +39,10 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         return instance;
     }
 
+    /**
+     * Create tables in SQLite database
+     * @param sqLiteDatabase - SQLiteDatabase object
+     */
     @Override
     public void onCreate(SQLiteDatabase sqLiteDatabase) {
         Log.i(TAG, "Create SQLite database version " + DATABASE_VERSION);
@@ -45,6 +53,12 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         }
     }
 
+    /**
+     * Upgrade tables in SQLite database
+     * @param sqLiteDatabase - SQLiteDatabase object
+     * @param oldVersion - current version in the device
+     * @param newVersion - updated version
+     */
     @Override
     public void onUpgrade(SQLiteDatabase sqLiteDatabase, int oldVersion, int newVersion) {
         if (oldVersion != newVersion) {

@@ -22,4 +22,14 @@ public class NeighbourhoodList {
     public static Neighbourhood getNeighbourhood(int index) {
         return neighbourhoods.get(index);
     }
+
+    public static Neighbourhood getNeighbourhood(String name) {
+        for (int i = 0; i < neighbourhoods.size(); i++) {
+            if (neighbourhoods.get(i).getName().equalsIgnoreCase(name)) {
+                return neighbourhoods.get(i);
+            }
+        }
+
+        return null;
+    }
 }

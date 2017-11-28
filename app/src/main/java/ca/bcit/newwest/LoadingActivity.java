@@ -39,6 +39,13 @@ public class LoadingActivity extends AppCompatActivity {
 
     private class DataRequest extends AsyncTask<Void, Void, Void> {
 
+        private PlaceDao placeDao;
+
+        @Override
+        protected void onPreExecute() {
+            placeDao = new PlaceDao(LoadingActivity.this);
+        }
+
         @Override
         protected Void doInBackground(Void... voids) {
             try {
@@ -86,11 +93,14 @@ public class LoadingActivity extends AppCompatActivity {
             JSONArray parkJsonArray = new JSONArray(jsonStr);
             for (int i = 0; i < parkJsonArray.length(); i++) {
                 JSONObject jsonObject = parkJsonArray.getJSONObject(i);
+                if (jsonObject.getString("Name").equalsIgnoreCase("null")) {
+                    break;
+                }
                 Place place = new Place();
                 place.setObjectId(jsonObject.getInt("OBJECTID"));
                 place.setName(jsonObject.getString("Name"));
                 place.setCategory("Park");
-                place.setNeighbourhood("Neighbourhood");
+                place.setNeighbourhood(jsonObject.getString("Neighbourhood"));
                 String type = jsonObject.getJSONObject("json_geometry").getString("type");
                 JSONArray points = jsonObject.getJSONObject("json_geometry").getJSONArray("coordinates");
                 if (type.equalsIgnoreCase("MultiPolygon")) {
@@ -100,9 +110,7 @@ public class LoadingActivity extends AppCompatActivity {
                 }
                 place.setX(points.getJSONArray(0).getDouble(0));
                 place.setY(points.getJSONArray(0).getDouble(1));
-                PlaceDao placeDao = new PlaceDao(LoadingActivity.this);
                 placeDao.insertOrUpdate(place);
-                placeDao.close();
             }
         }
 
@@ -121,18 +129,15 @@ public class LoadingActivity extends AppCompatActivity {
                 place.setObjectId(jsonObject.getInt("OBJECTID"));
                 place.setName(jsonObject.getString("Name"));
                 place.setCategory("School");
-                place.setNeighbourhood("Neighbourhood");
+                place.setNeighbourhood(jsonObject.getString("Neighbourhood"));
                 JSONArray points = jsonObject.getJSONObject("json_geometry").getJSONArray("coordinates").getJSONArray(0);
                 place.setX(points.getJSONArray(0).getDouble(0));
                 place.setY(points.getJSONArray(0).getDouble(1));
-                PlaceDao placeDao = new PlaceDao(LoadingActivity.this);
                 placeDao.insertOrUpdate(place);
-                placeDao.close();
             }
         }
 
         private void pullSkytrainsData() throws JSONException {
-            // TODO: use Ray Casting Algorithm to find the neighbourhood
             HttpHandler http = new HttpHandler();
             String jsonStr = http.makeServiceCall(SKYTRAINS_STATION_URL);
 
@@ -147,19 +152,15 @@ public class LoadingActivity extends AppCompatActivity {
                 place.setObjectId(jsonObject.getInt("ID"));
                 place.setName(jsonObject.getString("NAME"));
                 place.setCategory("Skytrain");
-                //place.setNeighbourhood("Neighbourhood");
                 place.setX(jsonObject.getDouble("X"));
                 place.setY(jsonObject.getDouble("Y"));
                 for (Neighbourhood n : NeighbourhoodList.getNeighbourhoods()) {
                     if (isPointInArea(place.getX(), place.getY(), n.getLatLngs())) {
-                        System.out.println(n.getName());
                         place.setNeighbourhood(n.getName());
                         break;
                     }
                 }
-                PlaceDao placeDao = new PlaceDao(LoadingActivity.this);
                 placeDao.insertOrUpdate(place);
-                placeDao.close();
             }
         }
 
@@ -196,6 +197,7 @@ public class LoadingActivity extends AppCompatActivity {
         @Override
         protected void onPostExecute(Void aVoid) {
             super.onPostExecute(aVoid);
+            placeDao.close();
             LoadingActivity.this.finish();
         }
     }

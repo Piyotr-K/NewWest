@@ -2,14 +2,5 @@
     <string name="app_name">MoveWest</string>
     <string name="title_activity_maps">Map</string>
     <string name="title_activity_main">MainActivity</string>
-    <string-array name="testValues">
-        <item>Victory Heights</item>
-        <item>Glenbrooke South</item>
-        <item>Queensborough</item>
-        <item>Connaught Heights</item>
-        <item>Westend</item>
-        <item>Brow of the Hill</item>
-        <item>Downtown</item>
-    </string-array>
     <string name="loading_placeholder">Loading…</string>
 </resources>

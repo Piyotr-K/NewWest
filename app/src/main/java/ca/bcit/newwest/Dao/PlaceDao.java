@@ -2,10 +2,16 @@ package ca.bcit.newwest.Dao;
 
 import android.content.ContentValues;
 import android.content.Context;
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
+import android.database.sqlite.SQLiteException;
 import android.util.Log;
 
-import ca.bcit.newwest.model.Place;
+import java.util.ArrayList;
+import java.util.List;
+
 import ca.bcit.newwest.database.IPlace;
+import ca.bcit.newwest.model.Place;
 
 /**
  * PlaceDao class is a data access object class which
@@ -82,5 +88,89 @@ public class PlaceDao extends Dao {
             values.put(IPlace.PLACE_OBJECT_ID_COLUMN, place.getObjectId());
             super.insert(values);
         }
+    }
+
+    public List<Place> findAllPlaces() {
+        List<Place> places = null;
+        try {
+            SQLiteDatabase db = dbHelper.getReadableDatabase();
+            Cursor cursor = db.rawQuery("SELECT DISTINCT * FROM " + IPlace.PLACE_TABLE_NAME + ";", null);
+            int count = cursor.getCount();
+            Log.d(TAG, "Found places " + count + " rows");
+            if (count > 0 && cursor.moveToFirst()) {
+                places = new ArrayList<>(count);
+                do {
+                    Place place = new Place();
+                    place.setId(cursor.getInt(0));
+                    place.setObjectId(cursor.getInt(1));
+                    place.setName(cursor.getString(2));
+                    place.setCategory(cursor.getString(3));
+                    place.setNeighbourhood(cursor.getString(4));
+                    place.setX(cursor.getDouble(5));
+                    place.setY(cursor.getDouble(6));
+                    places.add(place);
+                } while (cursor.moveToNext());
+            }
+            cursor.close();
+            db.close();
+        } catch (SQLiteException e) {
+            Log.e(TAG, e.getMessage());
+        }
+
+        return places;
+    }
+
+    public List<String> findCategoryByNeigh(String name) {
+        List<String> categories = null;
+        try {
+            SQLiteDatabase db = dbHelper.getReadableDatabase();
+            Cursor cursor = db.rawQuery("SELECT DISTINCT " + IPlace.PLACE_CATEGORY_COLUMN + " FROM " + IPlace.PLACE_TABLE_NAME
+                    + " WHERE " + IPlace.PLACE_NEIGHBOURHOOD_COLUMN + " = '" + name + "';", null);
+            int count = cursor.getCount();
+            Log.d(TAG, "Found places " + count + " rows");
+            if (count > 0 && cursor.moveToFirst()) {
+                categories = new ArrayList<>(count);
+                do {
+                    categories.add(cursor.getString(0));
+                } while (cursor.moveToNext());
+            }
+            cursor.close();
+            db.close();
+        } catch (SQLiteException e) {
+            Log.e(TAG, e.getMessage());
+        }
+
+        return categories;
+    }
+
+    public List<Place> findPlacesByNeigh(String name) {
+        List<Place> places = null;
+        try {
+            SQLiteDatabase db = dbHelper.getReadableDatabase();
+            Cursor cursor = db.rawQuery("SELECT DISTINCT * FROM " + IPlace.PLACE_TABLE_NAME
+                    + " WHERE " + IPlace.PLACE_NEIGHBOURHOOD_COLUMN + " = '" + name + "';", null);
+            int count = cursor.getCount();
+            Log.d(TAG, "Found places " + count + " rows");
+            if (count > 0 && cursor.moveToFirst()) {
+                places = new ArrayList<>(count);
+                do {
+                    Place place = new Place();
+                    place.setId(cursor.getInt(0));
+                    place.setObjectId(cursor.getInt(1));
+                    place.setName(cursor.getString(2));
+                    place.setCategory(cursor.getString(3));
+                    place.setNeighbourhood(cursor.getString(4));
+                    place.setX(cursor.getDouble(5));
+                    place.setY(cursor.getDouble(6));
+                    places.add(place);
+                } while (cursor.moveToNext());
+            }
+            cursor.close();
+            db.close();
+        } catch (SQLiteException e) {
+            Log.e(TAG, e.getMessage());
+        }
+
+        return places;
     }
 }

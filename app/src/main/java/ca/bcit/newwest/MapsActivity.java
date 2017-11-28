@@ -8,6 +8,7 @@ import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.model.Polygon;
@@ -79,7 +80,14 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         List<Place> places = placeDao.findAllPlaces();
         for (Place place : places) {
             LatLng point = new LatLng(place.getY(), place.getX());
-            mMap.addMarker(new MarkerOptions().position(point).title(place.getName()));
+            if (place.getCategory().equalsIgnoreCase("Park")) {
+                mMap.addMarker(new MarkerOptions().position(point).title(place.getName()).icon(BitmapDescriptorFactory.fromResource(R.drawable.park)));
+            } else if (place.getCategory().equalsIgnoreCase("School")) {
+                mMap.addMarker(new MarkerOptions().position(point).title(place.getName()).icon(BitmapDescriptorFactory.fromResource(R.drawable.school)));
+            } else if (place.getCategory().equalsIgnoreCase("Skytrain")) {
+                mMap.addMarker(new MarkerOptions().position(point).title(place.getName()).icon(BitmapDescriptorFactory.fromResource(R.drawable.skytrain)));
+            }
+
         }
         // Add a marker in New Westminster and move the camera
         LatLng newWest = new LatLng(49.2056288, -122.9113522);
@@ -105,13 +113,25 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         if (category.equalsIgnoreCase("Show Area")) {
             for (Place place : places) {
                 LatLng point = new LatLng(place.getY(), place.getX());
-                mMap.addMarker(new MarkerOptions().position(point).title(place.getName()));
+                if (place.getCategory().equalsIgnoreCase("Park")) {
+                    mMap.addMarker(new MarkerOptions().position(point).title(place.getName()).icon(BitmapDescriptorFactory.fromResource(R.drawable.park)));
+                } else if (place.getCategory().equalsIgnoreCase("School")) {
+                    mMap.addMarker(new MarkerOptions().position(point).title(place.getName()).icon(BitmapDescriptorFactory.fromResource(R.drawable.school)));
+                } else if (place.getCategory().equalsIgnoreCase("Skytrain")) {
+                    mMap.addMarker(new MarkerOptions().position(point).title(place.getName()).icon(BitmapDescriptorFactory.fromResource(R.drawable.skytrain)));
+                }
             }
         } else {
             for (Place place : places) {
                 if (place.getCategory().equalsIgnoreCase(category)) {
                     LatLng point = new LatLng(place.getY(), place.getX());
-                    mMap.addMarker(new MarkerOptions().position(point).title(place.getName()));
+                    if (place.getCategory().equalsIgnoreCase("Park")) {
+                        mMap.addMarker(new MarkerOptions().position(point).title(place.getName()).icon(BitmapDescriptorFactory.fromResource(R.drawable.park)));
+                    } else if (place.getCategory().equalsIgnoreCase("School")) {
+                        mMap.addMarker(new MarkerOptions().position(point).title(place.getName()).icon(BitmapDescriptorFactory.fromResource(R.drawable.school)));
+                    } else if (place.getCategory().equalsIgnoreCase("Skytrain")) {
+                        mMap.addMarker(new MarkerOptions().position(point).title(place.getName()).icon(BitmapDescriptorFactory.fromResource(R.drawable.skytrain)));
+                    }
                 }
             }
         }

@@ -1,11 +1,14 @@
 package ca.bcit.newwest.model;
 
+import com.google.android.gms.maps.model.LatLng;
+import com.google.maps.android.clustering.ClusterItem;
+
 /**
  * @author Jason, Tzu Hsiang Chen
  * @since November 23, 2017
  */
 
-public class Place {
+public class Place implements ClusterItem {
     private int mId;
     private int mObjectId;
     private String mName;
@@ -153,5 +156,20 @@ public class Place {
      */
     public void setY(double y) {
         this.mY = y;
+    }
+
+    @Override
+    public LatLng getPosition() {
+        return new LatLng(mY, mX);
+    }
+
+    @Override
+    public String getTitle() {
+        return mName;
+    }
+
+    @Override
+    public String getSnippet() {
+        return null;
     }
 }

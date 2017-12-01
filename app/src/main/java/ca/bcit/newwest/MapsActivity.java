@@ -13,6 +13,7 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.model.Polygon;
 import com.google.android.gms.maps.model.PolygonOptions;
+import com.google.maps.android.clustering.ClusterManager;
 
 import java.util.List;
 
@@ -25,6 +26,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     private static final String TAG = MapsActivity.class.getSimpleName();
 
     private GoogleMap mMap;
+    private ClusterManager<Place> mClusterManager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -78,6 +80,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         }
         PlaceDao placeDao = new PlaceDao(this);
         List<Place> places = placeDao.findAllPlaces();
+/*
         for (Place place : places) {
             LatLng point = new LatLng(place.getY(), place.getX());
             if (place.getCategory().equalsIgnoreCase("Park")) {
@@ -88,7 +91,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 mMap.addMarker(new MarkerOptions().position(point).title(place.getName()).icon(BitmapDescriptorFactory.fromResource(R.drawable.skytrain)));
             }
 
-        }
+        }*/
+        setCluster(places);
         // Add a marker in New Westminster and move the camera
         LatLng newWest = new LatLng(49.2056288, -122.9113522);
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(newWest, 12.0f));
@@ -135,5 +139,14 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 }
             }
         }
+    }
+
+    private void setCluster(List<Place> places) {
+        mClusterManager = new ClusterManager<>(this, mMap);
+        mMap.setOnCameraIdleListener(mClusterManager);
+        mMap.setOnMarkerClickListener(mClusterManager);
+        mMap.setOnInfoWindowClickListener(mClusterManager);
+        mClusterManager.addItems(places);
+        mClusterManager.cluster();
     }
 }
